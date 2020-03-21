@@ -7,9 +7,9 @@ export default `
 </div>
 
 <div class="row">
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-12 col-sm">
         <div class="row card">
-            <div class="title blue-bg">
+            <div class="title blue-bg col-xs-12 col-sm-4">
                 <div class="col-xs-12">
                     <h3>World Wide</h3>
                     <span>Country</span>
@@ -47,7 +47,7 @@ export default `
 
         <div class="col-xs-12 col-sm-6">
             <div class="row card">
-                <div class="title red-bg center-xs col-xs col-sm-4">
+                <div class="title red-bg center-xs col-xs-12 col-sm-4">
                     <!-- <div class="col-xs-12"> -->
                         <h3>{{$country.location}}</h3>
                         <span>State</span>
