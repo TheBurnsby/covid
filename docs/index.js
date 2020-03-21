@@ -1,1 +1,1 @@
-Oxe.setup({listener:{},fetcher:{responseType:"json"},component:{},router:{routes:["index"]}}).then(()=>{window.document.body.style.opacity=1}).catch(console.error);
+Oxe.setup({listener:{},fetcher:{responseType:"json"},component:{},router:{routes:["index","countries"]}}).then(()=>{window.document.body.style.opacity=1}).catch(console.error);

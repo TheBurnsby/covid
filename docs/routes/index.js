@@ -2,6 +2,8 @@ import template from '../templates/index.js';
 
 const model = {
     increase: '',
+    start: '',
+    end: '',
     states: [],
     usDaily: [],
     usCurrent: {}
@@ -12,24 +14,23 @@ const attached = function () {
 
     var x = [];
     var y = [];
+    //
+    // Oxe.fetcher.get({ url: 'https://covid.ourworldindata.org/data/ecdc/full_data.csv' }).then(function (data) {
+    // });
 
     Promise.all([
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/states' }).then(function (data) {
             for (var state of data.body) {
-                if (!state.death) {
-                    state.death = 0;
-                }
+                if (!state.death) state.death = 0;
+                if (!state.pending) state.pending = 0;
+                if (!state.negative) state.negative = 0;
+                if (!state.total) state.total = 0;
             }
             model.states = data.body;
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
-            var position = data.body.length;
-
-            var last = data.body[position - 1];
-            var secondLast = data.body[position - 2];
-
-            model.increase = last.positive - secondLast.positive;
+            model.usDaily = data.body;
 
             var xresult = [];
             var yresult = [];
@@ -57,7 +58,7 @@ const attached = function () {
             var data = [{ x, y }];
 
             Plotly.newPlot( graph, data, layout, {displayModeBar: false, editable: false, scrollZoom: false});
-            model.usDaily = data.body;
+
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
@@ -67,7 +68,18 @@ const attached = function () {
 
             model.usCurrent = result;
         }),
-    ]);
+    ]).then(function () {
+        
+        var position = model.usDaily.length;
+        var last = model.usDaily[position - 1];
+        var secondLast = model.usDaily[position - 2];
+
+        model.increase = last.positive - secondLast.positive;
+
+        model.start = secondLast.date.toString().slice(4, 6) + '-' + secondLast.date.toString().slice(6, 8);
+        model.end = last.date.toString().slice(4, 6) + '-' + last.date.toString().slice(6, 8);
+
+    });
 
 }
 

@@ -16,6 +16,7 @@ Oxe.setup({
     router: {
         routes: [
             'index',
+            'countries'
 
         ]
     }
