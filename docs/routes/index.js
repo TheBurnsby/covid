@@ -6,7 +6,8 @@ const model = {
     end: '',
     states: [],
     usDaily: [],
-    usCurrent: {}
+    usCurrent: {},
+    sources: {}
 }
 
 const attached = function () {
@@ -69,7 +70,7 @@ const attached = function () {
             model.usCurrent = result;
         }),
     ]).then(function () {
-        
+
         var position = model.usDaily.length;
         var last = model.usDaily[position - 1];
         var secondLast = model.usDaily[position - 2];
@@ -83,9 +84,33 @@ const attached = function () {
 
 }
 
+const sources = function () {
+    var model = this.model;
+    Oxe.fetcher.get({ url: 'https://covidtracking.com/api/urls' }).then(function (data) {
+        model.sources = data.body;
+
+        var sources = document.querySelector('.sources');
+        for (var source of data.body) {
+            var anchor = document.createElement('a');
+            var li = document.createElement('li');
+
+            anchor.setAttribute('href', source.url);
+            anchor.setAttribute('target', '_blank');
+            anchor.innerText = source.url;
+            //
+            // var row = document.createElement('div');
+            // row.setAttribute('class', 'row');
+
+            li.appendChild(anchor);
+            sources.appendChild(li);
+
+        }
+    });
+}
+
 export default {
     title: 'Dashboard',
     name: 'r-index',
     attached, template, model,
-    methods: {}
+    methods: { sources }
 };

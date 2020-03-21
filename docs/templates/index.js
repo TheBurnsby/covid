@@ -112,4 +112,20 @@ export default `
             </div>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-xs">
+            <h3>Source</h3>
+            <p><a href="https://covidtracking.com/">COVID Tracking Project</a></p>
+            <button type="button" class="button" o-on-click="sources">See Sources</button>
+        </div>
+        <div class="col-xs">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs">
+            <ul class="sources"></ul>
+        </div>
+    </div>
 `
