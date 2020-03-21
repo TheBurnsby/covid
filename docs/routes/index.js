@@ -10,6 +10,9 @@ const model = {
 const attached = function () {
     var model = this.model;
 
+    var x = [];
+    var y = [];
+
     Promise.all([
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/states' }).then(function (data) {
             for (var state of data.body) {
@@ -27,6 +30,32 @@ const attached = function () {
             var secondLast = data.body[position - 2];
 
             model.increase = last.positive - secondLast.positive;
+
+            var xresult = [];
+            var yresult = [];
+
+            for (var day of data.body) {
+                yresult.push(day.positive);
+
+                var year = day.date.toString().slice(0,4);
+                var month = day.date.toString().slice(4, 6);
+                var day = day.date.toString().slice(6, 8);
+                var date = year + '-' + month + '-' + day;
+                xresult.push(date);
+            }
+
+            x = xresult;
+            y = yresult;
+
+            var graph = document.getElementById('graph');
+            var layout = {
+                showlegend: false
+            }
+
+            var data = [{ x, y }];
+
+            Plotly.newPlot( graph, data, layout, {displayModeBar: false});
+            model.usDaily = data.body;
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
@@ -36,8 +65,6 @@ const attached = function () {
 
             model.usCurrent = result;
         }),
-
-
     ]);
 
 }

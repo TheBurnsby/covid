@@ -5,11 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "flexboxgrid": "^6.3.1",
-    "oxe": "^5.2.9"
+    "oxe": "^5.2.9",
+    "plotly.js-dist": "^1.52.3"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "muleify -ss src"
+    "test": "muleify -pw src docs"
   },
   "repository": {
     "type": "git",
