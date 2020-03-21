@@ -27,7 +27,7 @@ export default `
                         </div>
                         <div class="col-xs-12 col-sm">
                             <h3 style="color: crimson">+ {{increase}}</h3>
-                            <span>daily</span>
+                            <span>new cases</span>
                         </div>
                     </div>
                 </div>
