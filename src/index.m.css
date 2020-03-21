@@ -24,6 +24,7 @@ body, html {
 main {
     margin: auto;
     max-width: 1400px;
+    padding: 3vw;
 }
 .card {
     min-height: 200px;
