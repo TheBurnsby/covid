@@ -1,5 +1,14 @@
 * {
     font-family: 'Baloo 2', cursive;
+    margin: 0;
+	padding: 0;
+	outline: none;
+    box-sizing: border-box;
+    transition:
+            150ms ease color,
+            150ms ease box-shadow,
+            150ms ease border-color,
+            150ms ease background-color;
 }
 
 h3 {
@@ -9,7 +18,9 @@ h3 {
 body {
     background-color: whitesmoke;
 }
-
+body, html {
+	overflow-x: hidden;
+}
 main {
     margin: auto;
     max-width: 1400px;

@@ -49,12 +49,14 @@ const attached = function () {
 
             var graph = document.getElementById('graph');
             var layout = {
+                yaxis: { fixedrange: true },
+                xaxis: { fixedrange: true },
                 showlegend: false
             }
 
             var data = [{ x, y }];
 
-            Plotly.newPlot( graph, data, layout, {displayModeBar: false});
+            Plotly.newPlot( graph, data, layout, {displayModeBar: false, editable: false, scrollZoom: false});
             model.usDaily = data.body;
         }),
 
