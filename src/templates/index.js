@@ -3,7 +3,7 @@ export default `
     <div class="row">
         <div class="col-xs">
             <h1>Total in USA</h1>
-            <!-- <a href="/countries">All Countries</a> -->
+            <a href="/countries">All Countries</a>
         </div>
     </div>
 
@@ -114,13 +114,11 @@ export default `
     </div>
 
     <div class="row">
-        <div class="col-xs">
-            <h3>Source</h3>
-            <p><a href="https://covidtracking.com/">COVID Tracking Project</a></p>
-            <button type="button" class="button" o-on-click="sources">See Sources</button>
-        </div>
-        <div class="col-xs">
-        </div>
+        <h3>Source</h3>
+        <button type="button" class="button" o-on-click="sources">See Sources</button>
+    </div>
+    <div class="row">
+        <p><a href="https://covidtracking.com/">COVID Tracking Project</a></p>
     </div>
 
     <div class="row">

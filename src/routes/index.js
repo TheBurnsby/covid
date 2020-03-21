@@ -31,6 +31,7 @@ const attached = function () {
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
+            console.log(data);
             model.usDaily = data.body;
 
             var xresult = [];
