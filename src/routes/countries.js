@@ -1,70 +1,114 @@
-import countries from '../assets/countries.js';
-import template from '../templates/countries.js';
+import template from '../templates/index.js';
 
 const model = {
-    world: {},
-    countries: {},
-    currentByCountry: []
+    increase: '',
+    start: '',
+    end: '',
+    states: [],
+    usDaily: [],
+    usCurrent: {},
+    sources: {}
 }
 
 const attached = function () {
-    var location;
+    var model = this.model;
 
-    var resultCountries = {};
-    var resultCurrent = [];
+    var x = [];
+    var y = [];
 
-    for (var country of countries) {
-        // location = country.location;
-        if (location && location !== country.location) {
-            if (country.location === 'World') {
-                this.model.world = country;
-                continue;
-            };
+    Promise.all([
+        Oxe.fetcher.get({ url: 'https://covidtracking.com/api/states' }).then(function (data) {
+            for (var state of data.body) {
+                if (!state.death) state.death = 0;
+                if (!state.pending) state.pending = 0;
+                if (!state.negative) state.negative = 0;
+                if (!state.total) state.total = 0;
+            }
+            model.states = data.body;
+        }),
 
-            var data = countries.filter(function (each) {
-                return each.location === location;
-            });
-            resultCurrent.push(data[data.length - 1]);
+        Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
+            console.log(data);
+            model.usDaily = data.body;
 
-            resultCountries[location] = data;
-        }
+            var xresult = [];
+            var yresult = [];
 
-        location = country.location;
-    }
+            for (var day of data.body) {
+                yresult.push(day.positive);
 
-    var xresult = [];
-    var yresult = [];
-    var world = countries.filter(function (each) {
-        return each.location === "World";
+                var year = day.date.toString().slice(0,4);
+                var month = day.date.toString().slice(4, 6);
+                var day = day.date.toString().slice(6, 8);
+                var date = year + '-' + month + '-' + day;
+                xresult.push(date);
+            }
+
+            x = xresult;
+            y = yresult;
+
+            var graph = document.getElementById('graph');
+            var layout = {
+                yaxis: { fixedrange: true },
+                xaxis: { fixedrange: true },
+                showlegend: false
+            }
+
+            var data = [{ x, y }];
+
+            Plotly.newPlot( graph, data, layout, {displayModeBar: false, editable: false, scrollZoom: false});
+
+        }),
+
+        Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
+
+            var result = {};
+            for (var current of data.body) result = data.body[0];
+
+            model.usCurrent = result;
+        }),
+    ]).then(function () {
+
+        var position = model.usDaily.length;
+        var last = model.usDaily[position - 1];
+        var secondLast = model.usDaily[position - 2];
+
+        model.increase = last.positive - secondLast.positive;
+
+        model.start = secondLast.date.toString().slice(4, 6) + '-' + secondLast.date.toString().slice(6, 8);
+        model.end = last.date.toString().slice(4, 6) + '-' + last.date.toString().slice(6, 8);
+
     });
-    // console.log(world);
-    for (var day of world) {
-        yresult.push(day.total_cases);
-        xresult.push(day.date);
-    }
-    
-    var x = xresult;
-    var y = yresult;
 
-    var graph = document.getElementById('graph');
-    var layout = {
-        yaxis: { fixedrange: true },
-        xaxis: { fixedrange: true },
-        showlegend: false
-    }
+}
 
-    var data = [{ x, y }];
+const sources = function () {
+    var model = this.model;
+    Oxe.fetcher.get({ url: 'https://covidtracking.com/api/urls' }).then(function (data) {
+        model.sources = data.body;
 
-    Plotly.newPlot( graph, data, layout, {displayModeBar: false, editable: false, scrollZoom: false});
+        var sources = document.querySelector('.sources');
+        for (var source of data.body) {
+            var anchor = document.createElement('a');
+            var li = document.createElement('li');
 
-    this.model.countries = resultCountries;
-    this.model.currentByCountry = resultCurrent;
-    // console.log(resultCountries);
+            anchor.setAttribute('href', source.url);
+            anchor.setAttribute('target', '_blank');
+            anchor.innerText = source.url;
+            //
+            // var row = document.createElement('div');
+            // row.setAttribute('class', 'row');
+
+            li.appendChild(anchor);
+            sources.appendChild(li);
+
+        }
+    });
 }
 
 export default {
-    title: 'Dashboard - Countries',
-    name: 'r-countries',
+    title: 'Dashboard',
+    name: 'r-index',
     attached, template, model,
-    methods: {}
+    methods: { sources }
 };

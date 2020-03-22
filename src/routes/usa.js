@@ -1,4 +1,5 @@
-import template from '../templates/index.js';
+import Graph from '../modules/graph.js';
+import template from '../templates/usa.js';
 
 const model = {
     increase: '',
@@ -28,35 +29,22 @@ const attached = function () {
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
-            console.log(data);
             model.usDaily = data.body;
 
-            var xresult = [];
-            var yresult = [];
+            var dates = [];
+            var cases = [];
 
             for (var day of data.body) {
-                yresult.push(day.positive);
+                cases.push(day.positive);
 
                 var year = day.date.toString().slice(0,4);
                 var month = day.date.toString().slice(4, 6);
                 var day = day.date.toString().slice(6, 8);
                 var date = year + '-' + month + '-' + day;
-                xresult.push(date);
+                dates.push(date);
             }
 
-            x = xresult;
-            y = yresult;
-
-            var graph = document.getElementById('graph');
-            var layout = {
-                yaxis: { fixedrange: true },
-                xaxis: { fixedrange: true },
-                showlegend: false
-            }
-
-            var data = [{ x, y }];
-
-            Plotly.newPlot( graph, data, layout, {displayModeBar: false, editable: false, scrollZoom: false});
+            Graph(cases, dates);
 
         }),
 
@@ -106,9 +94,13 @@ const sources = function () {
     });
 }
 
+const state = function (state) {
+    Oxe.router.route('./state/' + '?state=' + state.state);
+}
+
 export default {
     title: 'Dashboard',
     name: 'r-index',
     attached, template, model,
-    methods: { sources }
+    methods: { sources, state }
 };
