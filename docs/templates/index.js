@@ -50,7 +50,7 @@ export default `
                 <div class="title red-bg center-xs col-xs-12 col-sm-4">
                     <!-- <div class="col-xs-12"> -->
                         <h3>{{$country.location}}</h3>
-                        <span>State</span>
+                        <span>Country</span>
                     <!-- </div> -->
                 </div>
                 <div class="content col-xs">
