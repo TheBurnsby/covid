@@ -38,13 +38,16 @@ export default `
     </div>
 </div>
     <div class="row">
-        <div class="col-xs">
+        <div class="col-xs-12 col-sm-4">
             <h1>Totals by Country</h1>
             <p>Updates daily at 12p PST</p>
         </div>
+        <div class="col-xs-12 col-sm-8">
+            <h3>Search Active Countries</h3>
+            <input type="text" o-on-keyup="search">
+        </div>
     </div>
     <div class="row" o-each-country="currentByCountry">
-
         <div class="col-xs-12 col-sm-6">
             <div class="row card">
                 <div class="title red-bg center-xs col-xs-12 col-sm-4">

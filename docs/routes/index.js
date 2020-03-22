@@ -2,7 +2,10 @@ import Graph from '../modules/graph.js';
 import countries from '../assets/countries.js';
 import template from '../templates/index.js';
 
+let CurrentCountries;
+
 const model = {
+    search: '',
     world: {},
     countries: {},
     currentByCountry: []
@@ -41,13 +44,26 @@ const attached = function () {
 
     Graph(cases, dates);
 
+    CurrentCountries = resultCurrent;
     this.model.countries = resultCountries;
-    this.model.currentByCountry = resultCurrent;
+    this.model.currentByCountry = CurrentCountries;
+}
+
+const search = function (data) {
+    var search = data.target.value;
+
+    var result = CurrentCountries.filter(function (country) {
+        return country.location.toLowerCase().includes(search.toLowerCase());
+    });
+
+    this.model.currentByCountry = result;
+
+
 }
 
 export default {
     title: 'Dashboard - Countries',
     name: 'r-countries',
     attached, template, model,
-    methods: {}
+    methods: { search }
 };
