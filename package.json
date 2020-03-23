@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "muleify -pw src docs",
+    "test": "muleify -pw src docs -ss docs",
     "s" : "http-server ./docs --cors -c-1"
   },
   "repository": {
