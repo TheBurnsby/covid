@@ -30,7 +30,7 @@ const attached = function () {
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
             model.usDaily = data.body;
-
+            console.log(data);
             var dates = [];
             var cases = [];
 
@@ -49,17 +49,14 @@ const attached = function () {
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
-
             var result = {};
             for (var current of data.body) result = data.body[0];
 
             model.usCurrent = result;
         }),
-    ]).then(function () {
-
-        var position = model.usDaily.length;
-        var last = model.usDaily[position - 1];
-        var secondLast = model.usDaily[position - 2];
+    ]).then(function (data) {
+        var last = model.usDaily[0];
+        var secondLast = model.usDaily[1];
 
         model.increase = last.positive - secondLast.positive;
 

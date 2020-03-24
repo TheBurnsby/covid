@@ -46,10 +46,6 @@ export default `
                         <h4>{{usCurrent.negative}}</h4>
                         <span>negative</span>
                     </div>
-                    <div class="col-xs">
-                        <h4>{{usCurrent.pending}}</h4>
-                        <span>pending</span>
-                    </div>
                 </div>
             </div>
         </div>
