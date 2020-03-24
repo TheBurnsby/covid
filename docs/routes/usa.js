@@ -29,23 +29,25 @@ const attached = function () {
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
+            data.body.reverse()
             model.usDaily = data.body;
-            console.log(data);
             var dates = [];
-            var cases = [];
+            var cases = { total: [], negative: [], cases: [] }
 
             for (var day of data.body) {
-                cases.push(day.positive);
+                cases.cases.push(day.positive);
+                cases.negative.push(day.negative);
+                cases.total.push(day.total);
 
                 var year = day.date.toString().slice(0,4);
                 var month = day.date.toString().slice(4, 6);
                 var day = day.date.toString().slice(6, 8);
                 var date = year + '-' + month + '-' + day;
+
                 dates.push(date);
             }
 
-            Graph(cases, dates);
-
+            Graph('USA Testing Results', cases, dates);
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
@@ -53,10 +55,13 @@ const attached = function () {
             for (var current of data.body) result = data.body[0];
 
             model.usCurrent = result;
-        }),
+        })
+
     ]).then(function (data) {
-        var last = model.usDaily[0];
-        var secondLast = model.usDaily[1];
+
+        var position = model.usDaily.length;
+        var last = model.usDaily[position - 1];
+        var secondLast = model.usDaily[position - 2];
 
         model.increase = last.positive - secondLast.positive;
 

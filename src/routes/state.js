@@ -17,10 +17,11 @@ const attached = function () {
 
     Promise.all([
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/states/daily?state=' + state }).then(function (data) {
+            data.body.reverse();
             var stateByDay = data.body;
-
+            
             var dates = [];
-            var cases = [];
+            var cases = { total: [], negative: [], cases: [] };
 
             for (var stateDay of stateByDay) {
                 if (!stateDay.death) stateDay.death = 0;
@@ -35,17 +36,20 @@ const attached = function () {
                 var date = year + '-' + month + '-' + day;
 
                 dates.push(date);
-                cases.push(stateDay.positive);
+                cases.total.push(stateDay.total);
+                cases.cases.push(stateDay.positive);
+                cases.negative.push(stateDay.negative);
             }
 
-            model.state = stateByDay[0];
+            model.state = stateByDay[stateByDay.length - 1];
             model.stateByDay = stateByDay;
 
-            Graph(cases, dates);
+            var title = model.state.state + ' Testing Results';
+            Graph(title, cases, dates);
 
             var position = model.stateByDay.length;
-            var last = model.stateByDay[0];
-            var secondLast = model.stateByDay[1];
+            var last = model.stateByDay[position - 1];
+            var secondLast = model.stateByDay[position - 2];
 
             model.increase = last.positive - secondLast.positive;
 
@@ -60,7 +64,6 @@ const attached = function () {
             }
 
         })
-
 
     ]);
 

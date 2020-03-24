@@ -1,23 +1,50 @@
-export default function (cases, dates) {
-    var xresult = [];
-    var yresult = [];
+export default function (title, cases, dates) {
+    var datasets = [];
 
-    for (var i = 0; i < dates.length; i++) {
-        yresult.push(cases[i]);
-        xresult.push(dates[i]);
+    if (cases.total.length) {
+        var dataset = {
+            name: "Total Tests", type: "line",
+            values: cases.total
+        }
+
+        datasets.push(dataset);
+    }
+    if (cases.negative.length) {
+        var dataset = {
+            name: "Total Negative", type: "line",
+            values: cases.negative
+        }
+
+        datasets.push(dataset);
+    }
+    if (cases.cases.length) {
+        var dataset = {
+            name: "Total Cases", type: "line",
+            values: cases.cases
+        }
+
+        datasets.push(dataset);
     }
 
-    var x = xresult;
-    var y = yresult;
-
-    var graph = document.getElementById('graph');
-    var layout = {
-        yaxis: { fixedrange: true },
-        xaxis: { fixedrange: true },
-        showlegend: false
-    }
-
-    var data = [{ x, y }];
-
-    return Plotly.newPlot( graph, data, layout, {displayModeBar: false, editable: false, scrollZoom: false});
+    var graphData = {
+        labels: dates,
+        datasets
+    };
+    
+    return new frappe.Chart("#graph", {
+        title,
+        data: graphData,
+        type: 'line',
+        height: 500,
+        colors: ['#153aff', '#ffda15', '#ff153e'],
+        lineOptions: {
+            hideDots: true,
+            heatline: true,
+            regionFill: true
+        },
+        axisOptions: {
+            xIsSeries: 1,
+            xAxisMode: 'tick'
+        },
+    });
 }

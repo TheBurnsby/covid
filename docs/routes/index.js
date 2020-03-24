@@ -42,7 +42,32 @@ const attached = function () {
         cases.push(day.total_cases);
     };
 
-    Graph(cases, dates);
+    var graphData = {
+        labels: dates,
+        datasets: [
+            {
+                name: "Total Cases", type: "line",
+                values: cases
+            }
+        ]
+    };
+
+    const chart = new frappe.Chart("#graph", {
+        title: "Word Wide Cases",
+        data: graphData,
+        type: 'line',
+        height: 500,
+        colors: ['#ff153e'],
+        lineOptions: {
+            hideDots: true,
+            heatline: true,
+            regionFill: true
+        },
+        axisOptions: {
+            xIsSeries: 1,
+            xAxisMode: 'tick'
+        },
+    });
 
     CurrentCountries = resultCurrent;
     this.model.countries = resultCountries;
