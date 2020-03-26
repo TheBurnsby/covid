@@ -3,7 +3,7 @@ export default `
     <div class="col-xs">
         <h1>Total World</h1>
         <a class="button" href="./usa">
-            <object data="../assets/svg/us.svg" type="image/svg+xml">USA Flag</object>
+            <object data="./assets/svg/us.svg" type="image/svg+xml">USA Flag</object>
             <div>USA Testing Data</div>
         </a>
     </div>
