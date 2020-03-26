@@ -24,8 +24,8 @@ const attached = function () {
     model.end = countryByDay[countryByDay.length - 1].date.slice(5);
 
     model.countryByDay = countryByDay;
-
-    var title = model.country + ' Testing Results';
+    
+    var title = model.country.location + ' Daily Cases Vs Deaths';
     var cases = { cases: [], deaths: [] };
     const dates = [];
 

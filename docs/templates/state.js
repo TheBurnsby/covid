@@ -7,7 +7,7 @@ export default `
 </div>
 
 <div class="row">
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-12 col-sm-9">
         <div class="row card">
             <div class="title blue-bg">
                 <div class="col-xs-12">
@@ -56,16 +56,20 @@ export default `
                 </div>
             </div>
         </div>
-        <div class="row card" o-show="showSource">
-            <div class="col-xs">
-                <h3>Source</h3>
-                <p><a o-href="source.covid19Site" target="_blank">{{source.covid19Site}}</a></p>
-                <p>{{source.notes}}</p>
-            </div>
-        </div>
     </div>
-    <div class="col-xs-12 col-md-6">
+</div>
+
+<div class="row">
+    <div class="col-xs">
         <div id="graph" stye="width: 100%;"></div>
+    </div>
+</div>
+
+<div class="row card" o-show="showSource">
+    <div class="col-xs">
+        <h3>Source</h3>
+        <p><a o-href="source.covid19Site" target="_blank">{{source.covid19Site}}</a></p>
+        <p>{{source.notes}}</p>
     </div>
 </div>
 `
