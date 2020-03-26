@@ -1,5 +1,8 @@
 import Graph from '../modules/graph.js';
 import template from '../templates/usa.js';
+import Abbreviations from '../modules/abbreviations.js';
+
+let States;
 
 const model = {
     increase: '',
@@ -21,17 +24,21 @@ const attached = function () {
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/states' }).then(function (data) {
 
             for (var state of data.body) {
+                const name = Abbreviations(state.state);
+                state.name = name;
+
                 if (!state.death) state.death = 0;
                 if (!state.pending) state.pending = 0;
                 if (!state.negative) state.negative = 0;
                 if (!state.total) state.total = 0;
             }
+            States = data.body;
             model.states = data.body;
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
             data.body.reverse()
-            
+
             model.usDaily = data.body;
             var dates = [];
             var cases = { total: [], negative: [], cases: [] }
@@ -103,12 +110,12 @@ const state = function (state) {
 
 const search = function (data) {
     var search = data.target.value;
-    console.log(search);
-    // var result = CurrentCountries.filter(function (country) {
-    //     return country.location.toLowerCase().includes(search.toLowerCase());
-    // });
-    //
-    // this.model.currentByCountry = result;
+
+    var result = States.filter(function (state) {
+        return state.name.toLowerCase().includes(search.toLowerCase());
+    });
+    
+    this.model.states = result;
 }
 
 export default {

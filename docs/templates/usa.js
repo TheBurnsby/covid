@@ -71,7 +71,7 @@ export default `
         <div class="row card">
             <div class="title red-bg center-xs">
                 <div class="col-xs-12">
-                    <h3>{{$state.state}}</h3>
+                    <h3>{{$state.name}} <span>({{$state.state}})</span></h3>
                     <span>State</span>
                 </div>
             </div>
