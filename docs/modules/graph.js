@@ -30,7 +30,7 @@ export default function (title, cases, dates, colors) {
         },
         axisOptions: {
             xIsSeries: 1,
-            xAxisMode: 'tick'
+            xAxisMode: 'tick',
         },
     });
 }

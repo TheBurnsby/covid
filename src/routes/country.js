@@ -24,12 +24,14 @@ const attached = function () {
     model.end = countryByDay[countryByDay.length - 1].date.slice(5);
 
     model.countryByDay = countryByDay;
-    
+
     var title = model.country.location + ' Daily Cases Vs Deaths';
     var cases = { cases: [], deaths: [] };
     const dates = [];
 
     for (var day of model.countryByDay) {
+        day.date = day.date.slice(5);
+        
         dates.push(day.date);
         cases.cases.push(day.total_cases);
         cases.deaths.push(day.total_deaths);
