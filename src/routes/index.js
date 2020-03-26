@@ -38,6 +38,7 @@ const attached = function () {
     var cases = [];
 
     for (var day of world) {
+        day.date = day.date.slice(5);
         dates.push(day.date);
         cases.push(day.total_cases);
     };

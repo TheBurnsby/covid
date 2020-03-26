@@ -25,7 +25,7 @@ export default function (title, cases, dates, colors) {
         height: 500,
         lineOptions: {
             hideDots: true,
-            heatline: true,
+            // heatline: true,
             regionFill: true
         },
         axisOptions: {

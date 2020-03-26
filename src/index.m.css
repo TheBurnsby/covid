@@ -53,6 +53,9 @@ input {
     background: none;
     border-bottom: 1px solid;
 }
+.button object {
+    pointer-events: none;
+}
 .button {
     display: inline-block;
     color: black;

@@ -1,14 +1,17 @@
 export default `
 <div class="row">
     <div class="col-xs">
-        <h1>Total World</h1>
         <a class="button" href="./usa">
             <object data="./assets/svg/us.svg" type="image/svg+xml">USA Flag</object>
             <div>USA Testing Data</div>
         </a>
     </div>
 </div>
-
+<div class="row">
+    <div class="col-xs">
+        <h1>Total World</h1>
+    </div>
+</div>
 <div class="row">
     <div class="col-xs-12 col-sm-8">
         <div class="row card">
