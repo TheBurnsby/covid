@@ -33,8 +33,9 @@ const attached = function () {
             model.usDaily = data.body;
             var dates = [];
             var cases = { total: [], negative: [], cases: [] }
-
+            var a = 0;
             for (var day of data.body) {
+                console.log(a + day.positive);
                 cases.cases.push(day.positive);
                 cases.negative.push(day.negative);
                 cases.total.push(day.total);
@@ -46,7 +47,7 @@ const attached = function () {
 
                 dates.push(date);
             }
-
+            console.log(a);
             Graph('USA Testing Results', cases, dates);
         }),
 
@@ -101,8 +102,8 @@ const state = function (state) {
 }
 
 export default {
-    title: 'Dashboard',
-    name: 'r-index',
+    title: 'Dashboard - USA',
+    name: 'r-usa',
     attached, template, model,
     methods: { sources, state }
 };

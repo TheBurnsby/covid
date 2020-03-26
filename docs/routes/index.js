@@ -87,8 +87,8 @@ const search = function (data) {
 }
 
 export default {
-    title: 'Dashboard - Countries',
-    name: 'r-countries',
+    title: 'Dashboard',
+    name: 'r-index',
     attached, template, model,
     methods: { search }
 };
