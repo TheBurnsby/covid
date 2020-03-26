@@ -22,12 +22,19 @@ export default `
                         <span>cases</span>
                     </div>
                     <div class="col-xs">
+                        <h3 style="color: crimson">+ {{country.new_cases}}</h3>
+                        <span>new cases</span>
+                        <div class="range">({{start}} - {{end}})</div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs">
                         <h3>{{country.total_deaths}}</h3>
                         <span>deaths</span>
                     </div>
                     <div class="col-xs">
-                        <h3 style="color: crimson">+ {{country.new_cases}}</h3>
-                        <span>new cases</span>
+                        <h3 style="color: crimson">+ {{country.new_deaths}}</h3>
+                        <span>new deaths</span>
                         <div class="range">({{start}} - {{end}})</div>
                     </div>
                 </div>
