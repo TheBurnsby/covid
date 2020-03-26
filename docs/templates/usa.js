@@ -55,12 +55,15 @@ export default `
     </div>
 </div>
 
-
 <div class="row">
-    <div class="col-xs">
+    <div class="col-xs-12 col-sm-4">
         <h1>Totals by State</h1>
         <p>Updates daily at 4p ET</p>
         <p>(Click state to see individual details)</p>
+    </div>
+    <div class="col-xs-12 col-sm-8">
+        <h3>Search State</h3>
+        <input type="text" o-on-keyup="search">
     </div>
 </div>
 <div class="row" o-each-state="states">

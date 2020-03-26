@@ -1,26 +1,12 @@
-export default function (title, cases, dates) {
+export default function (title, cases, dates, colors) {
     var datasets = [];
+    var colors = colors ? colors : ['#153aff', '#ffda15', '#ff153e'];
 
-    if (cases.total.length) {
-        var dataset = {
-            name: "Total Tests", type: "line",
-            values: cases.total
-        }
+    for (var variable in cases) {
 
-        datasets.push(dataset);
-    }
-    if (cases.negative.length) {
         var dataset = {
-            name: "Total Negative", type: "line",
-            values: cases.negative
-        }
-
-        datasets.push(dataset);
-    }
-    if (cases.cases.length) {
-        var dataset = {
-            name: "Total Cases", type: "line",
-            values: cases.cases
+            name: "Total " + variable, type: "line",
+            values: cases[variable]
         }
 
         datasets.push(dataset);
@@ -30,13 +16,13 @@ export default function (title, cases, dates) {
         labels: dates,
         datasets
     };
-    
+
     return new frappe.Chart("#graph", {
         title,
+        colors,
         data: graphData,
         type: 'line',
         height: 500,
-        colors: ['#153aff', '#ffda15', '#ff153e'],
         lineOptions: {
             hideDots: true,
             heatline: true,

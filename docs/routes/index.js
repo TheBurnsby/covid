@@ -74,6 +74,10 @@ const attached = function () {
     this.model.currentByCountry = CurrentCountries;
 }
 
+const country = function (country) {
+    Oxe.router.route('./country/' + '?country=' + country.location);
+}
+
 const search = function (data) {
     var search = data.target.value;
 
@@ -82,13 +86,11 @@ const search = function (data) {
     });
 
     this.model.currentByCountry = result;
-
-
 }
 
 export default {
     title: 'Dashboard',
     name: 'r-index',
     attached, template, model,
-    methods: { search }
+    methods: { search, country }
 };

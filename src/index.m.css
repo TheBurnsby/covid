@@ -10,6 +10,9 @@
             150ms ease border-color,
             150ms ease background-color;
 }
+a {
+    word-wrap: break-word;
+}
 h2, h3, h4 {
     color: rgba(0,0,0,0.8);
 }
@@ -47,6 +50,7 @@ input {
     border-bottom: 1px solid;
 }
 .button {
+    display: inline-block;
     color: black;
     text-decoration: none;
     padding: 0.6rem;

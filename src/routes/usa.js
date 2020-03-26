@@ -19,6 +19,7 @@ const attached = function () {
 
     Promise.all([
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/states' }).then(function (data) {
+
             for (var state of data.body) {
                 if (!state.death) state.death = 0;
                 if (!state.pending) state.pending = 0;
@@ -30,12 +31,12 @@ const attached = function () {
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
             data.body.reverse()
+            
             model.usDaily = data.body;
             var dates = [];
             var cases = { total: [], negative: [], cases: [] }
-            var a = 0;
+
             for (var day of data.body) {
-                console.log(a + day.positive);
                 cases.cases.push(day.positive);
                 cases.negative.push(day.negative);
                 cases.total.push(day.total);
@@ -47,7 +48,7 @@ const attached = function () {
 
                 dates.push(date);
             }
-            console.log(a);
+
             Graph('USA Testing Results', cases, dates);
         }),
 
@@ -92,7 +93,6 @@ const sources = function () {
 
             li.appendChild(anchor);
             sources.appendChild(li);
-
         }
     });
 }
@@ -101,9 +101,19 @@ const state = function (state) {
     Oxe.router.route('./state/' + '?state=' + state.state);
 }
 
+const search = function (data) {
+    var search = data.target.value;
+    console.log(search);
+    // var result = CurrentCountries.filter(function (country) {
+    //     return country.location.toLowerCase().includes(search.toLowerCase());
+    // });
+    //
+    // this.model.currentByCountry = result;
+}
+
 export default {
     title: 'Dashboard - USA',
     name: 'r-usa',
     attached, template, model,
-    methods: { sources, state }
+    methods: { sources, state, search }
 };
