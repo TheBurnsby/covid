@@ -1,7 +1,7 @@
 export default function (title, cases, dates, colors) {
     var datasets = [];
     var colors = colors ? colors : ['#153aff', '#ffda15', '#ff153e'];
-
+    console.log(cases);
     for (var variable in cases) {
 
         var dataset = {

@@ -36,19 +36,25 @@ const attached = function () {
     var world = countries.filter(function (each) { return each.location === "World"; });
     var dates = [];
     var cases = [];
+    var daily = [];
 
     for (var day of world) {
         day.date = day.date.slice(5);
         dates.push(day.date);
         cases.push(day.total_cases);
+        daily.push(day.new_cases);
     };
 
     var graphData = {
         labels: dates,
         datasets: [
             {
-                name: "Total Cases", type: "line",
+                name: "Total Cases", chartType: "line",
                 values: cases
+            },
+            {
+                name: "New Cases (per day)", chartType: "bar",
+                values: daily
             }
         ]
     };
@@ -56,13 +62,16 @@ const attached = function () {
     const chart = new frappe.Chart("#graph", {
         title: "Word Wide Cases",
         data: graphData,
-        type: 'line',
+        type: 'axis-mixed',
         height: 500,
         colors: ['#ff153e'],
         lineOptions: {
             hideDots: true,
             heatline: true,
             regionFill: true
+        },
+        barOptions: {
+            spaceRatio: 0.2
         },
         axisOptions: {
             xIsSeries: 1,
