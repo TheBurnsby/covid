@@ -1,7 +1,7 @@
 export default `
 <div class="row">
     <div class="col-xs">
-        <h1>State Details</h1>
+        <h1>Country Details</h1>
         <a class="button" href="./">All Countries</a>
     </div>
 </div>
