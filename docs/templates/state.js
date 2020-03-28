@@ -42,7 +42,7 @@ export default `
                 </div>
                 <div class="row">
                     <div class="col-xs">
-                        <h4>{{state.total}}</h4>
+                        <h4>{{state.totalTestResults}}</h4>
                         <span>total</span>
                     </div>
                     <div class="col-xs">

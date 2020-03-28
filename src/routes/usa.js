@@ -63,7 +63,7 @@ const attached = function () {
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
             var result = {};
             for (var current of data.body) result = data.body[0];
-            
+
             model.usCurrent = result;
         })
 
@@ -106,7 +106,6 @@ const sources = function () {
 }
 
 const state = function (state) {
-    console.log(state);
     Oxe.router.route('./state/' + '?state=' + state.state);
 }
 
