@@ -42,12 +42,12 @@ const attached = function () {
 
             model.usDaily = data.body;
             var dates = [];
-            var cases = { total: [], negative: [], cases: [] }
+            var cases = { tested: [], negative: [], positive: [] }
 
             for (var day of data.body) {
-                cases.cases.push(day.positive);
+                cases.positive.push(day.positive);
                 cases.negative.push(day.negative);
-                cases.total.push(day.positive + day.negative);
+                cases.tested.push(day.positive + day.negative);
 
                 var year = day.date.toString().slice(0,4);
                 var month = day.date.toString().slice(4, 6);
