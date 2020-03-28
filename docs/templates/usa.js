@@ -7,7 +7,7 @@ export default `
 </div>
 
 <div class="row">
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-12 col-sm-8">
         <div class="row card">
             <div class="title blue-bg">
                 <div class="col-xs-12">
@@ -39,7 +39,7 @@ export default `
                 </div>
                 <div class="row">
                     <div class="col-xs">
-                        <h4>{{usCurrent.total}}</h4>
+                        <h4>{{usCurrent.totalTestResults}}</h4>
                         <span>total</span>
                     </div>
                     <div class="col-xs">
@@ -69,7 +69,7 @@ export default `
     </div>
 </div>
 <div class="row" o-each-state="states">
-    <button o-on-click="state | $state" class="col-xs-12 col-sm-6 link">
+    <button o-on-click="state | $state" class="col-xs-12 col-sm-6 col-md-4 link">
         <div class="row card">
             <div class="title red-bg center-xs">
                 <div class="col-xs-12">

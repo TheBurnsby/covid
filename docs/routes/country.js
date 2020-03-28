@@ -28,14 +28,17 @@ const attached = function () {
     var title = model.country.location + ' Daily Cases Vs Deaths';
     var cases = { cases: [], deaths: [] };
     const dates = [];
+    let t = 0;
 
     for (var day of model.countryByDay) {
         day.date = day.date.slice(5);
-        
+
         dates.push(day.date);
+        t += day.new_cases;
         cases.cases.push(day.total_cases);
         cases.deaths.push(day.total_deaths);
     }
+    console.log(t);
 
     Graph(title, cases, dates, ['#153aff', '#ff153e']);
 }

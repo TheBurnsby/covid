@@ -30,8 +30,9 @@ const attached = function () {
                 if (!state.death) state.death = 0;
                 if (!state.pending) state.pending = 0;
                 if (!state.negative) state.negative = 0;
-                if (!state.total) state.total = 0;
+                state.total = state.negative + state.positive + state.pending;
             }
+
             States = data.body;
             model.states = data.body;
         }),
@@ -46,7 +47,7 @@ const attached = function () {
             for (var day of data.body) {
                 cases.cases.push(day.positive);
                 cases.negative.push(day.negative);
-                cases.total.push(day.total);
+                cases.total.push(day.positive + day.negative);
 
                 var year = day.date.toString().slice(0,4);
                 var month = day.date.toString().slice(4, 6);
@@ -62,7 +63,7 @@ const attached = function () {
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
             var result = {};
             for (var current of data.body) result = data.body[0];
-
+            
             model.usCurrent = result;
         })
 
@@ -105,6 +106,7 @@ const sources = function () {
 }
 
 const state = function (state) {
+    console.log(state);
     Oxe.router.route('./state/' + '?state=' + state.state);
 }
 
@@ -114,7 +116,7 @@ const search = function (data) {
     var result = States.filter(function (state) {
         return state.name.toLowerCase().includes(search.toLowerCase());
     });
-    
+
     this.model.states = result;
 }
 
