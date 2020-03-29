@@ -24,10 +24,15 @@ const attached = function () {
     Promise.all([
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/states/daily?state=' + state }).then(function (data) {
             data.body.reverse();
+
             var stateByDay = data.body;
 
-            var dates = [];
-            var cases = { tested: [], negative: [], cases: [] };
+            const options = {
+                dates: [],
+                title: 'USA Testing Results',
+                colors: ['#153aff','#ff153e', '#31b843'],
+                datasets: [ { name: 'Total Tested', chartType: 'line', values: [] }, { name: 'Total Positive', chartType: 'line', values: [] }, { name: 'Total Negative', chartType: 'line', values: [] } ]
+            };
 
             for (var stateDay of stateByDay) {
 
@@ -42,11 +47,15 @@ const attached = function () {
                 var day = stateDay.date.toString().slice(6, 8);
                 var date = year + '-' + month + '-' + day;
 
-                dates.push(date);
-                cases.tested.push(stateDay.positive + stateDay.negative + stateDay.pending);
-                cases.cases.push(stateDay.positive);
-                cases.negative.push(stateDay.negative);
+                options.dates.push(date);
+                options.datasets[0].values.push(stateDay.total);
+                options.datasets[1].values.push(stateDay.positive);
+                options.datasets[2].values.push(stateDay.negative);
+                
             }
+
+            options.title = model.state.state + ' Testing Results';
+            Graph(options);
 
             const name = Abbreviations(stateByDay[stateByDay.length - 1].state);
             stateByDay[stateByDay.length - 1].name = name;
@@ -54,42 +63,29 @@ const attached = function () {
 
             model.stateByDay = stateByDay;
 
-            var title = model.state.state + ' Testing Results';
-            Graph(title, cases, dates);
-
             var position = model.stateByDay.length;
             var last = model.stateByDay[position - 1];
             var secondLast = model.stateByDay[position - 2];
 
             model.increase = last.positive - secondLast.positive;
-
             model.start = secondLast.date.toString().slice(4, 6) + '-' + secondLast.date.toString().slice(6, 8);
             model.end = last.date.toString().slice(4, 6) + '-' + last.date.toString().slice(6, 8);
 
-            const counties = Counties.filter(function (county) {
-                return county.state === stateByDay[stateByDay.length - 1].name;
-            });
-
+            const counties = Counties.filter(function (county) { return county.state === stateByDay[stateByDay.length - 1].name; });
             let location;
-
             const resultCurrent = [];
             const resultCounties = {};
 
             for (const county of counties) {
-
                 if (location && location !== county.county) {
                     const data = counties.filter(function (each) { return each.county === location; });
 
                     resultCounties[location] = data;
                 }
-
                 location = county.county;
             }
 
-            for (const variable in resultCounties) {
-
-                resultCurrent.push(resultCounties[variable][resultCounties[variable].length - 1]);
-            }
+            for (const variable in resultCounties) resultCurrent.push(resultCounties[variable][resultCounties[variable].length - 1]);
 
             CountiesCurrent = resultCurrent;
             model.countiesCurrent = resultCurrent;

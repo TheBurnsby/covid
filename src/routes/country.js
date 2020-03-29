@@ -16,50 +16,31 @@ const attached = function () {
     let country = Oxe.router.location.query.country;
     if (country.includes('%20')) country = country.replace(/%20/g, ' ');
 
-    const countryByDay = countries.filter(function (location) {
-        return location.location === country;
-    });
+    const countryByDay = countries.filter(function (location) { return location.location === country });
+
     model.country = countryByDay[countryByDay.length -1];
     model.start = countryByDay[countryByDay.length - 2].date.slice(5);
     model.end = countryByDay[countryByDay.length - 1].date.slice(5);
 
     model.countryByDay = countryByDay;
 
-    const title = model.country.location + ' Daily Cases Vs Deaths';
-    var colors = colors ? colors : ['#153aff','#ff153e','#31b843' ];
-
-    const options = [ { name: 'Total Cases', tpye: 'line', values: [] }, { name: 'Total Deaths', tpye: 'line', values: [] }, { name: 'Daily New Cases', tpye: 'line', values: [] } ];
-    const dates = [];
+    const options = {
+        dates: [],
+        title: model.country.location + ' Daily Cases Vs Deaths',
+        colors: ['#153aff','#31b843','#ff153e'],
+        datasets: [ { name: 'Total Cases', chartType: 'line', values: [] }, { name: 'Daily New Cases', chartType: 'bar', values: [] }, { name: 'Total Deaths', chartType: 'line', values: [] } ],
+    };
 
     for (var day of model.countryByDay) {
         day.date = day.date.slice(5);
+        options.dates.push(day.date);
 
-        dates.push(day.date);
-        options[0].values.push(day.total_cases);
-        options[1].values.push(day.total_deaths);
-        options[2].values.push(day.new_cases);
+        options.datasets[0].values.push(day.total_cases);
+        options.datasets[1].values.push(day.new_cases);
+        options.datasets[2].values.push(day.total_deaths);
     }
 
-    var graphData = { labels: dates, datasets: options };
-
-    return new frappe.Chart("#graph", {
-        title,
-        colors,
-        data: graphData,
-        type: 'axis-mixed',
-        height: 500,
-        lineOptions: {
-            hideDots: true,
-            // heatline: true,
-            regionFill: true
-        },
-        axisOptions: {
-            xIsSeries: 1,
-            xAxisMode: 'tick',
-        },
-    });
-
-    // Graph(title, cases, dates, ['#153aff', '#ff153e']);
+    Graph(options);
 }
 
 export default {

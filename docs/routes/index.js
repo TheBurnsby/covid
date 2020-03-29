@@ -34,50 +34,23 @@ const attached = function () {
     }
 
     var world = countries.filter(function (each) { return each.location === "World"; });
-    var dates = [];
-    var cases = [];
-    var daily = [];
 
+    const options = {
+        dates: [],
+        title: 'Word Wide Cases',
+        colors: ['#153aff','#ff153e'],
+        datasets: [ { name: 'Total Cases', chartType: 'line', values: [] }, { name: 'Daily New Cases', chartType: 'bar', values: [] } ]
+    };
+    
     for (var day of world) {
         day.date = day.date.slice(5);
-        dates.push(day.date);
-        cases.push(day.total_cases);
-        daily.push(day.new_cases);
+        options.dates.push(day.date);
+
+        options.datasets[1].values.push(day.new_cases);
+        options.datasets[0].values.push(day.total_cases);
     };
 
-    var graphData = {
-        labels: dates,
-        datasets: [
-            {
-                name: "Total Cases", chartType: "line",
-                values: cases
-            },
-            {
-                name: "New Cases (per day)", chartType: "bar",
-                values: daily
-            }
-        ]
-    };
-
-    const chart = new frappe.Chart("#graph", {
-        title: "Word Wide Cases",
-        data: graphData,
-        type: 'axis-mixed',
-        height: 500,
-        colors: ['#ff153e'],
-        lineOptions: {
-            hideDots: true,
-            heatline: true,
-            regionFill: true
-        },
-        barOptions: {
-            spaceRatio: 0.2
-        },
-        axisOptions: {
-            xIsSeries: 1,
-            xAxisMode: 'tick'
-        },
-    });
+    Graph(options);
 
     CurrentCountries = resultCurrent;
     this.model.countries = resultCountries;

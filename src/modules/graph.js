@@ -1,25 +1,15 @@
-export default function (title, cases, dates, colors) {
-    var datasets = [];
-    var colors = colors ? colors : ['#153aff', '#ffda15', '#ff153e'];
-
-    for (var variable in cases) {
-
-        var dataset = {
-            name: "Total " + variable, type: "line",
-            values: cases[variable]
-        }
-
-        datasets.push(dataset);
-    }
+export default function (data) {
+    const options = data || {};
+    // console.log(options);
 
     var graphData = {
-        labels: dates,
-        datasets
+        labels: options.dates,
+        datasets: options.datasets
     };
 
     return new frappe.Chart("#graph", {
-        title,
-        colors,
+        title: options.title,
+        colors: options.colors,
         data: graphData,
         type: 'axis-mixed',
         height: 500,
@@ -32,5 +22,8 @@ export default function (title, cases, dates, colors) {
             xIsSeries: 1,
             xAxisMode: 'tick',
         },
+        barOptions: {
+            spaceRatio: 0.2
+        }
     });
 }

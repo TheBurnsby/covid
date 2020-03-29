@@ -38,26 +38,31 @@ const attached = function () {
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us/daily' }).then(function (data) {
-            data.body.reverse()
+            data.body.reverse();
 
             model.usDaily = data.body;
-            var dates = [];
-            var cases = { tested: [], negative: [], positive: [] }
+
+            const options = {
+                dates: [],
+                title: 'USA Testing Results',
+                colors: ['#153aff','#ff153e', '#31b843'],
+                datasets: [ { name: 'Total Tested', chartType: 'line', values: [] }, { name: 'Total Positive', chartType: 'line', values: [] }, { name: 'Total Negative', chartType: 'line', values: [] } ]
+            };
 
             for (var day of data.body) {
-                cases.positive.push(day.positive);
-                cases.negative.push(day.negative);
-                cases.tested.push(day.positive + day.negative);
+                options.datasets[1].values.push(day.positive);
+                options.datasets[2].values.push(day.negative);
+                options.datasets[0].values.push(day.positive + day.negative);
 
                 var year = day.date.toString().slice(0,4);
                 var month = day.date.toString().slice(4, 6);
                 var day = day.date.toString().slice(6, 8);
                 var date = year + '-' + month + '-' + day;
 
-                dates.push(date);
+                options.dates.push(date);
             }
 
-            Graph('USA Testing Results', cases, dates);
+            Graph(options);
         }),
 
         Oxe.fetcher.get({ url: 'https://covidtracking.com/api/us' }).then(function (data) {
