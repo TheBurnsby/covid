@@ -5,8 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "flexboxgrid": "^6.3.1",
-    "oxe": "^5.2.9",
-    "county-data": "github:nytimes/covid-19-data"
+    "oxe": "^5.2.9"
   },
   "devDependencies": {},
   "scripts": {
