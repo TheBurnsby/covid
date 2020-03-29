@@ -26,6 +26,8 @@ const attached = function () {
     model.countryByDay = countryByDay;
 
     const title = model.country.location + ' Daily Cases Vs Deaths';
+    var colors = colors ? colors : ['#153aff','#ff153e','#31b843' ];
+
     const options = [ { name: 'Total Cases', tpye: 'line', values: [] }, { name: 'Total Deaths', tpye: 'line', values: [] }, { name: 'Daily New Cases', tpye: 'line', values: [] } ];
     const dates = [];
 
@@ -37,19 +39,12 @@ const attached = function () {
         options[1].values.push(day.total_deaths);
         options[2].values.push(day.new_cases);
     }
-    // var datasets = [];
 
-
-    // var dataset = {
-    //     name: "Total Cases", type: "line",
-    //     values: cases[variable]
-    // }
-    //
     var graphData = { labels: dates, datasets: options };
 
     return new frappe.Chart("#graph", {
         title,
-        // colors,
+        colors,
         data: graphData,
         type: 'axis-mixed',
         height: 500,
