@@ -27,7 +27,7 @@ const attached = function () {
             var stateByDay = data.body;
 
             var dates = [];
-            var cases = { total: [], negative: [], cases: [] };
+            var cases = { tested: [], negative: [], cases: [] };
 
             for (var stateDay of stateByDay) {
 
@@ -43,7 +43,7 @@ const attached = function () {
                 var date = year + '-' + month + '-' + day;
 
                 dates.push(date);
-                cases.total.push(stateDay.positive + stateDay.negative + stateDay.pending);
+                cases.tested.push(stateDay.positive + stateDay.negative + stateDay.pending);
                 cases.cases.push(stateDay.positive);
                 cases.negative.push(stateDay.negative);
             }
