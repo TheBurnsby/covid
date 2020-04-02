@@ -12737,7 +12737,7 @@ export default [
   },
   {
     "date": "2020-03-12",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 3,
@@ -15217,7 +15217,7 @@ export default [
   },
   {
     "date": "2020-03-13",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 8,
@@ -18193,7 +18193,7 @@ export default [
   },
   {
     "date": "2020-03-14",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 9,
@@ -21609,7 +21609,7 @@ export default [
   },
   {
     "date": "2020-03-15",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 9,
@@ -25385,7 +25385,7 @@ export default [
   },
   {
     "date": "2020-03-16",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 10,
@@ -29697,7 +29697,7 @@ export default [
   },
   {
     "date": "2020-03-17",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 12,
@@ -34761,7 +34761,7 @@ export default [
   },
   {
     "date": "2020-03-18",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 13,
@@ -40809,7 +40809,7 @@ export default [
   },
   {
     "date": "2020-03-19",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 14,
@@ -47993,7 +47993,7 @@ export default [
   },
   {
     "date": "2020-03-20",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 19,
@@ -56225,7 +56225,7 @@ export default [
   },
   {
     "date": "2020-03-21",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 20,
@@ -65297,7 +65297,7 @@ export default [
   },
   {
     "date": "2020-03-22",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 32,
@@ -75081,7 +75081,7 @@ export default [
   },
   {
     "date": "2020-03-23",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 34,
@@ -85905,7 +85905,7 @@ export default [
   },
   {
     "date": "2020-03-24",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 37,
@@ -98057,7 +98057,7 @@ export default [
   },
   {
     "date": "2020-03-25",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 41,
@@ -111273,7 +111273,7 @@ export default [
   },
   {
     "date": "2020-03-26",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 49,
@@ -125505,7 +125505,7 @@ export default [
   },
   {
     "date": "2020-03-27",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 55,
@@ -140601,7 +140601,7 @@ export default [
   },
   {
     "date": "2020-03-28",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 65,
@@ -156401,7 +156401,7 @@ export default [
   },
   {
     "date": "2020-03-29",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 70,
@@ -173025,7 +173025,7 @@ export default [
   },
   {
     "date": "2020-03-30",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 73,
@@ -174461,7 +174461,7 @@ export default [
     "state": "Alabama",
     "fips": "01017",
     "cases": 36,
-    "deaths": 3
+    "deaths": 4
   },
   {
     "date": "2020-03-31",
@@ -175837,7 +175837,7 @@ export default [
     "state": "California",
     "fips": "06107",
     "cases": 45,
-    "deaths": 3
+    "deaths": 1
   },
   {
     "date": "2020-03-31",
@@ -190297,7 +190297,7 @@ export default [
   },
   {
     "date": "2020-03-31",
-    "county": "James City",
+    "county": "James city",
     "state": "Virginia",
     "fips": 51095,
     "cases": 89,
@@ -191729,6 +191729,17862 @@ export default [
   },
   {
     "date": "2020-03-31",
+    "county": "Washakie",
+    "state": "Wyoming",
+    "fips": 56043,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Autauga",
+    "state": "Alabama",
+    "fips": "01001",
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baldwin",
+    "state": "Alabama",
+    "fips": "01003",
+    "cases": 23,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bibb",
+    "state": "Alabama",
+    "fips": "01007",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Blount",
+    "state": "Alabama",
+    "fips": "01009",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bullock",
+    "state": "Alabama",
+    "fips": "01011",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butler",
+    "state": "Alabama",
+    "fips": "01013",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calhoun",
+    "state": "Alabama",
+    "fips": "01015",
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chambers",
+    "state": "Alabama",
+    "fips": "01017",
+    "cases": 45,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cherokee",
+    "state": "Alabama",
+    "fips": "01019",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chilton",
+    "state": "Alabama",
+    "fips": "01021",
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Choctaw",
+    "state": "Alabama",
+    "fips": "01023",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clarke",
+    "state": "Alabama",
+    "fips": "01025",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Alabama",
+    "fips": "01027",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cleburne",
+    "state": "Alabama",
+    "fips": "01029",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Colbert",
+    "state": "Alabama",
+    "fips": "01033",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Conecuh",
+    "state": "Alabama",
+    "fips": "01035",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coosa",
+    "state": "Alabama",
+    "fips": "01037",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Covington",
+    "state": "Alabama",
+    "fips": "01039",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crenshaw",
+    "state": "Alabama",
+    "fips": "01041",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cullman",
+    "state": "Alabama",
+    "fips": "01043",
+    "cases": 9,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dale",
+    "state": "Alabama",
+    "fips": "01045",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dallas",
+    "state": "Alabama",
+    "fips": "01047",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeKalb",
+    "state": "Alabama",
+    "fips": "01049",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Elmore",
+    "state": "Alabama",
+    "fips": "01051",
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Escambia",
+    "state": "Alabama",
+    "fips": "01053",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Etowah",
+    "state": "Alabama",
+    "fips": "01055",
+    "cases": 10,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Alabama",
+    "fips": "01057",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Alabama",
+    "fips": "01059",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Alabama",
+    "fips": "01063",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hale",
+    "state": "Alabama",
+    "fips": "01065",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Houston",
+    "state": "Alabama",
+    "fips": "01069",
+    "cases": 9,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Alabama",
+    "fips": "01071",
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Alabama",
+    "fips": "01073",
+    "cases": 305,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lamar",
+    "state": "Alabama",
+    "fips": "01075",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lauderdale",
+    "state": "Alabama",
+    "fips": "01077",
+    "cases": 12,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Alabama",
+    "fips": "01079",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "Alabama",
+    "fips": "01081",
+    "cases": 83,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Limestone",
+    "state": "Alabama",
+    "fips": "01083",
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lowndes",
+    "state": "Alabama",
+    "fips": "01085",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Macon",
+    "state": "Alabama",
+    "fips": "01087",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Alabama",
+    "fips": "01089",
+    "cases": 107,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marengo",
+    "state": "Alabama",
+    "fips": "01091",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Alabama",
+    "fips": "01093",
+    "cases": 11,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "Alabama",
+    "fips": "01095",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mobile",
+    "state": "Alabama",
+    "fips": "01097",
+    "cases": 57,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Alabama",
+    "fips": "01099",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Alabama",
+    "fips": "01101",
+    "cases": 35,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Alabama",
+    "fips": "01103",
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pickens",
+    "state": "Alabama",
+    "fips": "01107",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pike",
+    "state": "Alabama",
+    "fips": "01109",
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "Alabama",
+    "fips": "01111",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Russell",
+    "state": "Alabama",
+    "fips": "01113",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Alabama",
+    "fips": "01117",
+    "cases": 89,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Clair",
+    "state": "Alabama",
+    "fips": "01115",
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sumter",
+    "state": "Alabama",
+    "fips": "01119",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Talladega",
+    "state": "Alabama",
+    "fips": "01121",
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tallapoosa",
+    "state": "Alabama",
+    "fips": "01123",
+    "cases": 14,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tuscaloosa",
+    "state": "Alabama",
+    "fips": "01125",
+    "cases": 30,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walker",
+    "state": "Alabama",
+    "fips": "01127",
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Alabama",
+    "fips": "01129",
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilcox",
+    "state": "Alabama",
+    "fips": "01131",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winston",
+    "state": "Alabama",
+    "fips": "01133",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anchorage",
+    "state": "Alaska",
+    "fips": "02020",
+    "cases": 67,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fairbanks North Star Borough",
+    "state": "Alaska",
+    "fips": "02090",
+    "cases": 40,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Juneau City and Borough",
+    "state": "Alaska",
+    "fips": "02110",
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kenai Peninsula Borough",
+    "state": "Alaska",
+    "fips": "02122",
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ketchikan Gateway Borough",
+    "state": "Alaska",
+    "fips": "02130",
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Matanuska-Susitna Borough",
+    "state": "Alaska",
+    "fips": "02170",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Apache",
+    "state": "Arizona",
+    "fips": "04001",
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cochise",
+    "state": "Arizona",
+    "fips": "04003",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coconino",
+    "state": "Arizona",
+    "fips": "04005",
+    "cases": 85,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gila",
+    "state": "Arizona",
+    "fips": "04007",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Graham",
+    "state": "Arizona",
+    "fips": "04009",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greenlee",
+    "state": "Arizona",
+    "fips": "04011",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "La Paz",
+    "state": "Arizona",
+    "fips": "04012",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Maricopa",
+    "state": "Arizona",
+    "fips": "04013",
+    "cases": 871,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mohave",
+    "state": "Arizona",
+    "fips": "04015",
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Navajo",
+    "state": "Arizona",
+    "fips": "04017",
+    "cases": 102,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pima",
+    "state": "Arizona",
+    "fips": "04019",
+    "cases": 217,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pinal",
+    "state": "Arizona",
+    "fips": "04021",
+    "cases": 65,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Santa Cruz",
+    "state": "Arizona",
+    "fips": "04023",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yavapai",
+    "state": "Arizona",
+    "fips": "04025",
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yuma",
+    "state": "Arizona",
+    "fips": "04027",
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Arkansas",
+    "state": "Arkansas",
+    "fips": "05001",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ashley",
+    "state": "Arkansas",
+    "fips": "05003",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baxter",
+    "state": "Arkansas",
+    "fips": "05005",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Arkansas",
+    "fips": "05007",
+    "cases": 40,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boone",
+    "state": "Arkansas",
+    "fips": "05009",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bradley",
+    "state": "Arkansas",
+    "fips": "05011",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Arkansas",
+    "fips": "05015",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chicot",
+    "state": "Arkansas",
+    "fips": "05017",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Arkansas",
+    "fips": "05019",
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cleburne",
+    "state": "Arkansas",
+    "fips": "05023",
+    "cases": 63,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cleveland",
+    "state": "Arkansas",
+    "fips": "05025",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "Arkansas",
+    "fips": "05027",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Conway",
+    "state": "Arkansas",
+    "fips": "05029",
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Craighead",
+    "state": "Arkansas",
+    "fips": "05031",
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Arkansas",
+    "fips": "05033",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crittenden",
+    "state": "Arkansas",
+    "fips": "05035",
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cross",
+    "state": "Arkansas",
+    "fips": "05037",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Desha",
+    "state": "Arkansas",
+    "fips": "05041",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Drew",
+    "state": "Arkansas",
+    "fips": "05043",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Faulkner",
+    "state": "Arkansas",
+    "fips": "05045",
+    "cases": 36,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Garland",
+    "state": "Arkansas",
+    "fips": "05051",
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "Arkansas",
+    "fips": "05053",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Arkansas",
+    "fips": "05055",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hempstead",
+    "state": "Arkansas",
+    "fips": "05057",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hot Spring",
+    "state": "Arkansas",
+    "fips": "05059",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Howard",
+    "state": "Arkansas",
+    "fips": "05061",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Independence",
+    "state": "Arkansas",
+    "fips": "05063",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Arkansas",
+    "fips": "05069",
+    "cases": 49,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Arkansas",
+    "fips": "05071",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Arkansas",
+    "fips": "05075",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "Arkansas",
+    "fips": "05077",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Arkansas",
+    "fips": "05079",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lonoke",
+    "state": "Arkansas",
+    "fips": "05085",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Miller",
+    "state": "Arkansas",
+    "fips": "05091",
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nevada",
+    "state": "Arkansas",
+    "fips": "05099",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newton",
+    "state": "Arkansas",
+    "fips": "05101",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Perry",
+    "state": "Arkansas",
+    "fips": "05105",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pike",
+    "state": "Arkansas",
+    "fips": "05109",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Poinsett",
+    "state": "Arkansas",
+    "fips": "05111",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Polk",
+    "state": "Arkansas",
+    "fips": "05113",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pope",
+    "state": "Arkansas",
+    "fips": "05115",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pulaski",
+    "state": "Arkansas",
+    "fips": "05119",
+    "cases": 113,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "Arkansas",
+    "fips": "05121",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saline",
+    "state": "Arkansas",
+    "fips": "05125",
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Arkansas",
+    "fips": "05127",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Searcy",
+    "state": "Arkansas",
+    "fips": "05129",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sebastian",
+    "state": "Arkansas",
+    "fips": "05131",
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sevier",
+    "state": "Arkansas",
+    "fips": "05133",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Francis",
+    "state": "Arkansas",
+    "fips": "05123",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stone",
+    "state": "Arkansas",
+    "fips": "05137",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Arkansas",
+    "fips": "05139",
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Arkansas",
+    "fips": "",
+    "cases": 61,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Van Buren",
+    "state": "Arkansas",
+    "fips": "05141",
+    "cases": 20,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Arkansas",
+    "fips": "05143",
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "White",
+    "state": "Arkansas",
+    "fips": "05145",
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Woodruff",
+    "state": "Arkansas",
+    "fips": "05147",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alameda",
+    "state": "California",
+    "fips": "06001",
+    "cases": 380,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alpine",
+    "state": "California",
+    "fips": "06003",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Amador",
+    "state": "California",
+    "fips": "06005",
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butte",
+    "state": "California",
+    "fips": "06007",
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calaveras",
+    "state": "California",
+    "fips": "06009",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Colusa",
+    "state": "California",
+    "fips": "06011",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Contra Costa",
+    "state": "California",
+    "fips": "06013",
+    "cases": 250,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "El Dorado",
+    "state": "California",
+    "fips": "06017",
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fresno",
+    "state": "California",
+    "fips": "06019",
+    "cases": 82,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Glenn",
+    "state": "California",
+    "fips": "06021",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Humboldt",
+    "state": "California",
+    "fips": "06023",
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Imperial",
+    "state": "California",
+    "fips": "06025",
+    "cases": 43,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Inyo",
+    "state": "California",
+    "fips": "06027",
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kern",
+    "state": "California",
+    "fips": "06029",
+    "cases": 110,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kings",
+    "state": "California",
+    "fips": "06031",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Los Angeles",
+    "state": "California",
+    "fips": "06037",
+    "cases": 3518,
+    "deaths": 65
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madera",
+    "state": "California",
+    "fips": "06039",
+    "cases": 23,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marin",
+    "state": "California",
+    "fips": "06041",
+    "cases": 108,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mendocino",
+    "state": "California",
+    "fips": "06045",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Merced",
+    "state": "California",
+    "fips": "06047",
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mono",
+    "state": "California",
+    "fips": "06051",
+    "cases": 13,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monterey",
+    "state": "California",
+    "fips": "06053",
+    "cases": 42,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Napa",
+    "state": "California",
+    "fips": "06055",
+    "cases": 19,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nevada",
+    "state": "California",
+    "fips": "06057",
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "California",
+    "fips": "06059",
+    "cases": 606,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Placer",
+    "state": "California",
+    "fips": "06061",
+    "cases": 78,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Plumas",
+    "state": "California",
+    "fips": "06063",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Riverside",
+    "state": "California",
+    "fips": "06065",
+    "cases": 371,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sacramento",
+    "state": "California",
+    "fips": "06067",
+    "cases": 314,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Benito",
+    "state": "California",
+    "fips": "06069",
+    "cases": 23,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Bernardino",
+    "state": "California",
+    "fips": "06071",
+    "cases": 254,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Diego",
+    "state": "California",
+    "fips": "06073",
+    "cases": 849,
+    "deaths": 15
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Francisco",
+    "state": "California",
+    "fips": "06075",
+    "cases": 437,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Joaquin",
+    "state": "California",
+    "fips": "06077",
+    "cases": 161,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Luis Obispo",
+    "state": "California",
+    "fips": "06079",
+    "cases": 83,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Mateo",
+    "state": "California",
+    "fips": "06081",
+    "cases": 388,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Santa Barbara",
+    "state": "California",
+    "fips": "06083",
+    "cases": 111,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Santa Clara",
+    "state": "California",
+    "fips": "06085",
+    "cases": 956,
+    "deaths": 33
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Santa Cruz",
+    "state": "California",
+    "fips": "06087",
+    "cases": 54,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shasta",
+    "state": "California",
+    "fips": "06089",
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Siskiyou",
+    "state": "California",
+    "fips": "06093",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Solano",
+    "state": "California",
+    "fips": "06095",
+    "cases": 54,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sonoma",
+    "state": "California",
+    "fips": "06097",
+    "cases": 91,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stanislaus",
+    "state": "California",
+    "fips": "06099",
+    "cases": 44,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sutter",
+    "state": "California",
+    "fips": "06101",
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tulare",
+    "state": "California",
+    "fips": "06107",
+    "cases": 59,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tuolumne",
+    "state": "California",
+    "fips": "06109",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "California",
+    "fips": "",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ventura",
+    "state": "California",
+    "fips": "06111",
+    "cases": 160,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yolo",
+    "state": "California",
+    "fips": "06113",
+    "cases": 28,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yuba",
+    "state": "California",
+    "fips": "06115",
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Colorado",
+    "fips": "08001",
+    "cases": 214,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alamosa",
+    "state": "Colorado",
+    "fips": "08003",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Arapahoe",
+    "state": "Colorado",
+    "fips": "08005",
+    "cases": 381,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Archuleta",
+    "state": "Colorado",
+    "fips": "08007",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baca",
+    "state": "Colorado",
+    "fips": "08009",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boulder",
+    "state": "Colorado",
+    "fips": "08013",
+    "cases": 114,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Broomfield",
+    "state": "Colorado",
+    "fips": "08014",
+    "cases": 21,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chaffee",
+    "state": "Colorado",
+    "fips": "08015",
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clear Creek",
+    "state": "Colorado",
+    "fips": "08019",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Costilla",
+    "state": "Colorado",
+    "fips": "08023",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crowley",
+    "state": "Colorado",
+    "fips": "08025",
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Delta",
+    "state": "Colorado",
+    "fips": "08029",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Denver",
+    "state": "Colorado",
+    "fips": "08031",
+    "cases": 586,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Colorado",
+    "fips": "08035",
+    "cases": 158,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Eagle",
+    "state": "Colorado",
+    "fips": "08037",
+    "cases": 295,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "El Paso",
+    "state": "Colorado",
+    "fips": "08041",
+    "cases": 314,
+    "deaths": 14
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Elbert",
+    "state": "Colorado",
+    "fips": "08039",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fremont",
+    "state": "Colorado",
+    "fips": "08043",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Garfield",
+    "state": "Colorado",
+    "fips": "08045",
+    "cases": 34,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grand",
+    "state": "Colorado",
+    "fips": "08049",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gunnison",
+    "state": "Colorado",
+    "fips": "08051",
+    "cases": 84,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hinsdale",
+    "state": "Colorado",
+    "fips": "08053",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Huerfano",
+    "state": "Colorado",
+    "fips": "08055",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Colorado",
+    "fips": "08059",
+    "cases": 356,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kit Carson",
+    "state": "Colorado",
+    "fips": "08063",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "La Plata",
+    "state": "Colorado",
+    "fips": "08067",
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lake",
+    "state": "Colorado",
+    "fips": "08065",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Larimer",
+    "state": "Colorado",
+    "fips": "08069",
+    "cases": 107,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Colorado",
+    "fips": "08073",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Logan",
+    "state": "Colorado",
+    "fips": "08075",
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mesa",
+    "state": "Colorado",
+    "fips": "08077",
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mineral",
+    "state": "Colorado",
+    "fips": "08079",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Moffat",
+    "state": "Colorado",
+    "fips": "08081",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montezuma",
+    "state": "Colorado",
+    "fips": "08083",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montrose",
+    "state": "Colorado",
+    "fips": "08085",
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Colorado",
+    "fips": "08087",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Otero",
+    "state": "Colorado",
+    "fips": "08089",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Park",
+    "state": "Colorado",
+    "fips": "08093",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Phillips",
+    "state": "Colorado",
+    "fips": "08095",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pitkin",
+    "state": "Colorado",
+    "fips": "08097",
+    "cases": 33,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pueblo",
+    "state": "Colorado",
+    "fips": "08101",
+    "cases": 28,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rio Grande",
+    "state": "Colorado",
+    "fips": "08105",
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Routt",
+    "state": "Colorado",
+    "fips": "08107",
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saguache",
+    "state": "Colorado",
+    "fips": "08109",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Miguel",
+    "state": "Colorado",
+    "fips": "08113",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Summit",
+    "state": "Colorado",
+    "fips": "08117",
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Teller",
+    "state": "Colorado",
+    "fips": "08119",
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Colorado",
+    "fips": "",
+    "cases": 139,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Colorado",
+    "fips": "08121",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Weld",
+    "state": "Colorado",
+    "fips": "08123",
+    "cases": 293,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yuma",
+    "state": "Colorado",
+    "fips": "08125",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fairfield",
+    "state": "Connecticut",
+    "fips": "09001",
+    "cases": 1986,
+    "deaths": 38
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hartford",
+    "state": "Connecticut",
+    "fips": "09003",
+    "cases": 469,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Litchfield",
+    "state": "Connecticut",
+    "fips": "09005",
+    "cases": 131,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Middlesex",
+    "state": "Connecticut",
+    "fips": "09007",
+    "cases": 66,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "New Haven",
+    "state": "Connecticut",
+    "fips": "09009",
+    "cases": 611,
+    "deaths": 12
+  },
+  {
+    "date": "2020-04-01",
+    "county": "New London",
+    "state": "Connecticut",
+    "fips": "09011",
+    "cases": 29,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tolland",
+    "state": "Connecticut",
+    "fips": "09013",
+    "cases": 61,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Connecticut",
+    "fips": "",
+    "cases": 185,
+    "deaths": 17
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Windham",
+    "state": "Connecticut",
+    "fips": "09015",
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kent",
+    "state": "Delaware",
+    "fips": 10001,
+    "cases": 41,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "New Castle",
+    "state": "Delaware",
+    "fips": 10003,
+    "cases": 226,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sussex",
+    "state": "Delaware",
+    "fips": 10005,
+    "cases": 101,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "District of Columbia",
+    "state": "District of Columbia",
+    "fips": 11001,
+    "cases": 586,
+    "deaths": 11
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alachua",
+    "state": "Florida",
+    "fips": 12001,
+    "cases": 92,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baker",
+    "state": "Florida",
+    "fips": 12003,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bay",
+    "state": "Florida",
+    "fips": 12005,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bradford",
+    "state": "Florida",
+    "fips": 12007,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brevard",
+    "state": "Florida",
+    "fips": 12009,
+    "cases": 47,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Broward",
+    "state": "Florida",
+    "fips": 12011,
+    "cases": 1348,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calhoun",
+    "state": "Florida",
+    "fips": 12013,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Charlotte",
+    "state": "Florida",
+    "fips": 12015,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Citrus",
+    "state": "Florida",
+    "fips": 12017,
+    "cases": 23,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Florida",
+    "fips": 12019,
+    "cases": 53,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Collier",
+    "state": "Florida",
+    "fips": 12021,
+    "cases": 158,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "Florida",
+    "fips": 12023,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeSoto",
+    "state": "Florida",
+    "fips": 12027,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Duval",
+    "state": "Florida",
+    "fips": 12031,
+    "cases": 239,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Escambia",
+    "state": "Florida",
+    "fips": 12033,
+    "cases": 96,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Flagler",
+    "state": "Florida",
+    "fips": 12035,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gadsden",
+    "state": "Florida",
+    "fips": 12039,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Glades",
+    "state": "Florida",
+    "fips": 12043,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gulf",
+    "state": "Florida",
+    "fips": 12045,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hardee",
+    "state": "Florida",
+    "fips": 12049,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hendry",
+    "state": "Florida",
+    "fips": 12051,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hernando",
+    "state": "Florida",
+    "fips": 12053,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Highlands",
+    "state": "Florida",
+    "fips": 12055,
+    "cases": 21,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hillsborough",
+    "state": "Florida",
+    "fips": 12057,
+    "cases": 362,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Holmes",
+    "state": "Florida",
+    "fips": 12059,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Indian River",
+    "state": "Florida",
+    "fips": 12061,
+    "cases": 35,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Florida",
+    "fips": 12063,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lake",
+    "state": "Florida",
+    "fips": 12069,
+    "cases": 71,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "Florida",
+    "fips": 12071,
+    "cases": 235,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Leon",
+    "state": "Florida",
+    "fips": 12073,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Levy",
+    "state": "Florida",
+    "fips": 12075,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Florida",
+    "fips": 12079,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Manatee",
+    "state": "Florida",
+    "fips": 12081,
+    "cases": 70,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Florida",
+    "fips": 12083,
+    "cases": 30,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Martin",
+    "state": "Florida",
+    "fips": 12085,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Miami-Dade",
+    "state": "Florida",
+    "fips": 12086,
+    "cases": 2415,
+    "deaths": 11
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Florida",
+    "fips": 12087,
+    "cases": 30,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nassau",
+    "state": "Florida",
+    "fips": 12089,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Okaloosa",
+    "state": "Florida",
+    "fips": 12091,
+    "cases": 44,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Okeechobee",
+    "state": "Florida",
+    "fips": 12093,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "Florida",
+    "fips": 12095,
+    "cases": 458,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Osceola",
+    "state": "Florida",
+    "fips": 12097,
+    "cases": 140,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Palm Beach",
+    "state": "Florida",
+    "fips": 12099,
+    "cases": 616,
+    "deaths": 22
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pasco",
+    "state": "Florida",
+    "fips": 12101,
+    "cases": 51,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pinellas",
+    "state": "Florida",
+    "fips": 12103,
+    "cases": 233,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Polk",
+    "state": "Florida",
+    "fips": 12105,
+    "cases": 91,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Putnam",
+    "state": "Florida",
+    "fips": 12107,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Santa Rosa",
+    "state": "Florida",
+    "fips": 12113,
+    "cases": 46,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sarasota",
+    "state": "Florida",
+    "fips": 12115,
+    "cases": 99,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Seminole",
+    "state": "Florida",
+    "fips": 12117,
+    "cases": 128,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Johns",
+    "state": "Florida",
+    "fips": 12109,
+    "cases": 90,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Lucie",
+    "state": "Florida",
+    "fips": 12111,
+    "cases": 47,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sumter",
+    "state": "Florida",
+    "fips": 12119,
+    "cases": 57,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Suwannee",
+    "state": "Florida",
+    "fips": 12121,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Florida",
+    "fips": 12125,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Florida",
+    "fips": "",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Volusia",
+    "state": "Florida",
+    "fips": 12127,
+    "cases": 93,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wakulla",
+    "state": "Florida",
+    "fips": 12129,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walton",
+    "state": "Florida",
+    "fips": 12131,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Florida",
+    "fips": 12133,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Appling",
+    "state": "Georgia",
+    "fips": 13001,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bacon",
+    "state": "Georgia",
+    "fips": 13005,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baker",
+    "state": "Georgia",
+    "fips": 13007,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baldwin",
+    "state": "Georgia",
+    "fips": 13009,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Banks",
+    "state": "Georgia",
+    "fips": 13011,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barrow",
+    "state": "Georgia",
+    "fips": 13013,
+    "cases": 20,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bartow",
+    "state": "Georgia",
+    "fips": 13015,
+    "cases": 147,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ben Hill",
+    "state": "Georgia",
+    "fips": 13017,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Berrien",
+    "state": "Georgia",
+    "fips": 13019,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bibb",
+    "state": "Georgia",
+    "fips": 13021,
+    "cases": 23,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bleckley",
+    "state": "Georgia",
+    "fips": 13023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brooks",
+    "state": "Georgia",
+    "fips": 13027,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bryan",
+    "state": "Georgia",
+    "fips": 13029,
+    "cases": 9,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bulloch",
+    "state": "Georgia",
+    "fips": 13031,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Burke",
+    "state": "Georgia",
+    "fips": 13033,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butts",
+    "state": "Georgia",
+    "fips": 13035,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calhoun",
+    "state": "Georgia",
+    "fips": 13037,
+    "cases": 10,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Camden",
+    "state": "Georgia",
+    "fips": 13039,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Candler",
+    "state": "Georgia",
+    "fips": 13043,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Georgia",
+    "fips": 13045,
+    "cases": 133,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Catoosa",
+    "state": "Georgia",
+    "fips": 13047,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Charlton",
+    "state": "Georgia",
+    "fips": 13049,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chatham",
+    "state": "Georgia",
+    "fips": 13051,
+    "cases": 39,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chattahoochee",
+    "state": "Georgia",
+    "fips": 13053,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chattooga",
+    "state": "Georgia",
+    "fips": 13055,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cherokee",
+    "state": "Georgia",
+    "fips": 13057,
+    "cases": 85,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clarke",
+    "state": "Georgia",
+    "fips": 13059,
+    "cases": 54,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Georgia",
+    "fips": 13061,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clayton",
+    "state": "Georgia",
+    "fips": 13063,
+    "cases": 128,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinch",
+    "state": "Georgia",
+    "fips": 13065,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cobb",
+    "state": "Georgia",
+    "fips": 13067,
+    "cases": 304,
+    "deaths": 15
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coffee",
+    "state": "Georgia",
+    "fips": 13069,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Colquitt",
+    "state": "Georgia",
+    "fips": 13071,
+    "cases": 21,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "Georgia",
+    "fips": 13073,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cook",
+    "state": "Georgia",
+    "fips": 13075,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coweta",
+    "state": "Georgia",
+    "fips": 13077,
+    "cases": 42,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crisp",
+    "state": "Georgia",
+    "fips": 13081,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dade",
+    "state": "Georgia",
+    "fips": 13083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dawson",
+    "state": "Georgia",
+    "fips": 13085,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeKalb",
+    "state": "Georgia",
+    "fips": 13089,
+    "cases": 360,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Decatur",
+    "state": "Georgia",
+    "fips": 13087,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dodge",
+    "state": "Georgia",
+    "fips": 13091,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dooly",
+    "state": "Georgia",
+    "fips": 13093,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dougherty",
+    "state": "Georgia",
+    "fips": 13095,
+    "cases": 490,
+    "deaths": 29
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Georgia",
+    "fips": 13097,
+    "cases": 56,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Early",
+    "state": "Georgia",
+    "fips": 13099,
+    "cases": 34,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Effingham",
+    "state": "Georgia",
+    "fips": 13103,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Emanuel",
+    "state": "Georgia",
+    "fips": 13107,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fannin",
+    "state": "Georgia",
+    "fips": 13111,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Georgia",
+    "fips": 13113,
+    "cases": 48,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Floyd",
+    "state": "Georgia",
+    "fips": 13115,
+    "cases": 70,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Forsyth",
+    "state": "Georgia",
+    "fips": 13117,
+    "cases": 50,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Georgia",
+    "fips": 13119,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fulton",
+    "state": "Georgia",
+    "fips": 13121,
+    "cases": 638,
+    "deaths": 20
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gilmer",
+    "state": "Georgia",
+    "fips": 13123,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Glynn",
+    "state": "Georgia",
+    "fips": 13127,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gordon",
+    "state": "Georgia",
+    "fips": 13129,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grady",
+    "state": "Georgia",
+    "fips": 13131,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Georgia",
+    "fips": 13133,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gwinnett",
+    "state": "Georgia",
+    "fips": 13135,
+    "cases": 257,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Habersham",
+    "state": "Georgia",
+    "fips": 13137,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hall",
+    "state": "Georgia",
+    "fips": 13139,
+    "cases": 71,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Haralson",
+    "state": "Georgia",
+    "fips": 13143,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harris",
+    "state": "Georgia",
+    "fips": 13145,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hart",
+    "state": "Georgia",
+    "fips": 13147,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Heard",
+    "state": "Georgia",
+    "fips": 13149,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Georgia",
+    "fips": 13151,
+    "cases": 95,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Houston",
+    "state": "Georgia",
+    "fips": 13153,
+    "cases": 44,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Irwin",
+    "state": "Georgia",
+    "fips": 13155,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Georgia",
+    "fips": 13157,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jasper",
+    "state": "Georgia",
+    "fips": 13159,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jeff Davis",
+    "state": "Georgia",
+    "fips": 13161,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Georgia",
+    "fips": 13163,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jenkins",
+    "state": "Georgia",
+    "fips": 13165,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Georgia",
+    "fips": 13167,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jones",
+    "state": "Georgia",
+    "fips": 13169,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lamar",
+    "state": "Georgia",
+    "fips": 13171,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lanier",
+    "state": "Georgia",
+    "fips": 13173,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Laurens",
+    "state": "Georgia",
+    "fips": 13175,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "Georgia",
+    "fips": 13177,
+    "cases": 94,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Liberty",
+    "state": "Georgia",
+    "fips": 13179,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Georgia",
+    "fips": 13181,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Long",
+    "state": "Georgia",
+    "fips": 13183,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lowndes",
+    "state": "Georgia",
+    "fips": 13185,
+    "cases": 24,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lumpkin",
+    "state": "Georgia",
+    "fips": 13187,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Macon",
+    "state": "Georgia",
+    "fips": 13193,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Georgia",
+    "fips": 13195,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McDuffie",
+    "state": "Georgia",
+    "fips": 13189,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McIntosh",
+    "state": "Georgia",
+    "fips": 13191,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Meriwether",
+    "state": "Georgia",
+    "fips": 13199,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Miller",
+    "state": "Georgia",
+    "fips": 13201,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mitchell",
+    "state": "Georgia",
+    "fips": 13205,
+    "cases": 39,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Georgia",
+    "fips": 13207,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Georgia",
+    "fips": 13211,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Murray",
+    "state": "Georgia",
+    "fips": 13213,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Muscogee",
+    "state": "Georgia",
+    "fips": 13215,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newton",
+    "state": "Georgia",
+    "fips": 13217,
+    "cases": 34,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oconee",
+    "state": "Georgia",
+    "fips": 13219,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oglethorpe",
+    "state": "Georgia",
+    "fips": 13221,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Paulding",
+    "state": "Georgia",
+    "fips": 13223,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Peach",
+    "state": "Georgia",
+    "fips": 13225,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pickens",
+    "state": "Georgia",
+    "fips": 13227,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pierce",
+    "state": "Georgia",
+    "fips": 13229,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pike",
+    "state": "Georgia",
+    "fips": 13231,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Polk",
+    "state": "Georgia",
+    "fips": 13233,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pulaski",
+    "state": "Georgia",
+    "fips": 13235,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Putnam",
+    "state": "Georgia",
+    "fips": 13237,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rabun",
+    "state": "Georgia",
+    "fips": 13241,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "Georgia",
+    "fips": 13243,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richmond",
+    "state": "Georgia",
+    "fips": 13245,
+    "cases": 41,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockdale",
+    "state": "Georgia",
+    "fips": 13247,
+    "cases": 47,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Schley",
+    "state": "Georgia",
+    "fips": 13249,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Screven",
+    "state": "Georgia",
+    "fips": 13251,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Seminole",
+    "state": "Georgia",
+    "fips": 13253,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Spalding",
+    "state": "Georgia",
+    "fips": 13255,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stephens",
+    "state": "Georgia",
+    "fips": 13257,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stewart",
+    "state": "Georgia",
+    "fips": 13259,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sumter",
+    "state": "Georgia",
+    "fips": 13261,
+    "cases": 38,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Talbot",
+    "state": "Georgia",
+    "fips": 13263,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tattnall",
+    "state": "Georgia",
+    "fips": 13267,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Taylor",
+    "state": "Georgia",
+    "fips": 13269,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Terrell",
+    "state": "Georgia",
+    "fips": 13273,
+    "cases": 46,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Thomas",
+    "state": "Georgia",
+    "fips": 13275,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tift",
+    "state": "Georgia",
+    "fips": 13277,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Toombs",
+    "state": "Georgia",
+    "fips": 13279,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Troup",
+    "state": "Georgia",
+    "fips": 13285,
+    "cases": 19,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Turner",
+    "state": "Georgia",
+    "fips": 13287,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Twiggs",
+    "state": "Georgia",
+    "fips": 13289,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Georgia",
+    "fips": 13291,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Georgia",
+    "fips": "",
+    "cases": 485,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Upson",
+    "state": "Georgia",
+    "fips": 13293,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walker",
+    "state": "Georgia",
+    "fips": 13295,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walton",
+    "state": "Georgia",
+    "fips": 13297,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ware",
+    "state": "Georgia",
+    "fips": 13299,
+    "cases": 12,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Georgia",
+    "fips": 13301,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Georgia",
+    "fips": 13303,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Webster",
+    "state": "Georgia",
+    "fips": 13307,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wheeler",
+    "state": "Georgia",
+    "fips": 13309,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "White",
+    "state": "Georgia",
+    "fips": 13311,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Whitfield",
+    "state": "Georgia",
+    "fips": 13313,
+    "cases": 14,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilcox",
+    "state": "Georgia",
+    "fips": 13315,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilkes",
+    "state": "Georgia",
+    "fips": 13317,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilkinson",
+    "state": "Georgia",
+    "fips": 13319,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Worth",
+    "state": "Georgia",
+    "fips": 13321,
+    "cases": 28,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Guam",
+    "fips": "",
+    "cases": 147,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hawaii",
+    "state": "Hawaii",
+    "fips": 15001,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Honolulu",
+    "state": "Hawaii",
+    "fips": 15003,
+    "cases": 182,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kauai",
+    "state": "Hawaii",
+    "fips": 15007,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Maui",
+    "state": "Hawaii",
+    "fips": 15009,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Hawaii",
+    "fips": "",
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ada",
+    "state": "Idaho",
+    "fips": 16001,
+    "cases": 226,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Idaho",
+    "fips": 16003,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bannock",
+    "state": "Idaho",
+    "fips": 16005,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bingham",
+    "state": "Idaho",
+    "fips": 16011,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Blaine",
+    "state": "Idaho",
+    "fips": 16013,
+    "cases": 265,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bonner",
+    "state": "Idaho",
+    "fips": 16017,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bonneville",
+    "state": "Idaho",
+    "fips": 16019,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Camas",
+    "state": "Idaho",
+    "fips": 16025,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Canyon",
+    "state": "Idaho",
+    "fips": 16027,
+    "cases": 68,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cassia",
+    "state": "Idaho",
+    "fips": 16031,
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Custer",
+    "state": "Idaho",
+    "fips": 16037,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Elmore",
+    "state": "Idaho",
+    "fips": 16039,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fremont",
+    "state": "Idaho",
+    "fips": 16043,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gem",
+    "state": "Idaho",
+    "fips": 16045,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gooding",
+    "state": "Idaho",
+    "fips": 16047,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Idaho",
+    "state": "Idaho",
+    "fips": 16049,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Idaho",
+    "fips": 16051,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jerome",
+    "state": "Idaho",
+    "fips": 16053,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kootenai",
+    "state": "Idaho",
+    "fips": 16055,
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Latah",
+    "state": "Idaho",
+    "fips": 16057,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Idaho",
+    "fips": 16063,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Idaho",
+    "fips": 16065,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Minidoka",
+    "state": "Idaho",
+    "fips": 16067,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nez Perce",
+    "state": "Idaho",
+    "fips": 16069,
+    "cases": 10,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Owyhee",
+    "state": "Idaho",
+    "fips": 16073,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Payette",
+    "state": "Idaho",
+    "fips": 16075,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Teton",
+    "state": "Idaho",
+    "fips": 16081,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Twin Falls",
+    "state": "Idaho",
+    "fips": 16083,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Valley",
+    "state": "Idaho",
+    "fips": 16085,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Illinois",
+    "fips": 17001,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bond",
+    "state": "Illinois",
+    "fips": 17005,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bureau",
+    "state": "Illinois",
+    "fips": 17011,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Illinois",
+    "fips": 17015,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Champaign",
+    "state": "Illinois",
+    "fips": 17019,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Christian",
+    "state": "Illinois",
+    "fips": 17021,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Illinois",
+    "fips": 17023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinton",
+    "state": "Illinois",
+    "fips": 17027,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cook",
+    "state": "Illinois",
+    "fips": 17031,
+    "cases": 5152,
+    "deaths": 95
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Illinois",
+    "fips": 17033,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cumberland",
+    "state": "Illinois",
+    "fips": 17035,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeKalb",
+    "state": "Illinois",
+    "fips": 17037,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Illinois",
+    "fips": 17041,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DuPage",
+    "state": "Illinois",
+    "fips": 17043,
+    "cases": 392,
+    "deaths": 12
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Illinois",
+    "fips": 17051,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ford",
+    "state": "Illinois",
+    "fips": 17053,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Illinois",
+    "fips": 17055,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grundy",
+    "state": "Illinois",
+    "fips": 17063,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Illinois",
+    "fips": 17073,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iroquois",
+    "state": "Illinois",
+    "fips": 17075,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Illinois",
+    "fips": 17077,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jo Daviess",
+    "state": "Illinois",
+    "fips": 17085,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kane",
+    "state": "Illinois",
+    "fips": 17089,
+    "cases": 142,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kankakee",
+    "state": "Illinois",
+    "fips": 17091,
+    "cases": 57,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kendall",
+    "state": "Illinois",
+    "fips": 17093,
+    "cases": 27,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Knox",
+    "state": "Illinois",
+    "fips": 17095,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "LaSalle",
+    "state": "Illinois",
+    "fips": 17099,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lake",
+    "state": "Illinois",
+    "fips": 17097,
+    "cases": 477,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Livingston",
+    "state": "Illinois",
+    "fips": 17105,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Macon",
+    "state": "Illinois",
+    "fips": 17115,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Illinois",
+    "fips": 17119,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Illinois",
+    "fips": 17121,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "Illinois",
+    "fips": 17123,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mason",
+    "state": "Illinois",
+    "fips": 17125,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Massac",
+    "state": "Illinois",
+    "fips": 17127,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McHenry",
+    "state": "Illinois",
+    "fips": 17111,
+    "cases": 69,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McLean",
+    "state": "Illinois",
+    "fips": 17113,
+    "cases": 19,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Menard",
+    "state": "Illinois",
+    "fips": 17129,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Illinois",
+    "fips": 17133,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Illinois",
+    "fips": 17135,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Illinois",
+    "fips": 17137,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ogle",
+    "state": "Illinois",
+    "fips": 17141,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Peoria",
+    "state": "Illinois",
+    "fips": 17143,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "Illinois",
+    "fips": 17157,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rock Island",
+    "state": "Illinois",
+    "fips": 17161,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saline",
+    "state": "Illinois",
+    "fips": 17165,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sangamon",
+    "state": "Illinois",
+    "fips": 17167,
+    "cases": 17,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Clair",
+    "state": "Illinois",
+    "fips": 17163,
+    "cases": 53,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stephenson",
+    "state": "Illinois",
+    "fips": 17177,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tazewell",
+    "state": "Illinois",
+    "fips": 17179,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Illinois",
+    "fips": "",
+    "cases": 58,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vermilion",
+    "state": "Illinois",
+    "fips": 17183,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Illinois",
+    "fips": 17189,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Whiteside",
+    "state": "Illinois",
+    "fips": 17195,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Will",
+    "state": "Illinois",
+    "fips": 17197,
+    "cases": 322,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Williamson",
+    "state": "Illinois",
+    "fips": 17199,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winnebago",
+    "state": "Illinois",
+    "fips": 17201,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Woodford",
+    "state": "Illinois",
+    "fips": 17203,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Indiana",
+    "fips": 18001,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allen",
+    "state": "Indiana",
+    "fips": 18003,
+    "cases": 39,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bartholomew",
+    "state": "Indiana",
+    "fips": 18005,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Indiana",
+    "fips": 18007,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boone",
+    "state": "Indiana",
+    "fips": 18011,
+    "cases": 29,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brown",
+    "state": "Indiana",
+    "fips": 18013,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Indiana",
+    "fips": 18015,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cass",
+    "state": "Indiana",
+    "fips": 18017,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Indiana",
+    "fips": 18019,
+    "cases": 38,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Indiana",
+    "fips": 18021,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinton",
+    "state": "Indiana",
+    "fips": 18023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Indiana",
+    "fips": 18025,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeKalb",
+    "state": "Indiana",
+    "fips": 18033,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dearborn",
+    "state": "Indiana",
+    "fips": 18029,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Decatur",
+    "state": "Indiana",
+    "fips": 18031,
+    "cases": 48,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Delaware",
+    "state": "Indiana",
+    "fips": 18035,
+    "cases": 22,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dubois",
+    "state": "Indiana",
+    "fips": 18037,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Elkhart",
+    "state": "Indiana",
+    "fips": 18039,
+    "cases": 23,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Indiana",
+    "fips": 18041,
+    "cases": 10,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Floyd",
+    "state": "Indiana",
+    "fips": 18043,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fountain",
+    "state": "Indiana",
+    "fips": 18045,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Indiana",
+    "fips": 18047,
+    "cases": 39,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fulton",
+    "state": "Indiana",
+    "fips": 18049,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gibson",
+    "state": "Indiana",
+    "fips": 18051,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "Indiana",
+    "fips": 18053,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Indiana",
+    "fips": 18055,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hamilton",
+    "state": "Indiana",
+    "fips": 18057,
+    "cases": 179,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hancock",
+    "state": "Indiana",
+    "fips": 18059,
+    "cases": 33,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrison",
+    "state": "Indiana",
+    "fips": 18061,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hendricks",
+    "state": "Indiana",
+    "fips": 18063,
+    "cases": 91,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Indiana",
+    "fips": 18065,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Howard",
+    "state": "Indiana",
+    "fips": 18067,
+    "cases": 20,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Huntington",
+    "state": "Indiana",
+    "fips": 18069,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Indiana",
+    "fips": 18071,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jasper",
+    "state": "Indiana",
+    "fips": 18073,
+    "cases": 9,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jay",
+    "state": "Indiana",
+    "fips": 18075,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Indiana",
+    "fips": 18077,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jennings",
+    "state": "Indiana",
+    "fips": 18079,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Indiana",
+    "fips": 18081,
+    "cases": 118,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Knox",
+    "state": "Indiana",
+    "fips": 18083,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kosciusko",
+    "state": "Indiana",
+    "fips": 18085,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "LaGrange",
+    "state": "Indiana",
+    "fips": 18087,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "LaPorte",
+    "state": "Indiana",
+    "fips": 18091,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lake",
+    "state": "Indiana",
+    "fips": 18089,
+    "cases": 180,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Indiana",
+    "fips": 18093,
+    "cases": 11,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Indiana",
+    "fips": 18095,
+    "cases": 46,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Indiana",
+    "fips": 18097,
+    "cases": 1117,
+    "deaths": 21
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "Indiana",
+    "fips": 18099,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Miami",
+    "state": "Indiana",
+    "fips": 18103,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Indiana",
+    "fips": 18105,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Indiana",
+    "fips": 18107,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Indiana",
+    "fips": 18109,
+    "cases": 41,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newton",
+    "state": "Indiana",
+    "fips": 18111,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Noble",
+    "state": "Indiana",
+    "fips": 18113,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ohio",
+    "state": "Indiana",
+    "fips": 18115,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "Indiana",
+    "fips": 18117,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Owen",
+    "state": "Indiana",
+    "fips": 18119,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Porter",
+    "state": "Indiana",
+    "fips": 18127,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Posey",
+    "state": "Indiana",
+    "fips": 18129,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Putnam",
+    "state": "Indiana",
+    "fips": 18133,
+    "cases": 11,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "Indiana",
+    "fips": 18135,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ripley",
+    "state": "Indiana",
+    "fips": 18137,
+    "cases": 33,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rush",
+    "state": "Indiana",
+    "fips": 18139,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Indiana",
+    "fips": 18143,
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Indiana",
+    "fips": 18145,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Joseph",
+    "state": "Indiana",
+    "fips": 18141,
+    "cases": 57,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Starke",
+    "state": "Indiana",
+    "fips": 18149,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Steuben",
+    "state": "Indiana",
+    "fips": 18151,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sullivan",
+    "state": "Indiana",
+    "fips": 18153,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Switzerland",
+    "state": "Indiana",
+    "fips": 18155,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tippecanoe",
+    "state": "Indiana",
+    "fips": 18157,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tipton",
+    "state": "Indiana",
+    "fips": 18159,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Indiana",
+    "fips": "",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vanderburgh",
+    "state": "Indiana",
+    "fips": 18163,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vermillion",
+    "state": "Indiana",
+    "fips": 18165,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vigo",
+    "state": "Indiana",
+    "fips": 18167,
+    "cases": 9,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wabash",
+    "state": "Indiana",
+    "fips": 18169,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Indiana",
+    "fips": 18171,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warrick",
+    "state": "Indiana",
+    "fips": 18173,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Indiana",
+    "fips": 18175,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "Indiana",
+    "fips": 18177,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wells",
+    "state": "Indiana",
+    "fips": 18179,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "White",
+    "state": "Indiana",
+    "fips": 18181,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Whitley",
+    "state": "Indiana",
+    "fips": 18183,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adair",
+    "state": "Iowa",
+    "fips": 19001,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allamakee",
+    "state": "Iowa",
+    "fips": 19005,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Appanoose",
+    "state": "Iowa",
+    "fips": 19007,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Audubon",
+    "state": "Iowa",
+    "fips": 19009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Iowa",
+    "fips": 19011,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Black Hawk",
+    "state": "Iowa",
+    "fips": 19013,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boone",
+    "state": "Iowa",
+    "fips": 19015,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Buchanan",
+    "state": "Iowa",
+    "fips": 19019,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butler",
+    "state": "Iowa",
+    "fips": 19023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Iowa",
+    "fips": 19027,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cedar",
+    "state": "Iowa",
+    "fips": 19031,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cerro Gordo",
+    "state": "Iowa",
+    "fips": 19033,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Iowa",
+    "fips": 19041,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clayton",
+    "state": "Iowa",
+    "fips": 19043,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinton",
+    "state": "Iowa",
+    "fips": 19045,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Iowa",
+    "fips": 19047,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dallas",
+    "state": "Iowa",
+    "fips": 19049,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Des Moines",
+    "state": "Iowa",
+    "fips": 19057,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dickinson",
+    "state": "Iowa",
+    "fips": 19059,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dubuque",
+    "state": "Iowa",
+    "fips": 19061,
+    "cases": 22,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Iowa",
+    "fips": 19065,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Guthrie",
+    "state": "Iowa",
+    "fips": 19077,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hancock",
+    "state": "Iowa",
+    "fips": 19081,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hardin",
+    "state": "Iowa",
+    "fips": 19083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrison",
+    "state": "Iowa",
+    "fips": 19085,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Iowa",
+    "fips": 19087,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iowa",
+    "state": "Iowa",
+    "fips": 19095,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Iowa",
+    "fips": 19097,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jasper",
+    "state": "Iowa",
+    "fips": 19099,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Iowa",
+    "fips": 19103,
+    "cases": 76,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jones",
+    "state": "Iowa",
+    "fips": 19105,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Keokuk",
+    "state": "Iowa",
+    "fips": 19107,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kossuth",
+    "state": "Iowa",
+    "fips": 19109,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Linn",
+    "state": "Iowa",
+    "fips": 19113,
+    "cases": 94,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Iowa",
+    "fips": 19121,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mahaska",
+    "state": "Iowa",
+    "fips": 19123,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "Iowa",
+    "fips": 19127,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mitchell",
+    "state": "Iowa",
+    "fips": 19131,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monona",
+    "state": "Iowa",
+    "fips": 19133,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Iowa",
+    "fips": 19137,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Muscatine",
+    "state": "Iowa",
+    "fips": 19139,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Page",
+    "state": "Iowa",
+    "fips": 19145,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Polk",
+    "state": "Iowa",
+    "fips": 19153,
+    "cases": 81,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pottawattamie",
+    "state": "Iowa",
+    "fips": 19155,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Poweshiek",
+    "state": "Iowa",
+    "fips": 19157,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Iowa",
+    "fips": 19163,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Iowa",
+    "fips": 19165,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sioux",
+    "state": "Iowa",
+    "fips": 19167,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Story",
+    "state": "Iowa",
+    "fips": 19169,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tama",
+    "state": "Iowa",
+    "fips": 19171,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Taylor",
+    "state": "Iowa",
+    "fips": 19173,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Van Buren",
+    "state": "Iowa",
+    "fips": 19177,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wapello",
+    "state": "Iowa",
+    "fips": 19179,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Iowa",
+    "fips": 19181,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Iowa",
+    "fips": 19183,
+    "cases": 34,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Webster",
+    "state": "Iowa",
+    "fips": 19187,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winneshiek",
+    "state": "Iowa",
+    "fips": 19191,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Woodbury",
+    "state": "Iowa",
+    "fips": 19193,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wright",
+    "state": "Iowa",
+    "fips": 19197,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Atchison",
+    "state": "Kansas",
+    "fips": 20005,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barton",
+    "state": "Kansas",
+    "fips": 20009,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bourbon",
+    "state": "Kansas",
+    "fips": 20011,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butler",
+    "state": "Kansas",
+    "fips": 20015,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chautauqua",
+    "state": "Kansas",
+    "fips": 20019,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cherokee",
+    "state": "Kansas",
+    "fips": 20021,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Kansas",
+    "fips": 20027,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coffey",
+    "state": "Kansas",
+    "fips": 20031,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Kansas",
+    "fips": 20037,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Doniphan",
+    "state": "Kansas",
+    "fips": 20043,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Kansas",
+    "fips": 20045,
+    "cases": 30,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Finney",
+    "state": "Kansas",
+    "fips": 20055,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ford",
+    "state": "Kansas",
+    "fips": 20057,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Kansas",
+    "fips": 20059,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gove",
+    "state": "Kansas",
+    "fips": 20063,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harvey",
+    "state": "Kansas",
+    "fips": 20079,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Kansas",
+    "fips": 20085,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Kansas",
+    "fips": 20087,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Kansas",
+    "fips": 20091,
+    "cases": 143,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Labette",
+    "state": "Kansas",
+    "fips": 20099,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Leavenworth",
+    "state": "Kansas",
+    "fips": 20103,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Linn",
+    "state": "Kansas",
+    "fips": 20107,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lyon",
+    "state": "Kansas",
+    "fips": 20111,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McPherson",
+    "state": "Kansas",
+    "fips": 20113,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Miami",
+    "state": "Kansas",
+    "fips": 20121,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mitchell",
+    "state": "Kansas",
+    "fips": 20123,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Kansas",
+    "fips": 20125,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morris",
+    "state": "Kansas",
+    "fips": 20127,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Neosho",
+    "state": "Kansas",
+    "fips": 20133,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Osage",
+    "state": "Kansas",
+    "fips": 20139,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ottawa",
+    "state": "Kansas",
+    "fips": 20143,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pottawatomie",
+    "state": "Kansas",
+    "fips": 20149,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pratt",
+    "state": "Kansas",
+    "fips": 20151,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Reno",
+    "state": "Kansas",
+    "fips": 20155,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Riley",
+    "state": "Kansas",
+    "fips": 20161,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saline",
+    "state": "Kansas",
+    "fips": 20169,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sedgwick",
+    "state": "Kansas",
+    "fips": 20173,
+    "cases": 64,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shawnee",
+    "state": "Kansas",
+    "fips": 20177,
+    "cases": 18,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stafford",
+    "state": "Kansas",
+    "fips": 20185,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stevens",
+    "state": "Kansas",
+    "fips": 20189,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sumner",
+    "state": "Kansas",
+    "fips": 20191,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Woodson",
+    "state": "Kansas",
+    "fips": 20207,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wyandotte",
+    "state": "Kansas",
+    "fips": 20209,
+    "cases": 93,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allen",
+    "state": "Kentucky",
+    "fips": 21003,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anderson",
+    "state": "Kentucky",
+    "fips": 21005,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barren",
+    "state": "Kentucky",
+    "fips": 21009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boone",
+    "state": "Kentucky",
+    "fips": 21015,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bourbon",
+    "state": "Kentucky",
+    "fips": 21017,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boyd",
+    "state": "Kentucky",
+    "fips": 21019,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boyle",
+    "state": "Kentucky",
+    "fips": 21021,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bracken",
+    "state": "Kentucky",
+    "fips": 21023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Breathitt",
+    "state": "Kentucky",
+    "fips": 21025,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Breckinridge",
+    "state": "Kentucky",
+    "fips": 21027,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bullitt",
+    "state": "Kentucky",
+    "fips": 21029,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butler",
+    "state": "Kentucky",
+    "fips": 21031,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calloway",
+    "state": "Kentucky",
+    "fips": 21035,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Campbell",
+    "state": "Kentucky",
+    "fips": 21037,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Kentucky",
+    "fips": 21041,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Christian",
+    "state": "Kentucky",
+    "fips": 21047,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Kentucky",
+    "fips": 21049,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Daviess",
+    "state": "Kentucky",
+    "fips": 21059,
+    "cases": 42,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Edmonson",
+    "state": "Kentucky",
+    "fips": 21061,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Kentucky",
+    "fips": 21067,
+    "cases": 118,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Floyd",
+    "state": "Kentucky",
+    "fips": 21071,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Kentucky",
+    "fips": 21073,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "Kentucky",
+    "fips": 21081,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Graves",
+    "state": "Kentucky",
+    "fips": 21083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grayson",
+    "state": "Kentucky",
+    "fips": 21085,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hancock",
+    "state": "Kentucky",
+    "fips": 21091,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hardin",
+    "state": "Kentucky",
+    "fips": 21093,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrison",
+    "state": "Kentucky",
+    "fips": 21097,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henderson",
+    "state": "Kentucky",
+    "fips": 21101,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Kentucky",
+    "fips": 21103,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hopkins",
+    "state": "Kentucky",
+    "fips": 21107,
+    "cases": 21,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Kentucky",
+    "fips": 21111,
+    "cases": 221,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jessamine",
+    "state": "Kentucky",
+    "fips": 21113,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kenton",
+    "state": "Kentucky",
+    "fips": 21117,
+    "cases": 26,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Larue",
+    "state": "Kentucky",
+    "fips": 21123,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Laurel",
+    "state": "Kentucky",
+    "fips": 21125,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Kentucky",
+    "fips": 21127,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lewis",
+    "state": "Kentucky",
+    "fips": 21135,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Logan",
+    "state": "Kentucky",
+    "fips": 21141,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lyon",
+    "state": "Kentucky",
+    "fips": 21143,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Kentucky",
+    "fips": 21151,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Kentucky",
+    "fips": 21155,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "Kentucky",
+    "fips": 21157,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Martin",
+    "state": "Kentucky",
+    "fips": 21159,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mason",
+    "state": "Kentucky",
+    "fips": 21161,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McCracken",
+    "state": "Kentucky",
+    "fips": 21145,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McCreary",
+    "state": "Kentucky",
+    "fips": 21147,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Menifee",
+    "state": "Kentucky",
+    "fips": 21165,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mercer",
+    "state": "Kentucky",
+    "fips": 21167,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Kentucky",
+    "fips": 21173,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Muhlenberg",
+    "state": "Kentucky",
+    "fips": 21177,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nelson",
+    "state": "Kentucky",
+    "fips": 21179,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nicholas",
+    "state": "Kentucky",
+    "fips": 21181,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oldham",
+    "state": "Kentucky",
+    "fips": 21185,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Powell",
+    "state": "Kentucky",
+    "fips": 21197,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pulaski",
+    "state": "Kentucky",
+    "fips": 21199,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockcastle",
+    "state": "Kentucky",
+    "fips": 21203,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Russell",
+    "state": "Kentucky",
+    "fips": 21207,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Kentucky",
+    "fips": 21209,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Kentucky",
+    "fips": 21211,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Simpson",
+    "state": "Kentucky",
+    "fips": 21213,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Spencer",
+    "state": "Kentucky",
+    "fips": 21215,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Taylor",
+    "state": "Kentucky",
+    "fips": 21217,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Kentucky",
+    "fips": 21225,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Kentucky",
+    "fips": "",
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Kentucky",
+    "fips": 21227,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Kentucky",
+    "fips": 21229,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "Kentucky",
+    "fips": 21231,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Webster",
+    "state": "Kentucky",
+    "fips": 21233,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Woodford",
+    "state": "Kentucky",
+    "fips": 21239,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Acadia",
+    "state": "Louisiana",
+    "fips": 22001,
+    "cases": 47,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allen",
+    "state": "Louisiana",
+    "fips": 22003,
+    "cases": 19,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ascension",
+    "state": "Louisiana",
+    "fips": 22005,
+    "cases": 189,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Assumption",
+    "state": "Louisiana",
+    "fips": 22007,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Avoyelles",
+    "state": "Louisiana",
+    "fips": 22009,
+    "cases": 31,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Beauregard",
+    "state": "Louisiana",
+    "fips": 22011,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bienville",
+    "state": "Louisiana",
+    "fips": 22013,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bossier",
+    "state": "Louisiana",
+    "fips": 22015,
+    "cases": 75,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caddo",
+    "state": "Louisiana",
+    "fips": 22017,
+    "cases": 298,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calcasieu",
+    "state": "Louisiana",
+    "fips": 22019,
+    "cases": 90,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Catahoula",
+    "state": "Louisiana",
+    "fips": 22025,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Claiborne",
+    "state": "Louisiana",
+    "fips": 22027,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Concordia",
+    "state": "Louisiana",
+    "fips": 22029,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "De Soto",
+    "state": "Louisiana",
+    "fips": 22031,
+    "cases": 39,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "East Baton Rouge",
+    "state": "Louisiana",
+    "fips": 22033,
+    "cases": 244,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-01",
+    "county": "East Carroll",
+    "state": "Louisiana",
+    "fips": 22035,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "East Feliciana",
+    "state": "Louisiana",
+    "fips": 22037,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Evangeline",
+    "state": "Louisiana",
+    "fips": 22039,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Louisiana",
+    "fips": 22041,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "Louisiana",
+    "fips": 22043,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iberia",
+    "state": "Louisiana",
+    "fips": 22045,
+    "cases": 49,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iberville",
+    "state": "Louisiana",
+    "fips": 22047,
+    "cases": 36,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Louisiana",
+    "fips": 22049,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Louisiana",
+    "fips": 22051,
+    "cases": 1433,
+    "deaths": 64
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson Davis",
+    "state": "Louisiana",
+    "fips": 22053,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "LaSalle",
+    "state": "Louisiana",
+    "fips": 22059,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lafayette",
+    "state": "Louisiana",
+    "fips": 22055,
+    "cases": 159,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lafourche",
+    "state": "Louisiana",
+    "fips": 22057,
+    "cases": 105,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Louisiana",
+    "fips": 22061,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Livingston",
+    "state": "Louisiana",
+    "fips": 22063,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Louisiana",
+    "fips": 22065,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morehouse",
+    "state": "Louisiana",
+    "fips": 22067,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Natchitoches",
+    "state": "Louisiana",
+    "fips": 22069,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orleans",
+    "state": "Louisiana",
+    "fips": 22071,
+    "cases": 2270,
+    "deaths": 115
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ouachita",
+    "state": "Louisiana",
+    "fips": 22073,
+    "cases": 80,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Plaquemines",
+    "state": "Louisiana",
+    "fips": 22075,
+    "cases": 47,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pointe Coupee",
+    "state": "Louisiana",
+    "fips": 22077,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rapides",
+    "state": "Louisiana",
+    "fips": 22079,
+    "cases": 69,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Red River",
+    "state": "Louisiana",
+    "fips": 22081,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richland",
+    "state": "Louisiana",
+    "fips": 22083,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sabine",
+    "state": "Louisiana",
+    "fips": 22085,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Bernard",
+    "state": "Louisiana",
+    "fips": 22087,
+    "cases": 94,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Charles",
+    "state": "Louisiana",
+    "fips": 22089,
+    "cases": 82,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Helena",
+    "state": "Louisiana",
+    "fips": 22091,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. James",
+    "state": "Louisiana",
+    "fips": 22093,
+    "cases": 86,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. John the Baptist",
+    "state": "Louisiana",
+    "fips": 22095,
+    "cases": 118,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Landry",
+    "state": "Louisiana",
+    "fips": 22097,
+    "cases": 45,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Martin",
+    "state": "Louisiana",
+    "fips": 22099,
+    "cases": 41,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Mary",
+    "state": "Louisiana",
+    "fips": 22101,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Tammany",
+    "state": "Louisiana",
+    "fips": 22103,
+    "cases": 270,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tangipahoa",
+    "state": "Louisiana",
+    "fips": 22105,
+    "cases": 33,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Terrebonne",
+    "state": "Louisiana",
+    "fips": 22109,
+    "cases": 55,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Louisiana",
+    "fips": 22111,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Louisiana",
+    "fips": "",
+    "cases": 28,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vermilion",
+    "state": "Louisiana",
+    "fips": 22113,
+    "cases": 10,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vernon",
+    "state": "Louisiana",
+    "fips": 22115,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Louisiana",
+    "fips": 22117,
+    "cases": 39,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Webster",
+    "state": "Louisiana",
+    "fips": 22119,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "West Baton Rouge",
+    "state": "Louisiana",
+    "fips": 22121,
+    "cases": 14,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "West Feliciana",
+    "state": "Louisiana",
+    "fips": 22125,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winn",
+    "state": "Louisiana",
+    "fips": 22127,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Androscoggin",
+    "state": "Maine",
+    "fips": 23001,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cumberland",
+    "state": "Maine",
+    "fips": 23005,
+    "cases": 192,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Maine",
+    "fips": 23007,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hancock",
+    "state": "Maine",
+    "fips": 23009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kennebec",
+    "state": "Maine",
+    "fips": 23011,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Knox",
+    "state": "Maine",
+    "fips": 23013,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Maine",
+    "fips": 23015,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oxford",
+    "state": "Maine",
+    "fips": 23017,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Penobscot",
+    "state": "Maine",
+    "fips": 23019,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sagadahoc",
+    "state": "Maine",
+    "fips": 23023,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Somerset",
+    "state": "Maine",
+    "fips": 23025,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Maine",
+    "fips": "",
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Waldo",
+    "state": "Maine",
+    "fips": 23027,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "York",
+    "state": "Maine",
+    "fips": 23031,
+    "cases": 65,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anne Arundel",
+    "state": "Maryland",
+    "fips": 24003,
+    "cases": 158,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baltimore",
+    "state": "Maryland",
+    "fips": 24005,
+    "cases": 289,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Baltimore city",
+    "state": "Maryland",
+    "fips": 24510,
+    "cases": 187,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calvert",
+    "state": "Maryland",
+    "fips": 24009,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caroline",
+    "state": "Maryland",
+    "fips": 24011,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Maryland",
+    "fips": 24013,
+    "cases": 96,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cecil",
+    "state": "Maryland",
+    "fips": 24015,
+    "cases": 16,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Charles",
+    "state": "Maryland",
+    "fips": 24017,
+    "cases": 56,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dorchester",
+    "state": "Maryland",
+    "fips": 24019,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Frederick",
+    "state": "Maryland",
+    "fips": 24021,
+    "cases": 35,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Garrett",
+    "state": "Maryland",
+    "fips": 24023,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harford",
+    "state": "Maryland",
+    "fips": 24025,
+    "cases": 34,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Howard",
+    "state": "Maryland",
+    "fips": 24027,
+    "cases": 142,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kent",
+    "state": "Maryland",
+    "fips": 24029,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Maryland",
+    "fips": 24031,
+    "cases": 447,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Prince George's",
+    "state": "Maryland",
+    "fips": 24033,
+    "cases": 403,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Queen Anne's",
+    "state": "Maryland",
+    "fips": 24035,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Somerset",
+    "state": "Maryland",
+    "fips": 24039,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Mary's",
+    "state": "Maryland",
+    "fips": 24037,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Talbot",
+    "state": "Maryland",
+    "fips": 24041,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Maryland",
+    "fips": 24043,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wicomico",
+    "state": "Maryland",
+    "fips": 24045,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Worcester",
+    "state": "Maryland",
+    "fips": 24047,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barnstable",
+    "state": "Massachusetts",
+    "fips": 25001,
+    "cases": 255,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Berkshire",
+    "state": "Massachusetts",
+    "fips": 25003,
+    "cases": 183,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bristol",
+    "state": "Massachusetts",
+    "fips": 25005,
+    "cases": 366,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dukes",
+    "state": "Massachusetts",
+    "fips": 25007,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Essex",
+    "state": "Massachusetts",
+    "fips": 25009,
+    "cases": 885,
+    "deaths": 17
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Massachusetts",
+    "fips": 25011,
+    "cases": 72,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hampden",
+    "state": "Massachusetts",
+    "fips": 25013,
+    "cases": 475,
+    "deaths": 17
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hampshire",
+    "state": "Massachusetts",
+    "fips": 25015,
+    "cases": 81,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Middlesex",
+    "state": "Massachusetts",
+    "fips": 25017,
+    "cases": 1582,
+    "deaths": 21
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nantucket",
+    "state": "Massachusetts",
+    "fips": 25019,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Norfolk",
+    "state": "Massachusetts",
+    "fips": 25021,
+    "cases": 829,
+    "deaths": 15
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Plymouth",
+    "state": "Massachusetts",
+    "fips": 25023,
+    "cases": 561,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Suffolk",
+    "state": "Massachusetts",
+    "fips": 25025,
+    "cases": 1624,
+    "deaths": 14
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Massachusetts",
+    "fips": "",
+    "cases": 335,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Worcester",
+    "state": "Massachusetts",
+    "fips": 25027,
+    "cases": 563,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allegan",
+    "state": "Michigan",
+    "fips": 26005,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Antrim",
+    "state": "Michigan",
+    "fips": 26009,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Arenac",
+    "state": "Michigan",
+    "fips": 26011,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barry",
+    "state": "Michigan",
+    "fips": 26015,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bay",
+    "state": "Michigan",
+    "fips": 26017,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Berrien",
+    "state": "Michigan",
+    "fips": 26021,
+    "cases": 38,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Branch",
+    "state": "Michigan",
+    "fips": 26023,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calhoun",
+    "state": "Michigan",
+    "fips": 26025,
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cass",
+    "state": "Michigan",
+    "fips": 26027,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Charlevoix",
+    "state": "Michigan",
+    "fips": 26029,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cheboygan",
+    "state": "Michigan",
+    "fips": 26031,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chippewa",
+    "state": "Michigan",
+    "fips": 26033,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clare",
+    "state": "Michigan",
+    "fips": 26035,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinton",
+    "state": "Michigan",
+    "fips": 26037,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Michigan",
+    "fips": 26039,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Delta",
+    "state": "Michigan",
+    "fips": 26041,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Eaton",
+    "state": "Michigan",
+    "fips": 26045,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Emmet",
+    "state": "Michigan",
+    "fips": 26047,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Genesee",
+    "state": "Michigan",
+    "fips": 26049,
+    "cases": 249,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gladwin",
+    "state": "Michigan",
+    "fips": 26051,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gogebic",
+    "state": "Michigan",
+    "fips": 26053,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grand Traverse",
+    "state": "Michigan",
+    "fips": 26055,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gratiot",
+    "state": "Michigan",
+    "fips": 26057,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hillsdale",
+    "state": "Michigan",
+    "fips": 26059,
+    "cases": 19,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Houghton",
+    "state": "Michigan",
+    "fips": 26061,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Huron",
+    "state": "Michigan",
+    "fips": 26063,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ingham",
+    "state": "Michigan",
+    "fips": 26065,
+    "cases": 121,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ionia",
+    "state": "Michigan",
+    "fips": 26067,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iosco",
+    "state": "Michigan",
+    "fips": 26069,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Isabella",
+    "state": "Michigan",
+    "fips": 26073,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Michigan",
+    "fips": 26075,
+    "cases": 56,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kalamazoo",
+    "state": "Michigan",
+    "fips": 26077,
+    "cases": 30,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kalkaska",
+    "state": "Michigan",
+    "fips": 26079,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kent",
+    "state": "Michigan",
+    "fips": 26081,
+    "cases": 119,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lapeer",
+    "state": "Michigan",
+    "fips": 26087,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Leelanau",
+    "state": "Michigan",
+    "fips": 26089,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lenawee",
+    "state": "Michigan",
+    "fips": 26091,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Livingston",
+    "state": "Michigan",
+    "fips": 26093,
+    "cases": 101,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mackinac",
+    "state": "Michigan",
+    "fips": 26097,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Macomb",
+    "state": "Michigan",
+    "fips": 26099,
+    "cases": 1088,
+    "deaths": 51
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Manistee",
+    "state": "Michigan",
+    "fips": 26101,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marquette",
+    "state": "Michigan",
+    "fips": 26103,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mecosta",
+    "state": "Michigan",
+    "fips": 26107,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Midland",
+    "state": "Michigan",
+    "fips": 26111,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Missaukee",
+    "state": "Michigan",
+    "fips": 26113,
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Michigan",
+    "fips": 26115,
+    "cases": 58,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montcalm",
+    "state": "Michigan",
+    "fips": 26117,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Muskegon",
+    "state": "Michigan",
+    "fips": 26121,
+    "cases": 18,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newaygo",
+    "state": "Michigan",
+    "fips": 26123,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oakland",
+    "state": "Michigan",
+    "fips": 26125,
+    "cases": 1910,
+    "deaths": 99
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oceana",
+    "state": "Michigan",
+    "fips": 26127,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ogemaw",
+    "state": "Michigan",
+    "fips": 26129,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Osceola",
+    "state": "Michigan",
+    "fips": 26133,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oscoda",
+    "state": "Michigan",
+    "fips": 26135,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Otsego",
+    "state": "Michigan",
+    "fips": 26137,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ottawa",
+    "state": "Michigan",
+    "fips": 26139,
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roscommon",
+    "state": "Michigan",
+    "fips": 26143,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saginaw",
+    "state": "Michigan",
+    "fips": 26145,
+    "cases": 71,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sanilac",
+    "state": "Michigan",
+    "fips": 26151,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Schoolcraft",
+    "state": "Michigan",
+    "fips": 26153,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shiawassee",
+    "state": "Michigan",
+    "fips": 26155,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Clair",
+    "state": "Michigan",
+    "fips": 26147,
+    "cases": 41,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Joseph",
+    "state": "Michigan",
+    "fips": 26149,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tuscola",
+    "state": "Michigan",
+    "fips": 26157,
+    "cases": 11,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Michigan",
+    "fips": "",
+    "cases": 161,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Van Buren",
+    "state": "Michigan",
+    "fips": 26159,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washtenaw",
+    "state": "Michigan",
+    "fips": 26161,
+    "cases": 401,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "Michigan",
+    "fips": 26163,
+    "cases": 4470,
+    "deaths": 146
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wexford",
+    "state": "Michigan",
+    "fips": 26165,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anoka",
+    "state": "Minnesota",
+    "fips": 27003,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Beltrami",
+    "state": "Minnesota",
+    "fips": 27007,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Minnesota",
+    "fips": 27009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Big Stone",
+    "state": "Minnesota",
+    "fips": 27011,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Blue Earth",
+    "state": "Minnesota",
+    "fips": 27013,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brown",
+    "state": "Minnesota",
+    "fips": 27015,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carlton",
+    "state": "Minnesota",
+    "fips": 27017,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carver",
+    "state": "Minnesota",
+    "fips": 27019,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cass",
+    "state": "Minnesota",
+    "fips": 27021,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chisago",
+    "state": "Minnesota",
+    "fips": 27025,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Minnesota",
+    "fips": 27027,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clearwater",
+    "state": "Minnesota",
+    "fips": 27029,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cottonwood",
+    "state": "Minnesota",
+    "fips": 27033,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crow Wing",
+    "state": "Minnesota",
+    "fips": 27035,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dakota",
+    "state": "Minnesota",
+    "fips": 27037,
+    "cases": 48,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dodge",
+    "state": "Minnesota",
+    "fips": 27039,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Minnesota",
+    "fips": 27041,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Faribault",
+    "state": "Minnesota",
+    "fips": 27043,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fillmore",
+    "state": "Minnesota",
+    "fips": 27045,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Freeborn",
+    "state": "Minnesota",
+    "fips": 27047,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Goodhue",
+    "state": "Minnesota",
+    "fips": 27049,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hennepin",
+    "state": "Minnesota",
+    "fips": 27053,
+    "cases": 218,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Isanti",
+    "state": "Minnesota",
+    "fips": 27059,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Itasca",
+    "state": "Minnesota",
+    "fips": 27061,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Minnesota",
+    "fips": 27063,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kandiyohi",
+    "state": "Minnesota",
+    "fips": 27067,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lac qui Parle",
+    "state": "Minnesota",
+    "fips": 27073,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Le Sueur",
+    "state": "Minnesota",
+    "fips": 27079,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Minnesota",
+    "fips": 27081,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lyon",
+    "state": "Minnesota",
+    "fips": 27083,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mahnomen",
+    "state": "Minnesota",
+    "fips": 27087,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Martin",
+    "state": "Minnesota",
+    "fips": 27091,
+    "cases": 29,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Meeker",
+    "state": "Minnesota",
+    "fips": 27093,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mower",
+    "state": "Minnesota",
+    "fips": 27099,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nicollet",
+    "state": "Minnesota",
+    "fips": 27103,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Olmsted",
+    "state": "Minnesota",
+    "fips": 27109,
+    "cases": 61,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Otter Tail",
+    "state": "Minnesota",
+    "fips": 27111,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ramsey",
+    "state": "Minnesota",
+    "fips": 27123,
+    "cases": 66,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Renville",
+    "state": "Minnesota",
+    "fips": 27129,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rice",
+    "state": "Minnesota",
+    "fips": 27131,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Minnesota",
+    "fips": 27139,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sherburne",
+    "state": "Minnesota",
+    "fips": 27141,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sibley",
+    "state": "Minnesota",
+    "fips": 27143,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Louis",
+    "state": "Minnesota",
+    "fips": 27137,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stearns",
+    "state": "Minnesota",
+    "fips": 27145,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Steele",
+    "state": "Minnesota",
+    "fips": 27147,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Traverse",
+    "state": "Minnesota",
+    "fips": 27155,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Minnesota",
+    "fips": "",
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wabasha",
+    "state": "Minnesota",
+    "fips": 27157,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Waseca",
+    "state": "Minnesota",
+    "fips": 27161,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Minnesota",
+    "fips": 27163,
+    "cases": 44,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Watonwan",
+    "state": "Minnesota",
+    "fips": 27165,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilkin",
+    "state": "Minnesota",
+    "fips": 27167,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winona",
+    "state": "Minnesota",
+    "fips": 27169,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wright",
+    "state": "Minnesota",
+    "fips": 27171,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yellow Medicine",
+    "state": "Minnesota",
+    "fips": 27173,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Mississippi",
+    "fips": 28001,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alcorn",
+    "state": "Mississippi",
+    "fips": 28003,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Amite",
+    "state": "Mississippi",
+    "fips": 28005,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Attala",
+    "state": "Mississippi",
+    "fips": 28007,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Mississippi",
+    "fips": 28009,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bolivar",
+    "state": "Mississippi",
+    "fips": 28011,
+    "cases": 25,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calhoun",
+    "state": "Mississippi",
+    "fips": 28013,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Mississippi",
+    "fips": 28015,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chickasaw",
+    "state": "Mississippi",
+    "fips": 28017,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Choctaw",
+    "state": "Mississippi",
+    "fips": 28019,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Claiborne",
+    "state": "Mississippi",
+    "fips": 28021,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clarke",
+    "state": "Mississippi",
+    "fips": 28023,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Mississippi",
+    "fips": 28025,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coahoma",
+    "state": "Mississippi",
+    "fips": 28027,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Copiah",
+    "state": "Mississippi",
+    "fips": 28029,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Covington",
+    "state": "Mississippi",
+    "fips": 28031,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeSoto",
+    "state": "Mississippi",
+    "fips": 28033,
+    "cases": 94,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Forrest",
+    "state": "Mississippi",
+    "fips": 28035,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Mississippi",
+    "fips": 28037,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "George",
+    "state": "Mississippi",
+    "fips": 28039,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grenada",
+    "state": "Mississippi",
+    "fips": 28043,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hancock",
+    "state": "Mississippi",
+    "fips": 28045,
+    "cases": 20,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrison",
+    "state": "Mississippi",
+    "fips": 28047,
+    "cases": 49,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hinds",
+    "state": "Mississippi",
+    "fips": 28049,
+    "cases": 109,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Holmes",
+    "state": "Mississippi",
+    "fips": 28051,
+    "cases": 16,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Humphreys",
+    "state": "Mississippi",
+    "fips": 28053,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Itawamba",
+    "state": "Mississippi",
+    "fips": 28057,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Mississippi",
+    "fips": 28059,
+    "cases": 52,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jasper",
+    "state": "Mississippi",
+    "fips": 28061,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Mississippi",
+    "fips": 28063,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jones",
+    "state": "Mississippi",
+    "fips": 28067,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kemper",
+    "state": "Mississippi",
+    "fips": 28069,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lafayette",
+    "state": "Mississippi",
+    "fips": 28071,
+    "cases": 15,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lamar",
+    "state": "Mississippi",
+    "fips": 28073,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lauderdale",
+    "state": "Mississippi",
+    "fips": 28075,
+    "cases": 39,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Mississippi",
+    "fips": 28077,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Leake",
+    "state": "Mississippi",
+    "fips": 28079,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "Mississippi",
+    "fips": 28081,
+    "cases": 25,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Leflore",
+    "state": "Mississippi",
+    "fips": 28083,
+    "cases": 20,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Mississippi",
+    "fips": 28085,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lowndes",
+    "state": "Mississippi",
+    "fips": 28087,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Mississippi",
+    "fips": 28089,
+    "cases": 53,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Mississippi",
+    "fips": 28091,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "Mississippi",
+    "fips": 28093,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Mississippi",
+    "fips": 28095,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Mississippi",
+    "fips": 28097,
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Neshoba",
+    "state": "Mississippi",
+    "fips": 28099,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newton",
+    "state": "Mississippi",
+    "fips": 28101,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Noxubee",
+    "state": "Mississippi",
+    "fips": 28103,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oktibbeha",
+    "state": "Mississippi",
+    "fips": 28105,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Panola",
+    "state": "Mississippi",
+    "fips": 28107,
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pearl River",
+    "state": "Mississippi",
+    "fips": 28109,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Perry",
+    "state": "Mississippi",
+    "fips": 28111,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pike",
+    "state": "Mississippi",
+    "fips": 28113,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pontotoc",
+    "state": "Mississippi",
+    "fips": 28115,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Prentiss",
+    "state": "Mississippi",
+    "fips": 28117,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Quitman",
+    "state": "Mississippi",
+    "fips": 28119,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rankin",
+    "state": "Mississippi",
+    "fips": 28121,
+    "cases": 48,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Mississippi",
+    "fips": 28123,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sharkey",
+    "state": "Mississippi",
+    "fips": 28125,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Simpson",
+    "state": "Mississippi",
+    "fips": 28127,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Smith",
+    "state": "Mississippi",
+    "fips": 28129,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sunflower",
+    "state": "Mississippi",
+    "fips": 28133,
+    "cases": 12,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tallahatchie",
+    "state": "Mississippi",
+    "fips": 28135,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tate",
+    "state": "Mississippi",
+    "fips": 28137,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tippah",
+    "state": "Mississippi",
+    "fips": 28139,
+    "cases": 28,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tishomingo",
+    "state": "Mississippi",
+    "fips": 28141,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tunica",
+    "state": "Mississippi",
+    "fips": 28143,
+    "cases": 13,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Mississippi",
+    "fips": 28145,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Mississippi",
+    "fips": "",
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walthall",
+    "state": "Mississippi",
+    "fips": 28147,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Mississippi",
+    "fips": 28149,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Mississippi",
+    "fips": 28151,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Webster",
+    "state": "Mississippi",
+    "fips": 28155,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilkinson",
+    "state": "Mississippi",
+    "fips": 28157,
+    "cases": 16,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winston",
+    "state": "Mississippi",
+    "fips": 28159,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yalobusha",
+    "state": "Mississippi",
+    "fips": 28161,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yazoo",
+    "state": "Mississippi",
+    "fips": 28163,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adair",
+    "state": "Missouri",
+    "fips": 29001,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Atchison",
+    "state": "Missouri",
+    "fips": 29005,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barry",
+    "state": "Missouri",
+    "fips": 29009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bates",
+    "state": "Missouri",
+    "fips": 29013,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Missouri",
+    "fips": 29015,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bollinger",
+    "state": "Missouri",
+    "fips": 29017,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Boone",
+    "state": "Missouri",
+    "fips": 29019,
+    "cases": 65,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Buchanan",
+    "state": "Missouri",
+    "fips": 29021,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butler",
+    "state": "Missouri",
+    "fips": 29023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caldwell",
+    "state": "Missouri",
+    "fips": 29025,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Callaway",
+    "state": "Missouri",
+    "fips": 29027,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Camden",
+    "state": "Missouri",
+    "fips": 29029,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cape Girardeau",
+    "state": "Missouri",
+    "fips": 29031,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carter",
+    "state": "Missouri",
+    "fips": 29035,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cass",
+    "state": "Missouri",
+    "fips": 29037,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cedar",
+    "state": "Missouri",
+    "fips": 29039,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chariton",
+    "state": "Missouri",
+    "fips": 29041,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Christian",
+    "state": "Missouri",
+    "fips": 29043,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Missouri",
+    "fips": 29047,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinton",
+    "state": "Missouri",
+    "fips": 29049,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cole",
+    "state": "Missouri",
+    "fips": 29051,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cooper",
+    "state": "Missouri",
+    "fips": 29053,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Missouri",
+    "fips": 29055,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeKalb",
+    "state": "Missouri",
+    "fips": 29063,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dunklin",
+    "state": "Missouri",
+    "fips": 29069,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Missouri",
+    "fips": 29071,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gasconade",
+    "state": "Missouri",
+    "fips": 29073,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Missouri",
+    "fips": 29077,
+    "cases": 51,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrison",
+    "state": "Missouri",
+    "fips": 29081,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Missouri",
+    "fips": 29083,
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Missouri",
+    "fips": 29095,
+    "cases": 86,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jasper",
+    "state": "Missouri",
+    "fips": 29097,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Missouri",
+    "fips": 29099,
+    "cases": 38,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Missouri",
+    "fips": 29101,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kansas City",
+    "state": "Missouri",
+    "fips": "",
+    "cases": 128,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lafayette",
+    "state": "Missouri",
+    "fips": 29107,
+    "cases": 20,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Missouri",
+    "fips": 29113,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Livingston",
+    "state": "Missouri",
+    "fips": 29117,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Macon",
+    "state": "Missouri",
+    "fips": 29121,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Maries",
+    "state": "Missouri",
+    "fips": 29125,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Missouri",
+    "fips": 29127,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McDonald",
+    "state": "Missouri",
+    "fips": 29119,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Moniteau",
+    "state": "Missouri",
+    "fips": 29135,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Missouri",
+    "fips": 29139,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Missouri",
+    "fips": 29141,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newton",
+    "state": "Missouri",
+    "fips": 29145,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Osage",
+    "state": "Missouri",
+    "fips": 29151,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pemiscot",
+    "state": "Missouri",
+    "fips": 29155,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Perry",
+    "state": "Missouri",
+    "fips": 29157,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pettis",
+    "state": "Missouri",
+    "fips": 29159,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pike",
+    "state": "Missouri",
+    "fips": 29163,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Platte",
+    "state": "Missouri",
+    "fips": 29165,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pulaski",
+    "state": "Missouri",
+    "fips": 29169,
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ralls",
+    "state": "Missouri",
+    "fips": 29173,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "Missouri",
+    "fips": 29175,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ray",
+    "state": "Missouri",
+    "fips": 29177,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Reynolds",
+    "state": "Missouri",
+    "fips": 29179,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ripley",
+    "state": "Missouri",
+    "fips": 29181,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Missouri",
+    "fips": 29201,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Missouri",
+    "fips": 29205,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Charles",
+    "state": "Missouri",
+    "fips": 29183,
+    "cases": 95,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Francois",
+    "state": "Missouri",
+    "fips": 29187,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Louis",
+    "state": "Missouri",
+    "fips": 29189,
+    "cases": 492,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Louis city",
+    "state": "Missouri",
+    "fips": 29510,
+    "cases": 136,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ste. Genevieve",
+    "state": "Missouri",
+    "fips": 29186,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stoddard",
+    "state": "Missouri",
+    "fips": 29207,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stone",
+    "state": "Missouri",
+    "fips": 29209,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Taney",
+    "state": "Missouri",
+    "fips": 29213,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Missouri",
+    "fips": "",
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Missouri",
+    "fips": 29219,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Webster",
+    "state": "Missouri",
+    "fips": 29225,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wright",
+    "state": "Missouri",
+    "fips": 29229,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Broadwater",
+    "state": "Montana",
+    "fips": 30007,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carbon",
+    "state": "Montana",
+    "fips": 30009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cascade",
+    "state": "Montana",
+    "fips": 30013,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Deer Lodge",
+    "state": "Montana",
+    "fips": 30023,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Flathead",
+    "state": "Montana",
+    "fips": 30029,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gallatin",
+    "state": "Montana",
+    "fips": 30031,
+    "cases": 79,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hill",
+    "state": "Montana",
+    "fips": 30041,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Montana",
+    "fips": 30043,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lake",
+    "state": "Montana",
+    "fips": 30047,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lewis and Clark",
+    "state": "Montana",
+    "fips": 30049,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Liberty",
+    "state": "Montana",
+    "fips": 30051,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Montana",
+    "fips": 30053,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Montana",
+    "fips": 30057,
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Meagher",
+    "state": "Montana",
+    "fips": 30059,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Missoula",
+    "state": "Montana",
+    "fips": 30063,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Musselshell",
+    "state": "Montana",
+    "fips": 30065,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Park",
+    "state": "Montana",
+    "fips": 30067,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ravalli",
+    "state": "Montana",
+    "fips": 30081,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roosevelt",
+    "state": "Montana",
+    "fips": 30085,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Silver Bow",
+    "state": "Montana",
+    "fips": 30093,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Toole",
+    "state": "Montana",
+    "fips": 30101,
+    "cases": 6,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yellowstone",
+    "state": "Montana",
+    "fips": 30111,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Nebraska",
+    "fips": 31001,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Antelope",
+    "state": "Nebraska",
+    "fips": 31003,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Buffalo",
+    "state": "Nebraska",
+    "fips": 31019,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cass",
+    "state": "Nebraska",
+    "fips": 31025,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cuming",
+    "state": "Nebraska",
+    "fips": 31039,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dawson",
+    "state": "Nebraska",
+    "fips": 31047,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dodge",
+    "state": "Nebraska",
+    "fips": 31053,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Nebraska",
+    "fips": 31055,
+    "cases": 140,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gosper",
+    "state": "Nebraska",
+    "fips": 31073,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hall",
+    "state": "Nebraska",
+    "fips": 31079,
+    "cases": 15,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kearney",
+    "state": "Nebraska",
+    "fips": 31099,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kimball",
+    "state": "Nebraska",
+    "fips": 31105,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Knox",
+    "state": "Nebraska",
+    "fips": 31107,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lancaster",
+    "state": "Nebraska",
+    "fips": 31109,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Nebraska",
+    "fips": 31111,
+    "cases": 9,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Nebraska",
+    "fips": 31119,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nemaha",
+    "state": "Nebraska",
+    "fips": 31127,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Platte",
+    "state": "Nebraska",
+    "fips": 31141,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sarpy",
+    "state": "Nebraska",
+    "fips": 31153,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saunders",
+    "state": "Nebraska",
+    "fips": 31155,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scotts Bluff",
+    "state": "Nebraska",
+    "fips": 31157,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Nebraska",
+    "fips": "",
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Nebraska",
+    "fips": 31177,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "York",
+    "state": "Nebraska",
+    "fips": 31185,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carson City",
+    "state": "Nevada",
+    "fips": 32510,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Nevada",
+    "fips": 32003,
+    "cases": 961,
+    "deaths": 28
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Nevada",
+    "fips": 32005,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Elko",
+    "state": "Nevada",
+    "fips": 32007,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Humboldt",
+    "state": "Nevada",
+    "fips": 32013,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lyon",
+    "state": "Nevada",
+    "fips": 32019,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nye",
+    "state": "Nevada",
+    "fips": 32023,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Nevada",
+    "fips": "",
+    "cases": 131,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washoe",
+    "state": "Nevada",
+    "fips": 32031,
+    "cases": 163,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Belknap",
+    "state": "New Hampshire",
+    "fips": 33001,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "New Hampshire",
+    "fips": 33003,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cheshire",
+    "state": "New Hampshire",
+    "fips": 33005,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grafton",
+    "state": "New Hampshire",
+    "fips": 33009,
+    "cases": 36,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hillsborough",
+    "state": "New Hampshire",
+    "fips": 33011,
+    "cases": 129,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Merrimack",
+    "state": "New Hampshire",
+    "fips": 33013,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockingham",
+    "state": "New Hampshire",
+    "fips": 33015,
+    "cases": 154,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Strafford",
+    "state": "New Hampshire",
+    "fips": 33017,
+    "cases": 30,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sullivan",
+    "state": "New Hampshire",
+    "fips": 33019,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Atlantic",
+    "state": "New Jersey",
+    "fips": 34001,
+    "cases": 40,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "fips": 34003,
+    "cases": 3494,
+    "deaths": 75
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Burlington",
+    "state": "New Jersey",
+    "fips": 34005,
+    "cases": 255,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Camden",
+    "state": "New Jersey",
+    "fips": 34007,
+    "cases": 289,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cape May",
+    "state": "New Jersey",
+    "fips": 34009,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cumberland",
+    "state": "New Jersey",
+    "fips": 34011,
+    "cases": 27,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Essex",
+    "state": "New Jersey",
+    "fips": 34013,
+    "cases": 2262,
+    "deaths": 69
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gloucester",
+    "state": "New Jersey",
+    "fips": 34015,
+    "cases": 149,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hudson",
+    "state": "New Jersey",
+    "fips": 34017,
+    "cases": 1910,
+    "deaths": 29
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hunterdon",
+    "state": "New Jersey",
+    "fips": 34019,
+    "cases": 117,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mercer",
+    "state": "New Jersey",
+    "fips": 34021,
+    "cases": 333,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Middlesex",
+    "state": "New Jersey",
+    "fips": 34023,
+    "cases": 1493,
+    "deaths": 27
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monmouth",
+    "state": "New Jersey",
+    "fips": 34025,
+    "cases": 1301,
+    "deaths": 24
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morris",
+    "state": "New Jersey",
+    "fips": 34027,
+    "cases": 942,
+    "deaths": 25
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ocean",
+    "state": "New Jersey",
+    "fips": 34029,
+    "cases": 1209,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Passaic",
+    "state": "New Jersey",
+    "fips": 34031,
+    "cases": 1494,
+    "deaths": 15
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Salem",
+    "state": "New Jersey",
+    "fips": 34033,
+    "cases": 19,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Somerset",
+    "state": "New Jersey",
+    "fips": 34035,
+    "cases": 472,
+    "deaths": 15
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sussex",
+    "state": "New Jersey",
+    "fips": 34037,
+    "cases": 158,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "New Jersey",
+    "fips": 34039,
+    "cases": 1661,
+    "deaths": 29
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "New Jersey",
+    "fips": "",
+    "cases": 4512,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "New Jersey",
+    "fips": 34041,
+    "cases": 96,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bernalillo",
+    "state": "New Mexico",
+    "fips": 35001,
+    "cases": 148,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Catron",
+    "state": "New Mexico",
+    "fips": 35003,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chaves",
+    "state": "New Mexico",
+    "fips": 35005,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cibola",
+    "state": "New Mexico",
+    "fips": 35006,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Curry",
+    "state": "New Mexico",
+    "fips": 35009,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Doña Ana",
+    "state": "New Mexico",
+    "fips": 35013,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Eddy",
+    "state": "New Mexico",
+    "fips": 35015,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "New Mexico",
+    "fips": 35017,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lea",
+    "state": "New Mexico",
+    "fips": 35025,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McKinley",
+    "state": "New Mexico",
+    "fips": 35031,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Otero",
+    "state": "New Mexico",
+    "fips": 35035,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rio Arriba",
+    "state": "New Mexico",
+    "fips": 35039,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roosevelt",
+    "state": "New Mexico",
+    "fips": 35041,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Juan",
+    "state": "New Mexico",
+    "fips": 35045,
+    "cases": 37,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Miguel",
+    "state": "New Mexico",
+    "fips": 35047,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sandoval",
+    "state": "New Mexico",
+    "fips": 35043,
+    "cases": 32,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Santa Fe",
+    "state": "New Mexico",
+    "fips": 35049,
+    "cases": 48,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Socorro",
+    "state": "New Mexico",
+    "fips": 35053,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Taos",
+    "state": "New Mexico",
+    "fips": 35055,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Torrance",
+    "state": "New Mexico",
+    "fips": 35057,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Valencia",
+    "state": "New Mexico",
+    "fips": 35061,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Albany",
+    "state": "New York",
+    "fips": 36001,
+    "cases": 240,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allegany",
+    "state": "New York",
+    "fips": 36003,
+    "cases": 10,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Broome",
+    "state": "New York",
+    "fips": 36007,
+    "cases": 42,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cattaraugus",
+    "state": "New York",
+    "fips": 36009,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cayuga",
+    "state": "New York",
+    "fips": 36011,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chautauqua",
+    "state": "New York",
+    "fips": 36013,
+    "cases": 10,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chemung",
+    "state": "New York",
+    "fips": 36015,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chenango",
+    "state": "New York",
+    "fips": 36017,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinton",
+    "state": "New York",
+    "fips": 36019,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "New York",
+    "fips": 36021,
+    "cases": 41,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cortland",
+    "state": "New York",
+    "fips": 36023,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Delaware",
+    "state": "New York",
+    "fips": 36025,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dutchess",
+    "state": "New York",
+    "fips": 36027,
+    "cases": 547,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Erie",
+    "state": "New York",
+    "fips": 36029,
+    "cases": 553,
+    "deaths": 12
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Essex",
+    "state": "New York",
+    "fips": 36031,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "New York",
+    "fips": 36033,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fulton",
+    "state": "New York",
+    "fips": 36035,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Genesee",
+    "state": "New York",
+    "fips": 36037,
+    "cases": 13,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "New York",
+    "fips": 36039,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hamilton",
+    "state": "New York",
+    "fips": 36041,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Herkimer",
+    "state": "New York",
+    "fips": 36043,
+    "cases": 16,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "New York",
+    "fips": 36045,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lewis",
+    "state": "New York",
+    "fips": 36049,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Livingston",
+    "state": "New York",
+    "fips": 36051,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "New York",
+    "fips": 36053,
+    "cases": 67,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "New York",
+    "fips": 36055,
+    "cases": 349,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "New York",
+    "fips": 36057,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nassau",
+    "state": "New York",
+    "fips": 36059,
+    "cases": 9555,
+    "deaths": 76
+  },
+  {
+    "date": "2020-04-01",
+    "county": "New York City",
+    "state": "New York",
+    "fips": "",
+    "cases": 47440,
+    "deaths": 1374
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Niagara",
+    "state": "New York",
+    "fips": 36063,
+    "cases": 46,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oneida",
+    "state": "New York",
+    "fips": 36065,
+    "cases": 50,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Onondaga",
+    "state": "New York",
+    "fips": 36067,
+    "cases": 249,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ontario",
+    "state": "New York",
+    "fips": 36069,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "New York",
+    "fips": 36071,
+    "cases": 1756,
+    "deaths": 25
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orleans",
+    "state": "New York",
+    "fips": 36073,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oswego",
+    "state": "New York",
+    "fips": 36075,
+    "cases": 17,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Otsego",
+    "state": "New York",
+    "fips": 36077,
+    "cases": 19,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Putnam",
+    "state": "New York",
+    "fips": 36079,
+    "cases": 207,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rensselaer",
+    "state": "New York",
+    "fips": 36083,
+    "cases": 60,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockland",
+    "state": "New York",
+    "fips": 36087,
+    "cases": 3321,
+    "deaths": 29
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saratoga",
+    "state": "New York",
+    "fips": 36091,
+    "cases": 122,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Schenectady",
+    "state": "New York",
+    "fips": 36093,
+    "cases": 93,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Schoharie",
+    "state": "New York",
+    "fips": 36095,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Schuyler",
+    "state": "New York",
+    "fips": 36097,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Seneca",
+    "state": "New York",
+    "fips": 36099,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Lawrence",
+    "state": "New York",
+    "fips": 36089,
+    "cases": 34,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Steuben",
+    "state": "New York",
+    "fips": 36101,
+    "cases": 38,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Suffolk",
+    "state": "New York",
+    "fips": 36103,
+    "cases": 7605,
+    "deaths": 69
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sullivan",
+    "state": "New York",
+    "fips": 36105,
+    "cases": 121,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tioga",
+    "state": "New York",
+    "fips": 36107,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tompkins",
+    "state": "New York",
+    "fips": 36109,
+    "cases": 68,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ulster",
+    "state": "New York",
+    "fips": 36111,
+    "cases": 222,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "New York",
+    "fips": 36113,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "New York",
+    "fips": 36115,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "New York",
+    "fips": 36117,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Westchester",
+    "state": "New York",
+    "fips": 36119,
+    "cases": 10683,
+    "deaths": 25
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wyoming",
+    "state": "New York",
+    "fips": 36121,
+    "cases": 10,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alamance",
+    "state": "North Carolina",
+    "fips": 37001,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alexander",
+    "state": "North Carolina",
+    "fips": 37003,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alleghany",
+    "state": "North Carolina",
+    "fips": 37005,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anson",
+    "state": "North Carolina",
+    "fips": 37007,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Beaufort",
+    "state": "North Carolina",
+    "fips": 37013,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bertie",
+    "state": "North Carolina",
+    "fips": 37015,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brunswick",
+    "state": "North Carolina",
+    "fips": 37019,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Buncombe",
+    "state": "North Carolina",
+    "fips": 37021,
+    "cases": 22,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Burke",
+    "state": "North Carolina",
+    "fips": 37023,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cabarrus",
+    "state": "North Carolina",
+    "fips": 37025,
+    "cases": 47,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caldwell",
+    "state": "North Carolina",
+    "fips": 37027,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carteret",
+    "state": "North Carolina",
+    "fips": 37031,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caswell",
+    "state": "North Carolina",
+    "fips": 37033,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Catawba",
+    "state": "North Carolina",
+    "fips": 37035,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chatham",
+    "state": "North Carolina",
+    "fips": 37037,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cherokee",
+    "state": "North Carolina",
+    "fips": 37039,
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "North Carolina",
+    "fips": 37043,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cleveland",
+    "state": "North Carolina",
+    "fips": 37045,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbus",
+    "state": "North Carolina",
+    "fips": 37047,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Craven",
+    "state": "North Carolina",
+    "fips": 37049,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cumberland",
+    "state": "North Carolina",
+    "fips": 37051,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Currituck",
+    "state": "North Carolina",
+    "fips": 37053,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Davidson",
+    "state": "North Carolina",
+    "fips": 37057,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Davie",
+    "state": "North Carolina",
+    "fips": 37059,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Duplin",
+    "state": "North Carolina",
+    "fips": 37061,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Durham",
+    "state": "North Carolina",
+    "fips": 37063,
+    "cases": 126,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Edgecombe",
+    "state": "North Carolina",
+    "fips": 37065,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Forsyth",
+    "state": "North Carolina",
+    "fips": 37067,
+    "cases": 42,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "North Carolina",
+    "fips": 37069,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gaston",
+    "state": "North Carolina",
+    "fips": 37071,
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Granville",
+    "state": "North Carolina",
+    "fips": 37077,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "North Carolina",
+    "fips": 37079,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Guilford",
+    "state": "North Carolina",
+    "fips": 37081,
+    "cases": 55,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Halifax",
+    "state": "North Carolina",
+    "fips": 37083,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harnett",
+    "state": "North Carolina",
+    "fips": 37085,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henderson",
+    "state": "North Carolina",
+    "fips": 37089,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hertford",
+    "state": "North Carolina",
+    "fips": 37091,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hoke",
+    "state": "North Carolina",
+    "fips": 37093,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iredell",
+    "state": "North Carolina",
+    "fips": 37097,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "North Carolina",
+    "fips": 37099,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnston",
+    "state": "North Carolina",
+    "fips": 37101,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "North Carolina",
+    "fips": 37105,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lenoir",
+    "state": "North Carolina",
+    "fips": 37107,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "North Carolina",
+    "fips": 37109,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Martin",
+    "state": "North Carolina",
+    "fips": 37117,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McDowell",
+    "state": "North Carolina",
+    "fips": 37111,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mecklenburg",
+    "state": "North Carolina",
+    "fips": 37119,
+    "cases": 444,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "North Carolina",
+    "fips": 37123,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Moore",
+    "state": "North Carolina",
+    "fips": 37125,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nash",
+    "state": "North Carolina",
+    "fips": 37127,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "New Hanover",
+    "state": "North Carolina",
+    "fips": 37129,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Northampton",
+    "state": "North Carolina",
+    "fips": 37131,
+    "cases": 30,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Onslow",
+    "state": "North Carolina",
+    "fips": 37133,
+    "cases": 7,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "North Carolina",
+    "fips": 37135,
+    "cases": 37,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pamlico",
+    "state": "North Carolina",
+    "fips": 37137,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pasquotank",
+    "state": "North Carolina",
+    "fips": 37139,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Perquimans",
+    "state": "North Carolina",
+    "fips": 37143,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Person",
+    "state": "North Carolina",
+    "fips": 37145,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pitt",
+    "state": "North Carolina",
+    "fips": 37147,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Polk",
+    "state": "North Carolina",
+    "fips": 37149,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "North Carolina",
+    "fips": 37151,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richmond",
+    "state": "North Carolina",
+    "fips": 37153,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Robeson",
+    "state": "North Carolina",
+    "fips": 37155,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockingham",
+    "state": "North Carolina",
+    "fips": 37157,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rowan",
+    "state": "North Carolina",
+    "fips": 37159,
+    "cases": 24,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rutherford",
+    "state": "North Carolina",
+    "fips": 37161,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sampson",
+    "state": "North Carolina",
+    "fips": 37163,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scotland",
+    "state": "North Carolina",
+    "fips": 37165,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stanly",
+    "state": "North Carolina",
+    "fips": 37167,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Surry",
+    "state": "North Carolina",
+    "fips": 37171,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Transylvania",
+    "state": "North Carolina",
+    "fips": 37175,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "North Carolina",
+    "fips": 37179,
+    "cases": 47,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vance",
+    "state": "North Carolina",
+    "fips": 37181,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wake",
+    "state": "North Carolina",
+    "fips": 37183,
+    "cases": 195,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "North Carolina",
+    "fips": 37187,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Watauga",
+    "state": "North Carolina",
+    "fips": 37189,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "North Carolina",
+    "fips": 37191,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilkes",
+    "state": "North Carolina",
+    "fips": 37193,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilson",
+    "state": "North Carolina",
+    "fips": 37195,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yadkin",
+    "state": "North Carolina",
+    "fips": 37197,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barnes",
+    "state": "North Dakota",
+    "fips": 38003,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Burke",
+    "state": "North Dakota",
+    "fips": 38013,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Burleigh",
+    "state": "North Dakota",
+    "fips": 38015,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cass",
+    "state": "North Dakota",
+    "fips": 38017,
+    "cases": 37,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Divide",
+    "state": "North Dakota",
+    "fips": 38023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dunn",
+    "state": "North Dakota",
+    "fips": 38025,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Foster",
+    "state": "North Dakota",
+    "fips": 38031,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grand Forks",
+    "state": "North Dakota",
+    "fips": 38035,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "North Dakota",
+    "fips": 38037,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McHenry",
+    "state": "North Dakota",
+    "fips": 38049,
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McIntosh",
+    "state": "North Dakota",
+    "fips": 38051,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McKenzie",
+    "state": "North Dakota",
+    "fips": 38053,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McLean",
+    "state": "North Dakota",
+    "fips": 38055,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morton",
+    "state": "North Dakota",
+    "fips": 38059,
+    "cases": 14,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mountrail",
+    "state": "North Dakota",
+    "fips": 38061,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oliver",
+    "state": "North Dakota",
+    "fips": 38065,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pierce",
+    "state": "North Dakota",
+    "fips": 38069,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ramsey",
+    "state": "North Dakota",
+    "fips": 38071,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sioux",
+    "state": "North Dakota",
+    "fips": 38085,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stark",
+    "state": "North Dakota",
+    "fips": 38089,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walsh",
+    "state": "North Dakota",
+    "fips": 38099,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ward",
+    "state": "North Dakota",
+    "fips": 38101,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Williams",
+    "state": "North Dakota",
+    "fips": 38105,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Northern Mariana Islands",
+    "fips": "",
+    "cases": 6,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allen",
+    "state": "Ohio",
+    "fips": 39003,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ashland",
+    "state": "Ohio",
+    "fips": 39005,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ashtabula",
+    "state": "Ohio",
+    "fips": 39007,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Athens",
+    "state": "Ohio",
+    "fips": 39009,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Auglaize",
+    "state": "Ohio",
+    "fips": 39011,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Belmont",
+    "state": "Ohio",
+    "fips": 39013,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brown",
+    "state": "Ohio",
+    "fips": 39015,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butler",
+    "state": "Ohio",
+    "fips": 39017,
+    "cases": 41,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Ohio",
+    "fips": 39019,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Champaign",
+    "state": "Ohio",
+    "fips": 39021,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Ohio",
+    "fips": 39023,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clermont",
+    "state": "Ohio",
+    "fips": 39025,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clinton",
+    "state": "Ohio",
+    "fips": 39027,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbiana",
+    "state": "Ohio",
+    "fips": 39029,
+    "cases": 19,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coshocton",
+    "state": "Ohio",
+    "fips": 39031,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Ohio",
+    "fips": 39033,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cuyahoga",
+    "state": "Ohio",
+    "fips": 39035,
+    "cases": 589,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Darke",
+    "state": "Ohio",
+    "fips": 39037,
+    "cases": 22,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Defiance",
+    "state": "Ohio",
+    "fips": 39039,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Delaware",
+    "state": "Ohio",
+    "fips": 39041,
+    "cases": 47,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Erie",
+    "state": "Ohio",
+    "fips": 39043,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fairfield",
+    "state": "Ohio",
+    "fips": 39045,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Ohio",
+    "fips": 39047,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Ohio",
+    "fips": 39049,
+    "cases": 391,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fulton",
+    "state": "Ohio",
+    "fips": 39051,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gallia",
+    "state": "Ohio",
+    "fips": 39053,
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Geauga",
+    "state": "Ohio",
+    "fips": 39055,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Ohio",
+    "fips": 39057,
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hamilton",
+    "state": "Ohio",
+    "fips": 39061,
+    "cases": 154,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hancock",
+    "state": "Ohio",
+    "fips": 39063,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Highland",
+    "state": "Ohio",
+    "fips": 39071,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Holmes",
+    "state": "Ohio",
+    "fips": 39075,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Huron",
+    "state": "Ohio",
+    "fips": 39077,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Ohio",
+    "fips": 39081,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Knox",
+    "state": "Ohio",
+    "fips": 39083,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lake",
+    "state": "Ohio",
+    "fips": 39085,
+    "cases": 48,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Ohio",
+    "fips": 39087,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Licking",
+    "state": "Ohio",
+    "fips": 39089,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Logan",
+    "state": "Ohio",
+    "fips": 39091,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lorain",
+    "state": "Ohio",
+    "fips": 39093,
+    "cases": 85,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lucas",
+    "state": "Ohio",
+    "fips": 39095,
+    "cases": 171,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Ohio",
+    "fips": 39097,
+    "cases": 9,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mahoning",
+    "state": "Ohio",
+    "fips": 39099,
+    "cases": 177,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Ohio",
+    "fips": 39101,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Medina",
+    "state": "Ohio",
+    "fips": 39103,
+    "cases": 59,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mercer",
+    "state": "Ohio",
+    "fips": 39107,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Miami",
+    "state": "Ohio",
+    "fips": 39109,
+    "cases": 60,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Ohio",
+    "fips": 39113,
+    "cases": 41,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morrow",
+    "state": "Ohio",
+    "fips": 39117,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Muskingum",
+    "state": "Ohio",
+    "fips": 39119,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ottawa",
+    "state": "Ohio",
+    "fips": 39123,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Perry",
+    "state": "Ohio",
+    "fips": 39127,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pickaway",
+    "state": "Ohio",
+    "fips": 39129,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pike",
+    "state": "Ohio",
+    "fips": 39131,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Portage",
+    "state": "Ohio",
+    "fips": 39133,
+    "cases": 44,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Preble",
+    "state": "Ohio",
+    "fips": 39135,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richland",
+    "state": "Ohio",
+    "fips": 39139,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ross",
+    "state": "Ohio",
+    "fips": 39141,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sandusky",
+    "state": "Ohio",
+    "fips": 39143,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Seneca",
+    "state": "Ohio",
+    "fips": 39147,
+    "cases": 4,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Ohio",
+    "fips": 39149,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stark",
+    "state": "Ohio",
+    "fips": 39151,
+    "cases": 52,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Summit",
+    "state": "Ohio",
+    "fips": 39153,
+    "cases": 144,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Trumbull",
+    "state": "Ohio",
+    "fips": 39155,
+    "cases": 58,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tuscarawas",
+    "state": "Ohio",
+    "fips": 39157,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Ohio",
+    "fips": 39159,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Van Wert",
+    "state": "Ohio",
+    "fips": 39161,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Ohio",
+    "fips": 39165,
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Ohio",
+    "fips": 39167,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "Ohio",
+    "fips": 39169,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wood",
+    "state": "Ohio",
+    "fips": 39173,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wyandot",
+    "state": "Ohio",
+    "fips": 39175,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adair",
+    "state": "Oklahoma",
+    "fips": 40001,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Beckham",
+    "state": "Oklahoma",
+    "fips": 40009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bryan",
+    "state": "Oklahoma",
+    "fips": 40013,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caddo",
+    "state": "Oklahoma",
+    "fips": 40015,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Canadian",
+    "state": "Oklahoma",
+    "fips": 40017,
+    "cases": 24,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carter",
+    "state": "Oklahoma",
+    "fips": 40019,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cherokee",
+    "state": "Oklahoma",
+    "fips": 40021,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Choctaw",
+    "state": "Oklahoma",
+    "fips": 40023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cleveland",
+    "state": "Oklahoma",
+    "fips": 40027,
+    "cases": 87,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Comanche",
+    "state": "Oklahoma",
+    "fips": 40031,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cotton",
+    "state": "Oklahoma",
+    "fips": 40033,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Craig",
+    "state": "Oklahoma",
+    "fips": 40035,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Creek",
+    "state": "Oklahoma",
+    "fips": 40037,
+    "cases": 27,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Custer",
+    "state": "Oklahoma",
+    "fips": 40039,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Delaware",
+    "state": "Oklahoma",
+    "fips": 40041,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Garfield",
+    "state": "Oklahoma",
+    "fips": 40047,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Garvin",
+    "state": "Oklahoma",
+    "fips": 40049,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grady",
+    "state": "Oklahoma",
+    "fips": 40051,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greer",
+    "state": "Oklahoma",
+    "fips": 40055,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Oklahoma",
+    "fips": 40065,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kay",
+    "state": "Oklahoma",
+    "fips": 40071,
+    "cases": 24,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Latimer",
+    "state": "Oklahoma",
+    "fips": 40077,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Le Flore",
+    "state": "Oklahoma",
+    "fips": 40079,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Oklahoma",
+    "fips": 40081,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Logan",
+    "state": "Oklahoma",
+    "fips": 40083,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Love",
+    "state": "Oklahoma",
+    "fips": 40085,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mayes",
+    "state": "Oklahoma",
+    "fips": 40097,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McClain",
+    "state": "Oklahoma",
+    "fips": 40087,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Muskogee",
+    "state": "Oklahoma",
+    "fips": 40101,
+    "cases": 13,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Noble",
+    "state": "Oklahoma",
+    "fips": 40103,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nowata",
+    "state": "Oklahoma",
+    "fips": 40105,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oklahoma",
+    "state": "Oklahoma",
+    "fips": 40109,
+    "cases": 192,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Okmulgee",
+    "state": "Oklahoma",
+    "fips": 40111,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Osage",
+    "state": "Oklahoma",
+    "fips": 40113,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ottawa",
+    "state": "Oklahoma",
+    "fips": 40115,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pawnee",
+    "state": "Oklahoma",
+    "fips": 40117,
+    "cases": 15,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Payne",
+    "state": "Oklahoma",
+    "fips": 40119,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pittsburg",
+    "state": "Oklahoma",
+    "fips": 40121,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pontotoc",
+    "state": "Oklahoma",
+    "fips": 40123,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pottawatomie",
+    "state": "Oklahoma",
+    "fips": 40125,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rogers",
+    "state": "Oklahoma",
+    "fips": 40131,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Seminole",
+    "state": "Oklahoma",
+    "fips": 40133,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sequoyah",
+    "state": "Oklahoma",
+    "fips": 40135,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stephens",
+    "state": "Oklahoma",
+    "fips": 40137,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Texas",
+    "state": "Oklahoma",
+    "fips": 40139,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tulsa",
+    "state": "Oklahoma",
+    "fips": 40143,
+    "cases": 115,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wagoner",
+    "state": "Oklahoma",
+    "fips": 40145,
+    "cases": 15,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Oklahoma",
+    "fips": 40147,
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Oregon",
+    "fips": 41003,
+    "cases": 13,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "fips": 41005,
+    "cases": 56,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clatsop",
+    "state": "Oregon",
+    "fips": 41007,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "Oregon",
+    "fips": 41009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Deschutes",
+    "state": "Oregon",
+    "fips": 41017,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Oregon",
+    "fips": 41019,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "Oregon",
+    "fips": 41023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hood River",
+    "state": "Oregon",
+    "fips": 41027,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Oregon",
+    "fips": 41029,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Josephine",
+    "state": "Oregon",
+    "fips": 41033,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Klamath",
+    "state": "Oregon",
+    "fips": 41035,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lane",
+    "state": "Oregon",
+    "fips": 41039,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Oregon",
+    "fips": 41041,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Linn",
+    "state": "Oregon",
+    "fips": 41043,
+    "cases": 37,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Malheur",
+    "state": "Oregon",
+    "fips": 41045,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Oregon",
+    "fips": 41047,
+    "cases": 151,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morrow",
+    "state": "Oregon",
+    "fips": 41049,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Multnomah",
+    "state": "Oregon",
+    "fips": 41051,
+    "cases": 134,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Polk",
+    "state": "Oregon",
+    "fips": 41053,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tillamook",
+    "state": "Oregon",
+    "fips": 41057,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Umatilla",
+    "state": "Oregon",
+    "fips": 41059,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Oregon",
+    "fips": 41061,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wallowa",
+    "state": "Oregon",
+    "fips": 41063,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wasco",
+    "state": "Oregon",
+    "fips": 41065,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Oregon",
+    "fips": 41067,
+    "cases": 189,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yamhill",
+    "state": "Oregon",
+    "fips": 41071,
+    "cases": 17,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Pennsylvania",
+    "fips": 42001,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allegheny",
+    "state": "Pennsylvania",
+    "fips": 42003,
+    "cases": 356,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Armstrong",
+    "state": "Pennsylvania",
+    "fips": 42005,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Beaver",
+    "state": "Pennsylvania",
+    "fips": 42007,
+    "cases": 54,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bedford",
+    "state": "Pennsylvania",
+    "fips": 42009,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Berks",
+    "state": "Pennsylvania",
+    "fips": 42011,
+    "cases": 151,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Blair",
+    "state": "Pennsylvania",
+    "fips": 42013,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bradford",
+    "state": "Pennsylvania",
+    "fips": 42015,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bucks",
+    "state": "Pennsylvania",
+    "fips": 42017,
+    "cases": 319,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Butler",
+    "state": "Pennsylvania",
+    "fips": 42019,
+    "cases": 64,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cambria",
+    "state": "Pennsylvania",
+    "fips": 42021,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cameron",
+    "state": "Pennsylvania",
+    "fips": 42023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carbon",
+    "state": "Pennsylvania",
+    "fips": 42025,
+    "cases": 23,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Centre",
+    "state": "Pennsylvania",
+    "fips": 42027,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chester",
+    "state": "Pennsylvania",
+    "fips": 42029,
+    "cases": 183,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clarion",
+    "state": "Pennsylvania",
+    "fips": 42031,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clearfield",
+    "state": "Pennsylvania",
+    "fips": 42033,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "Pennsylvania",
+    "fips": 42037,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Pennsylvania",
+    "fips": 42039,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cumberland",
+    "state": "Pennsylvania",
+    "fips": 42041,
+    "cases": 38,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dauphin",
+    "state": "Pennsylvania",
+    "fips": 42043,
+    "cases": 59,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Delaware",
+    "state": "Pennsylvania",
+    "fips": 42045,
+    "cases": 390,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Erie",
+    "state": "Pennsylvania",
+    "fips": 42049,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Pennsylvania",
+    "fips": 42051,
+    "cases": 14,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Pennsylvania",
+    "fips": 42055,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Pennsylvania",
+    "fips": 42059,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Huntingdon",
+    "state": "Pennsylvania",
+    "fips": 42061,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Indiana",
+    "state": "Pennsylvania",
+    "fips": 42063,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Juniata",
+    "state": "Pennsylvania",
+    "fips": 42067,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lackawanna",
+    "state": "Pennsylvania",
+    "fips": 42069,
+    "cases": 85,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lancaster",
+    "state": "Pennsylvania",
+    "fips": 42071,
+    "cases": 157,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Pennsylvania",
+    "fips": 42073,
+    "cases": 13,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lebanon",
+    "state": "Pennsylvania",
+    "fips": 42075,
+    "cases": 36,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lehigh",
+    "state": "Pennsylvania",
+    "fips": 42077,
+    "cases": 374,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Luzerne",
+    "state": "Pennsylvania",
+    "fips": 42079,
+    "cases": 282,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lycoming",
+    "state": "Pennsylvania",
+    "fips": 42081,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McKean",
+    "state": "Pennsylvania",
+    "fips": 42083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mercer",
+    "state": "Pennsylvania",
+    "fips": 42085,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mifflin",
+    "state": "Pennsylvania",
+    "fips": 42087,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Pennsylvania",
+    "fips": 42089,
+    "cases": 278,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Pennsylvania",
+    "fips": 42091,
+    "cases": 649,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montour",
+    "state": "Pennsylvania",
+    "fips": 42093,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Northampton",
+    "state": "Pennsylvania",
+    "fips": 42095,
+    "cases": 312,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Northumberland",
+    "state": "Pennsylvania",
+    "fips": 42097,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Perry",
+    "state": "Pennsylvania",
+    "fips": 42099,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Philadelphia",
+    "state": "Pennsylvania",
+    "fips": 42101,
+    "cases": 1478,
+    "deaths": 14
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pike",
+    "state": "Pennsylvania",
+    "fips": 42103,
+    "cases": 57,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Potter",
+    "state": "Pennsylvania",
+    "fips": 42105,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Schuylkill",
+    "state": "Pennsylvania",
+    "fips": 42107,
+    "cases": 47,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Snyder",
+    "state": "Pennsylvania",
+    "fips": 42109,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Somerset",
+    "state": "Pennsylvania",
+    "fips": 42111,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Susquehanna",
+    "state": "Pennsylvania",
+    "fips": 42115,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tioga",
+    "state": "Pennsylvania",
+    "fips": 42117,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Pennsylvania",
+    "fips": 42119,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Venango",
+    "state": "Pennsylvania",
+    "fips": 42121,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Pennsylvania",
+    "fips": 42123,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Pennsylvania",
+    "fips": 42125,
+    "cases": 35,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "Pennsylvania",
+    "fips": 42127,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Westmoreland",
+    "state": "Pennsylvania",
+    "fips": 42129,
+    "cases": 72,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "York",
+    "state": "Pennsylvania",
+    "fips": 42133,
+    "cases": 66,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Puerto Rico",
+    "fips": "",
+    "cases": 286,
+    "deaths": 11
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bristol",
+    "state": "Rhode Island",
+    "fips": 44001,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kent",
+    "state": "Rhode Island",
+    "fips": 44003,
+    "cases": 55,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newport",
+    "state": "Rhode Island",
+    "fips": 44005,
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Providence",
+    "state": "Rhode Island",
+    "fips": 44007,
+    "cases": 391,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Rhode Island",
+    "fips": "",
+    "cases": 179,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Rhode Island",
+    "fips": 44009,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Abbeville",
+    "state": "South Carolina",
+    "fips": 45001,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Aiken",
+    "state": "South Carolina",
+    "fips": 45003,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Allendale",
+    "state": "South Carolina",
+    "fips": 45005,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anderson",
+    "state": "South Carolina",
+    "fips": 45007,
+    "cases": 47,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bamberg",
+    "state": "South Carolina",
+    "fips": 45009,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barnwell",
+    "state": "South Carolina",
+    "fips": 45011,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Beaufort",
+    "state": "South Carolina",
+    "fips": 45013,
+    "cases": 101,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Berkeley",
+    "state": "South Carolina",
+    "fips": 45015,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calhoun",
+    "state": "South Carolina",
+    "fips": 45017,
+    "cases": 3,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Charleston",
+    "state": "South Carolina",
+    "fips": 45019,
+    "cases": 190,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chester",
+    "state": "South Carolina",
+    "fips": 45023,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chesterfield",
+    "state": "South Carolina",
+    "fips": 45025,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clarendon",
+    "state": "South Carolina",
+    "fips": 45027,
+    "cases": 28,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Colleton",
+    "state": "South Carolina",
+    "fips": 45029,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Darlington",
+    "state": "South Carolina",
+    "fips": 45031,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dillon",
+    "state": "South Carolina",
+    "fips": 45033,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dorchester",
+    "state": "South Carolina",
+    "fips": 45035,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Edgefield",
+    "state": "South Carolina",
+    "fips": 45037,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fairfield",
+    "state": "South Carolina",
+    "fips": 45039,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Florence",
+    "state": "South Carolina",
+    "fips": 45041,
+    "cases": 21,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Georgetown",
+    "state": "South Carolina",
+    "fips": 45043,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greenville",
+    "state": "South Carolina",
+    "fips": 45045,
+    "cases": 129,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greenwood",
+    "state": "South Carolina",
+    "fips": 45047,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Horry",
+    "state": "South Carolina",
+    "fips": 45051,
+    "cases": 42,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jasper",
+    "state": "South Carolina",
+    "fips": 45053,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kershaw",
+    "state": "South Carolina",
+    "fips": 45055,
+    "cases": 116,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lancaster",
+    "state": "South Carolina",
+    "fips": 45057,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Laurens",
+    "state": "South Carolina",
+    "fips": 45059,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "South Carolina",
+    "fips": 45061,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lexington",
+    "state": "South Carolina",
+    "fips": 45063,
+    "cases": 61,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "South Carolina",
+    "fips": 45067,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marlboro",
+    "state": "South Carolina",
+    "fips": 45069,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newberry",
+    "state": "South Carolina",
+    "fips": 45071,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oconee",
+    "state": "South Carolina",
+    "fips": 45073,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orangeburg",
+    "state": "South Carolina",
+    "fips": 45075,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pickens",
+    "state": "South Carolina",
+    "fips": 45077,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richland",
+    "state": "South Carolina",
+    "fips": 45079,
+    "cases": 176,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Saluda",
+    "state": "South Carolina",
+    "fips": 45081,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Spartanburg",
+    "state": "South Carolina",
+    "fips": 45083,
+    "cases": 45,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sumter",
+    "state": "South Carolina",
+    "fips": 45085,
+    "cases": 48,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "South Carolina",
+    "fips": 45087,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Williamsburg",
+    "state": "South Carolina",
+    "fips": 45089,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "York",
+    "state": "South Carolina",
+    "fips": 45091,
+    "cases": 66,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Aurora",
+    "state": "South Dakota",
+    "fips": 46003,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Beadle",
+    "state": "South Dakota",
+    "fips": 46005,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bon Homme",
+    "state": "South Dakota",
+    "fips": 46009,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brookings",
+    "state": "South Dakota",
+    "fips": 46011,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brown",
+    "state": "South Dakota",
+    "fips": 46013,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Charles Mix",
+    "state": "South Dakota",
+    "fips": 46023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "South Dakota",
+    "fips": 46025,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "South Dakota",
+    "fips": 46027,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Codington",
+    "state": "South Dakota",
+    "fips": 46029,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Davison",
+    "state": "South Dakota",
+    "fips": 46035,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Deuel",
+    "state": "South Dakota",
+    "fips": 46039,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fall River",
+    "state": "South Dakota",
+    "fips": 46047,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Faulk",
+    "state": "South Dakota",
+    "fips": 46049,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hamlin",
+    "state": "South Dakota",
+    "fips": 46057,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hughes",
+    "state": "South Dakota",
+    "fips": 46065,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hutchinson",
+    "state": "South Dakota",
+    "fips": 46067,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kingsbury",
+    "state": "South Dakota",
+    "fips": 46077,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "South Dakota",
+    "fips": 46081,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "South Dakota",
+    "fips": 46083,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lyman",
+    "state": "South Dakota",
+    "fips": 46085,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "South Dakota",
+    "fips": 46091,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McCook",
+    "state": "South Dakota",
+    "fips": 46087,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Meade",
+    "state": "South Dakota",
+    "fips": 46093,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Minnehaha",
+    "state": "South Dakota",
+    "fips": 46099,
+    "cases": 40,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pennington",
+    "state": "South Dakota",
+    "fips": 46103,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roberts",
+    "state": "South Dakota",
+    "fips": 46109,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Todd",
+    "state": "South Dakota",
+    "fips": 46121,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Turner",
+    "state": "South Dakota",
+    "fips": 46125,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "South Dakota",
+    "fips": 46127,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yankton",
+    "state": "South Dakota",
+    "fips": 46135,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anderson",
+    "state": "Tennessee",
+    "fips": 47001,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bedford",
+    "state": "Tennessee",
+    "fips": 47003,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Tennessee",
+    "fips": 47005,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bledsoe",
+    "state": "Tennessee",
+    "fips": 47007,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Blount",
+    "state": "Tennessee",
+    "fips": 47009,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bradley",
+    "state": "Tennessee",
+    "fips": 47011,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Campbell",
+    "state": "Tennessee",
+    "fips": 47013,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cannon",
+    "state": "Tennessee",
+    "fips": 47015,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Tennessee",
+    "fips": 47017,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carter",
+    "state": "Tennessee",
+    "fips": 47019,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cheatham",
+    "state": "Tennessee",
+    "fips": 47021,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chester",
+    "state": "Tennessee",
+    "fips": 47023,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Claiborne",
+    "state": "Tennessee",
+    "fips": 47025,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Tennessee",
+    "fips": 47027,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cocke",
+    "state": "Tennessee",
+    "fips": 47029,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coffee",
+    "state": "Tennessee",
+    "fips": 47031,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cumberland",
+    "state": "Tennessee",
+    "fips": 47035,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Davidson",
+    "state": "Tennessee",
+    "fips": 47037,
+    "cases": 673,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeKalb",
+    "state": "Tennessee",
+    "fips": 47041,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dickson",
+    "state": "Tennessee",
+    "fips": 47043,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dyer",
+    "state": "Tennessee",
+    "fips": 47045,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Tennessee",
+    "fips": 47047,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fentress",
+    "state": "Tennessee",
+    "fips": 47049,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Tennessee",
+    "fips": 47051,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gibson",
+    "state": "Tennessee",
+    "fips": 47053,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Giles",
+    "state": "Tennessee",
+    "fips": 47055,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grainger",
+    "state": "Tennessee",
+    "fips": 47057,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Tennessee",
+    "fips": 47059,
+    "cases": 15,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grundy",
+    "state": "Tennessee",
+    "fips": 47061,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hamblen",
+    "state": "Tennessee",
+    "fips": 47063,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hamilton",
+    "state": "Tennessee",
+    "fips": 47065,
+    "cases": 50,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hardeman",
+    "state": "Tennessee",
+    "fips": 47069,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hardin",
+    "state": "Tennessee",
+    "fips": 47071,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hawkins",
+    "state": "Tennessee",
+    "fips": 47073,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Haywood",
+    "state": "Tennessee",
+    "fips": 47075,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Tennessee",
+    "fips": 47079,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hickman",
+    "state": "Tennessee",
+    "fips": 47081,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Houston",
+    "state": "Tennessee",
+    "fips": 47083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Humphreys",
+    "state": "Tennessee",
+    "fips": 47085,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Tennessee",
+    "fips": 47089,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Tennessee",
+    "fips": 47091,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Knox",
+    "state": "Tennessee",
+    "fips": 47093,
+    "cases": 78,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lauderdale",
+    "state": "Tennessee",
+    "fips": 47097,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lawrence",
+    "state": "Tennessee",
+    "fips": 47099,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lewis",
+    "state": "Tennessee",
+    "fips": 47101,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Tennessee",
+    "fips": 47103,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Loudon",
+    "state": "Tennessee",
+    "fips": 47105,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Macon",
+    "state": "Tennessee",
+    "fips": 47111,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Tennessee",
+    "fips": 47113,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "Tennessee",
+    "fips": 47115,
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "Tennessee",
+    "fips": 47117,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Maury",
+    "state": "Tennessee",
+    "fips": 47119,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McMinn",
+    "state": "Tennessee",
+    "fips": 47107,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McNairy",
+    "state": "Tennessee",
+    "fips": 47109,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Meigs",
+    "state": "Tennessee",
+    "fips": 47121,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Tennessee",
+    "fips": 47123,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Tennessee",
+    "fips": 47125,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Tennessee",
+    "fips": 47129,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Obion",
+    "state": "Tennessee",
+    "fips": 47131,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Overton",
+    "state": "Tennessee",
+    "fips": 47133,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Perry",
+    "state": "Tennessee",
+    "fips": 47135,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Putnam",
+    "state": "Tennessee",
+    "fips": 47141,
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rhea",
+    "state": "Tennessee",
+    "fips": 47143,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roane",
+    "state": "Tennessee",
+    "fips": 47145,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Robertson",
+    "state": "Tennessee",
+    "fips": 47147,
+    "cases": 35,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rutherford",
+    "state": "Tennessee",
+    "fips": 47149,
+    "cases": 86,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Scott",
+    "state": "Tennessee",
+    "fips": 47151,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sequatchie",
+    "state": "Tennessee",
+    "fips": 47153,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sevier",
+    "state": "Tennessee",
+    "fips": 47155,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Tennessee",
+    "fips": 47157,
+    "cases": 496,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Smith",
+    "state": "Tennessee",
+    "fips": 47159,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sullivan",
+    "state": "Tennessee",
+    "fips": 47163,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sumner",
+    "state": "Tennessee",
+    "fips": 47165,
+    "cases": 201,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tipton",
+    "state": "Tennessee",
+    "fips": 47167,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Trousdale",
+    "state": "Tennessee",
+    "fips": 47169,
+    "cases": 5,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unicoi",
+    "state": "Tennessee",
+    "fips": 47171,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Union",
+    "state": "Tennessee",
+    "fips": 47173,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Tennessee",
+    "fips": "",
+    "cases": 307,
+    "deaths": 17
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Tennessee",
+    "fips": 47177,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Tennessee",
+    "fips": 47179,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wayne",
+    "state": "Tennessee",
+    "fips": 47181,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Weakley",
+    "state": "Tennessee",
+    "fips": 47183,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "White",
+    "state": "Tennessee",
+    "fips": 47185,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Williamson",
+    "state": "Tennessee",
+    "fips": 47187,
+    "cases": 148,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilson",
+    "state": "Tennessee",
+    "fips": 47189,
+    "cases": 45,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Anderson",
+    "state": "Texas",
+    "fips": 48001,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Andrews",
+    "state": "Texas",
+    "fips": 48003,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Angelina",
+    "state": "Texas",
+    "fips": 48005,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Aransas",
+    "state": "Texas",
+    "fips": 48007,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Atascosa",
+    "state": "Texas",
+    "fips": 48013,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Austin",
+    "state": "Texas",
+    "fips": 48015,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bastrop",
+    "state": "Texas",
+    "fips": 48021,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bell",
+    "state": "Texas",
+    "fips": 48027,
+    "cases": 44,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bexar",
+    "state": "Texas",
+    "fips": 48029,
+    "cases": 207,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Blanco",
+    "state": "Texas",
+    "fips": 48031,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bowie",
+    "state": "Texas",
+    "fips": 48037,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brazoria",
+    "state": "Texas",
+    "fips": 48039,
+    "cases": 95,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brazos",
+    "state": "Texas",
+    "fips": 48041,
+    "cases": 63,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brown",
+    "state": "Texas",
+    "fips": 48049,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Burleson",
+    "state": "Texas",
+    "fips": 48051,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Burnet",
+    "state": "Texas",
+    "fips": 48053,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caldwell",
+    "state": "Texas",
+    "fips": 48055,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calhoun",
+    "state": "Texas",
+    "fips": 48057,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cameron",
+    "state": "Texas",
+    "fips": 48061,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Camp",
+    "state": "Texas",
+    "fips": 48063,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cass",
+    "state": "Texas",
+    "fips": 48067,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Castro",
+    "state": "Texas",
+    "fips": 48069,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chambers",
+    "state": "Texas",
+    "fips": 48071,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cherokee",
+    "state": "Texas",
+    "fips": 48073,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clay",
+    "state": "Texas",
+    "fips": 48077,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Collin",
+    "state": "Texas",
+    "fips": 48085,
+    "cases": 184,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Colorado",
+    "state": "Texas",
+    "fips": 48089,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Comal",
+    "state": "Texas",
+    "fips": 48091,
+    "cases": 12,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Comanche",
+    "state": "Texas",
+    "fips": 48093,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cooke",
+    "state": "Texas",
+    "fips": 48097,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Coryell",
+    "state": "Texas",
+    "fips": 48099,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crane",
+    "state": "Texas",
+    "fips": 48103,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dallas",
+    "state": "Texas",
+    "fips": 48113,
+    "cases": 631,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dawson",
+    "state": "Texas",
+    "fips": 48115,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "DeWitt",
+    "state": "Texas",
+    "fips": 48123,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Deaf Smith",
+    "state": "Texas",
+    "fips": 48117,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Denton",
+    "state": "Texas",
+    "fips": 48121,
+    "cases": 206,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Eastland",
+    "state": "Texas",
+    "fips": 48133,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ector",
+    "state": "Texas",
+    "fips": 48135,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "El Paso",
+    "state": "Texas",
+    "fips": 48141,
+    "cases": 50,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ellis",
+    "state": "Texas",
+    "fips": 48139,
+    "cases": 20,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Erath",
+    "state": "Texas",
+    "fips": 48143,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Falls",
+    "state": "Texas",
+    "fips": 48145,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fannin",
+    "state": "Texas",
+    "fips": 48147,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fayette",
+    "state": "Texas",
+    "fips": 48149,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fort Bend",
+    "state": "Texas",
+    "fips": 48157,
+    "cases": 163,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Texas",
+    "fips": 48159,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gaines",
+    "state": "Texas",
+    "fips": 48165,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Galveston",
+    "state": "Texas",
+    "fips": 48167,
+    "cases": 118,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gonzales",
+    "state": "Texas",
+    "fips": 48177,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gray",
+    "state": "Texas",
+    "fips": 48179,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grayson",
+    "state": "Texas",
+    "fips": 48181,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gregg",
+    "state": "Texas",
+    "fips": 48183,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grimes",
+    "state": "Texas",
+    "fips": 48185,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Guadalupe",
+    "state": "Texas",
+    "fips": 48187,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hale",
+    "state": "Texas",
+    "fips": 48189,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hall",
+    "state": "Texas",
+    "fips": 48191,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hardin",
+    "state": "Texas",
+    "fips": 48199,
+    "cases": 13,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harris",
+    "state": "Texas",
+    "fips": 48201,
+    "cases": 847,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrison",
+    "state": "Texas",
+    "fips": 48203,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hays",
+    "state": "Texas",
+    "fips": 48209,
+    "cases": 38,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henderson",
+    "state": "Texas",
+    "fips": 48213,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hidalgo",
+    "state": "Texas",
+    "fips": 48215,
+    "cases": 46,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hill",
+    "state": "Texas",
+    "fips": 48217,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hockley",
+    "state": "Texas",
+    "fips": 48219,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hood",
+    "state": "Texas",
+    "fips": 48221,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hopkins",
+    "state": "Texas",
+    "fips": 48223,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hunt",
+    "state": "Texas",
+    "fips": 48231,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Texas",
+    "fips": 48239,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Texas",
+    "fips": 48245,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Texas",
+    "fips": 48251,
+    "cases": 12,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Karnes",
+    "state": "Texas",
+    "fips": 48255,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kaufman",
+    "state": "Texas",
+    "fips": 48257,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kendall",
+    "state": "Texas",
+    "fips": 48259,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kerr",
+    "state": "Texas",
+    "fips": 48265,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kleberg",
+    "state": "Texas",
+    "fips": 48273,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lamar",
+    "state": "Texas",
+    "fips": 48277,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lamb",
+    "state": "Texas",
+    "fips": 48279,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lavaca",
+    "state": "Texas",
+    "fips": 48285,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Leon",
+    "state": "Texas",
+    "fips": 48289,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Liberty",
+    "state": "Texas",
+    "fips": 48291,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Limestone",
+    "state": "Texas",
+    "fips": 48293,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Live Oak",
+    "state": "Texas",
+    "fips": 48297,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Llano",
+    "state": "Texas",
+    "fips": 48299,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lubbock",
+    "state": "Texas",
+    "fips": 48303,
+    "cases": 100,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lynn",
+    "state": "Texas",
+    "fips": 48305,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Martin",
+    "state": "Texas",
+    "fips": 48317,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Matagorda",
+    "state": "Texas",
+    "fips": 48321,
+    "cases": 29,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Maverick",
+    "state": "Texas",
+    "fips": 48323,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "McLennan",
+    "state": "Texas",
+    "fips": 48309,
+    "cases": 48,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Medina",
+    "state": "Texas",
+    "fips": 48325,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Midland",
+    "state": "Texas",
+    "fips": 48329,
+    "cases": 16,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Milam",
+    "state": "Texas",
+    "fips": 48331,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montague",
+    "state": "Texas",
+    "fips": 48337,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Texas",
+    "fips": 48339,
+    "cases": 110,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Moore",
+    "state": "Texas",
+    "fips": 48341,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morris",
+    "state": "Texas",
+    "fips": 48343,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nacogdoches",
+    "state": "Texas",
+    "fips": 48347,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Navarro",
+    "state": "Texas",
+    "fips": 48349,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newton",
+    "state": "Texas",
+    "fips": 48351,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nueces",
+    "state": "Texas",
+    "fips": 48355,
+    "cases": 34,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oldham",
+    "state": "Texas",
+    "fips": 48359,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "Texas",
+    "fips": 48361,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Parker",
+    "state": "Texas",
+    "fips": 48367,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Polk",
+    "state": "Texas",
+    "fips": 48373,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Potter",
+    "state": "Texas",
+    "fips": 48375,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randall",
+    "state": "Texas",
+    "fips": 48381,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Robertson",
+    "state": "Texas",
+    "fips": 48395,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockwall",
+    "state": "Texas",
+    "fips": 48397,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rusk",
+    "state": "Texas",
+    "fips": 48401,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Augustine",
+    "state": "Texas",
+    "fips": 48405,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Jacinto",
+    "state": "Texas",
+    "fips": 48407,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Patricio",
+    "state": "Texas",
+    "fips": 48409,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shelby",
+    "state": "Texas",
+    "fips": 48419,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Smith",
+    "state": "Texas",
+    "fips": 48423,
+    "cases": 43,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Starr",
+    "state": "Texas",
+    "fips": 48427,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Swisher",
+    "state": "Texas",
+    "fips": 48437,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tarrant",
+    "state": "Texas",
+    "fips": 48439,
+    "cases": 288,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Taylor",
+    "state": "Texas",
+    "fips": 48441,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Terry",
+    "state": "Texas",
+    "fips": 48445,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tom Green",
+    "state": "Texas",
+    "fips": 48451,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Travis",
+    "state": "Texas",
+    "fips": 48453,
+    "cases": 244,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Upshur",
+    "state": "Texas",
+    "fips": 48459,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Uvalde",
+    "state": "Texas",
+    "fips": 48463,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Val Verde",
+    "state": "Texas",
+    "fips": 48465,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Van Zandt",
+    "state": "Texas",
+    "fips": 48467,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Victoria",
+    "state": "Texas",
+    "fips": 48469,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walker",
+    "state": "Texas",
+    "fips": 48471,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Waller",
+    "state": "Texas",
+    "fips": 48473,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Texas",
+    "fips": 48477,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Webb",
+    "state": "Texas",
+    "fips": 48479,
+    "cases": 45,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wharton",
+    "state": "Texas",
+    "fips": 48481,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wichita",
+    "state": "Texas",
+    "fips": 48485,
+    "cases": 38,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Willacy",
+    "state": "Texas",
+    "fips": 48489,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Williamson",
+    "state": "Texas",
+    "fips": 48491,
+    "cases": 55,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wilson",
+    "state": "Texas",
+    "fips": 48493,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wise",
+    "state": "Texas",
+    "fips": 48497,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wood",
+    "state": "Texas",
+    "fips": 48499,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yoakum",
+    "state": "Texas",
+    "fips": 48501,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Young",
+    "state": "Texas",
+    "fips": 48503,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Box Elder",
+    "state": "Utah",
+    "fips": 49003,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cache",
+    "state": "Utah",
+    "fips": 49005,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Davis",
+    "state": "Utah",
+    "fips": 49011,
+    "cases": 84,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Garfield",
+    "state": "Utah",
+    "fips": 49017,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iron",
+    "state": "Utah",
+    "fips": 49021,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "Utah",
+    "fips": 49029,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Salt Lake",
+    "state": "Utah",
+    "fips": 49035,
+    "cases": 396,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Juan",
+    "state": "Utah",
+    "fips": 49037,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Summit",
+    "state": "Utah",
+    "fips": 49043,
+    "cases": 172,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tooele",
+    "state": "Utah",
+    "fips": 49045,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Uintah",
+    "state": "Utah",
+    "fips": 49047,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Utah",
+    "fips": "",
+    "cases": 19,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Utah",
+    "state": "Utah",
+    "fips": 49049,
+    "cases": 70,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wasatch",
+    "state": "Utah",
+    "fips": 49051,
+    "cases": 50,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Utah",
+    "fips": 49053,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Weber",
+    "state": "Utah",
+    "fips": 49057,
+    "cases": 41,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Addison",
+    "state": "Vermont",
+    "fips": 50001,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bennington",
+    "state": "Vermont",
+    "fips": 50003,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Caledonia",
+    "state": "Vermont",
+    "fips": 50005,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chittenden",
+    "state": "Vermont",
+    "fips": 50007,
+    "cases": 164,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Vermont",
+    "fips": 50011,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lamoille",
+    "state": "Vermont",
+    "fips": 50015,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "Vermont",
+    "fips": 50017,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orleans",
+    "state": "Vermont",
+    "fips": 50019,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rutland",
+    "state": "Vermont",
+    "fips": 50021,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Vermont",
+    "fips": "",
+    "cases": 23,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Vermont",
+    "fips": 50023,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Windham",
+    "state": "Vermont",
+    "fips": 50025,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Windsor",
+    "state": "Vermont",
+    "fips": 50027,
+    "cases": 18,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Unknown",
+    "state": "Virgin Islands",
+    "fips": "",
+    "cases": 30,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Accomack",
+    "state": "Virginia",
+    "fips": 51001,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Albemarle",
+    "state": "Virginia",
+    "fips": 51003,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alexandria city",
+    "state": "Virginia",
+    "fips": 51510,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Alleghany",
+    "state": "Virginia",
+    "fips": 51005,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Amelia",
+    "state": "Virginia",
+    "fips": 51007,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Amherst",
+    "state": "Virginia",
+    "fips": 51009,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Arlington",
+    "state": "Virginia",
+    "fips": 51013,
+    "cases": 119,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Augusta",
+    "state": "Virginia",
+    "fips": 51015,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bedford",
+    "state": "Virginia",
+    "fips": 51019,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Botetourt",
+    "state": "Virginia",
+    "fips": 51023,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bristol city",
+    "state": "Virginia",
+    "fips": 51520,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brunswick",
+    "state": "Virginia",
+    "fips": 51025,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Buckingham",
+    "state": "Virginia",
+    "fips": 51029,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Campbell",
+    "state": "Virginia",
+    "fips": 51031,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carroll",
+    "state": "Virginia",
+    "fips": 51035,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Charlottesville city",
+    "state": "Virginia",
+    "fips": 51540,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chesapeake city",
+    "state": "Virginia",
+    "fips": 51550,
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chesterfield",
+    "state": "Virginia",
+    "fips": 51041,
+    "cases": 59,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clarke",
+    "state": "Virginia",
+    "fips": 51043,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Covington city",
+    "state": "Virginia",
+    "fips": 51580,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Culpeper",
+    "state": "Virginia",
+    "fips": 51047,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Danville city",
+    "state": "Virginia",
+    "fips": 51590,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fairfax",
+    "state": "Virginia",
+    "fips": 51059,
+    "cases": 288,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fairfax city",
+    "state": "Virginia",
+    "fips": 51600,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fauquier",
+    "state": "Virginia",
+    "fips": 51061,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fluvanna",
+    "state": "Virginia",
+    "fips": 51065,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Virginia",
+    "fips": 51067,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin city",
+    "state": "Virginia",
+    "fips": 51620,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Frederick",
+    "state": "Virginia",
+    "fips": 51069,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fredericksburg city",
+    "state": "Virginia",
+    "fips": 51630,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Galax city",
+    "state": "Virginia",
+    "fips": 51640,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Gloucester",
+    "state": "Virginia",
+    "fips": 51073,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Goochland",
+    "state": "Virginia",
+    "fips": 51075,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greene",
+    "state": "Virginia",
+    "fips": 51079,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greensville",
+    "state": "Virginia",
+    "fips": 51081,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Halifax",
+    "state": "Virginia",
+    "fips": 51083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hampton city",
+    "state": "Virginia",
+    "fips": 51650,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hanover",
+    "state": "Virginia",
+    "fips": 51085,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrisonburg city",
+    "state": "Virginia",
+    "fips": 51660,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henrico",
+    "state": "Virginia",
+    "fips": 51087,
+    "cases": 78,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Henry",
+    "state": "Virginia",
+    "fips": 51089,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hopewell city",
+    "state": "Virginia",
+    "fips": 51670,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Isle of Wight",
+    "state": "Virginia",
+    "fips": 51093,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "James city",
+    "state": "Virginia",
+    "fips": 51095,
+    "cases": 95,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "King George",
+    "state": "Virginia",
+    "fips": 51099,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "King William",
+    "state": "Virginia",
+    "fips": 51101,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "King and Queen",
+    "state": "Virginia",
+    "fips": 51097,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lancaster",
+    "state": "Virginia",
+    "fips": 51103,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lee",
+    "state": "Virginia",
+    "fips": 51105,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Loudoun",
+    "state": "Virginia",
+    "fips": 51107,
+    "cases": 105,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Louisa",
+    "state": "Virginia",
+    "fips": 51109,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lynchburg city",
+    "state": "Virginia",
+    "fips": 51680,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Madison",
+    "state": "Virginia",
+    "fips": 51113,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Manassas Park city",
+    "state": "Virginia",
+    "fips": 51685,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Manassas city",
+    "state": "Virginia",
+    "fips": 51683,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mathews",
+    "state": "Virginia",
+    "fips": 51115,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mecklenburg",
+    "state": "Virginia",
+    "fips": 51117,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Montgomery",
+    "state": "Virginia",
+    "fips": 51121,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nelson",
+    "state": "Virginia",
+    "fips": 51125,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "New Kent",
+    "state": "Virginia",
+    "fips": 51127,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Newport News city",
+    "state": "Virginia",
+    "fips": 51700,
+    "cases": 29,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Norfolk city",
+    "state": "Virginia",
+    "fips": 51710,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Northampton",
+    "state": "Virginia",
+    "fips": 51131,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Northumberland",
+    "state": "Virginia",
+    "fips": 51133,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Nottoway",
+    "state": "Virginia",
+    "fips": 51135,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Orange",
+    "state": "Virginia",
+    "fips": 51137,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Page",
+    "state": "Virginia",
+    "fips": 51139,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Petersburg city",
+    "state": "Virginia",
+    "fips": 51730,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pittsylvania",
+    "state": "Virginia",
+    "fips": 51143,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Poquoson city",
+    "state": "Virginia",
+    "fips": 51735,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Portsmouth city",
+    "state": "Virginia",
+    "fips": 51740,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Powhatan",
+    "state": "Virginia",
+    "fips": 51145,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Prince Edward",
+    "state": "Virginia",
+    "fips": 51147,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Prince George",
+    "state": "Virginia",
+    "fips": 51149,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Prince William",
+    "state": "Virginia",
+    "fips": 51153,
+    "cases": 106,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Radford city",
+    "state": "Virginia",
+    "fips": 51750,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richmond",
+    "state": "Virginia",
+    "fips": 51159,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richmond city",
+    "state": "Virginia",
+    "fips": 51760,
+    "cases": 33,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roanoke",
+    "state": "Virginia",
+    "fips": 51161,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roanoke city",
+    "state": "Virginia",
+    "fips": 51770,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockbridge",
+    "state": "Virginia",
+    "fips": 51163,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rockingham",
+    "state": "Virginia",
+    "fips": 51165,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Shenandoah",
+    "state": "Virginia",
+    "fips": 51171,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Smyth",
+    "state": "Virginia",
+    "fips": 51173,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Southampton",
+    "state": "Virginia",
+    "fips": 51175,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Spotsylvania",
+    "state": "Virginia",
+    "fips": 51177,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stafford",
+    "state": "Virginia",
+    "fips": 51179,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Suffolk city",
+    "state": "Virginia",
+    "fips": 51800,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Surry",
+    "state": "Virginia",
+    "fips": 51181,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sussex",
+    "state": "Virginia",
+    "fips": 51183,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tazewell",
+    "state": "Virginia",
+    "fips": 51185,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Virginia Beach city",
+    "state": "Virginia",
+    "fips": 51810,
+    "cases": 88,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Warren",
+    "state": "Virginia",
+    "fips": 51187,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Virginia",
+    "fips": 51191,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Waynesboro city",
+    "state": "Virginia",
+    "fips": 51820,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Williamsburg city",
+    "state": "Virginia",
+    "fips": 51830,
+    "cases": 9,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winchester city",
+    "state": "Virginia",
+    "fips": 51840,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wythe",
+    "state": "Virginia",
+    "fips": 51197,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "York",
+    "state": "Virginia",
+    "fips": 51199,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Adams",
+    "state": "Washington",
+    "fips": 53001,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Benton",
+    "state": "Washington",
+    "fips": 53005,
+    "cases": 108,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chelan",
+    "state": "Washington",
+    "fips": 53007,
+    "cases": 15,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clallam",
+    "state": "Washington",
+    "fips": 53009,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Washington",
+    "fips": 53011,
+    "cases": 130,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "Washington",
+    "fips": 53013,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cowlitz",
+    "state": "Washington",
+    "fips": 53015,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Washington",
+    "fips": 53017,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ferry",
+    "state": "Washington",
+    "fips": 53019,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Franklin",
+    "state": "Washington",
+    "fips": 53021,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "Washington",
+    "fips": 53025,
+    "cases": 73,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grays Harbor",
+    "state": "Washington",
+    "fips": 53027,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Island",
+    "state": "Washington",
+    "fips": 53029,
+    "cases": 114,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Washington",
+    "fips": 53031,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "King",
+    "state": "Washington",
+    "fips": 53033,
+    "cases": 2498,
+    "deaths": 166
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kitsap",
+    "state": "Washington",
+    "fips": 53035,
+    "cases": 74,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kittitas",
+    "state": "Washington",
+    "fips": 53037,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Klickitat",
+    "state": "Washington",
+    "fips": 53039,
+    "cases": 9,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lewis",
+    "state": "Washington",
+    "fips": 53041,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Lincoln",
+    "state": "Washington",
+    "fips": 53043,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mason",
+    "state": "Washington",
+    "fips": 53045,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Okanogan",
+    "state": "Washington",
+    "fips": 53047,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pierce",
+    "state": "Washington",
+    "fips": 53053,
+    "cases": 423,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-01",
+    "county": "San Juan",
+    "state": "Washington",
+    "fips": 53055,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Skagit",
+    "state": "Washington",
+    "fips": 53057,
+    "cases": 143,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Skamania",
+    "state": "Washington",
+    "fips": 53059,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Snohomish",
+    "state": "Washington",
+    "fips": 53061,
+    "cases": 1304,
+    "deaths": 39
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Spokane",
+    "state": "Washington",
+    "fips": 53063,
+    "cases": 145,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Stevens",
+    "state": "Washington",
+    "fips": 53065,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Thurston",
+    "state": "Washington",
+    "fips": 53067,
+    "cases": 51,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walla Walla",
+    "state": "Washington",
+    "fips": 53071,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Whatcom",
+    "state": "Washington",
+    "fips": 53073,
+    "cases": 144,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Whitman",
+    "state": "Washington",
+    "fips": 53075,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Yakima",
+    "state": "Washington",
+    "fips": 53077,
+    "cases": 200,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Barbour",
+    "state": "West Virginia",
+    "fips": 54001,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Berkeley",
+    "state": "West Virginia",
+    "fips": 54003,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Cabell",
+    "state": "West Virginia",
+    "fips": 54011,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Greenbrier",
+    "state": "West Virginia",
+    "fips": 54025,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hancock",
+    "state": "West Virginia",
+    "fips": 54029,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hardy",
+    "state": "West Virginia",
+    "fips": 54031,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Harrison",
+    "state": "West Virginia",
+    "fips": 54033,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "West Virginia",
+    "fips": 54035,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "West Virginia",
+    "fips": 54037,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kanawha",
+    "state": "West Virginia",
+    "fips": 54039,
+    "cases": 37,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Logan",
+    "state": "West Virginia",
+    "fips": 54045,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marion",
+    "state": "West Virginia",
+    "fips": 54049,
+    "cases": 8,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marshall",
+    "state": "West Virginia",
+    "fips": 54051,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mason",
+    "state": "West Virginia",
+    "fips": 54053,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Mercer",
+    "state": "West Virginia",
+    "fips": 54055,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monongalia",
+    "state": "West Virginia",
+    "fips": 54061,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Morgan",
+    "state": "West Virginia",
+    "fips": 54065,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ohio",
+    "state": "West Virginia",
+    "fips": 54069,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pleasants",
+    "state": "West Virginia",
+    "fips": 54073,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Preston",
+    "state": "West Virginia",
+    "fips": 54077,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Putnam",
+    "state": "West Virginia",
+    "fips": 54079,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Raleigh",
+    "state": "West Virginia",
+    "fips": 54081,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Randolph",
+    "state": "West Virginia",
+    "fips": 54083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Roane",
+    "state": "West Virginia",
+    "fips": 54087,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Tucker",
+    "state": "West Virginia",
+    "fips": 54093,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Upshur",
+    "state": "West Virginia",
+    "fips": 54097,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wetzel",
+    "state": "West Virginia",
+    "fips": 54103,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wirt",
+    "state": "West Virginia",
+    "fips": 54105,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wood",
+    "state": "West Virginia",
+    "fips": 54107,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ashland",
+    "state": "Wisconsin",
+    "fips": 55003,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Bayfield",
+    "state": "Wisconsin",
+    "fips": 55007,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Brown",
+    "state": "Wisconsin",
+    "fips": 55009,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Buffalo",
+    "state": "Wisconsin",
+    "fips": 55011,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Calumet",
+    "state": "Wisconsin",
+    "fips": 55015,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Chippewa",
+    "state": "Wisconsin",
+    "fips": 55017,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Clark",
+    "state": "Wisconsin",
+    "fips": 55019,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Columbia",
+    "state": "Wisconsin",
+    "fips": 55021,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Crawford",
+    "state": "Wisconsin",
+    "fips": 55023,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dane",
+    "state": "Wisconsin",
+    "fips": 55025,
+    "cases": 215,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dodge",
+    "state": "Wisconsin",
+    "fips": 55027,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Door",
+    "state": "Wisconsin",
+    "fips": 55029,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Douglas",
+    "state": "Wisconsin",
+    "fips": 55031,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Dunn",
+    "state": "Wisconsin",
+    "fips": 55033,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Eau Claire",
+    "state": "Wisconsin",
+    "fips": 55035,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fond du Lac",
+    "state": "Wisconsin",
+    "fips": 55039,
+    "cases": 24,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Grant",
+    "state": "Wisconsin",
+    "fips": 55043,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Green",
+    "state": "Wisconsin",
+    "fips": 55045,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iowa",
+    "state": "Wisconsin",
+    "fips": 55049,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Iron",
+    "state": "Wisconsin",
+    "fips": 55051,
+    "cases": 1,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jackson",
+    "state": "Wisconsin",
+    "fips": 55053,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Jefferson",
+    "state": "Wisconsin",
+    "fips": 55055,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Juneau",
+    "state": "Wisconsin",
+    "fips": 55057,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Kenosha",
+    "state": "Wisconsin",
+    "fips": 55059,
+    "cases": 54,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "La Crosse",
+    "state": "Wisconsin",
+    "fips": 55063,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marathon",
+    "state": "Wisconsin",
+    "fips": 55073,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marinette",
+    "state": "Wisconsin",
+    "fips": 55075,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Marquette",
+    "state": "Wisconsin",
+    "fips": 55077,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Menominee",
+    "state": "Wisconsin",
+    "fips": 55078,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Milwaukee",
+    "state": "Wisconsin",
+    "fips": 55079,
+    "cases": 780,
+    "deaths": 16
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Monroe",
+    "state": "Wisconsin",
+    "fips": 55081,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oconto",
+    "state": "Wisconsin",
+    "fips": 55083,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Oneida",
+    "state": "Wisconsin",
+    "fips": 55085,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Outagamie",
+    "state": "Wisconsin",
+    "fips": 55087,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Ozaukee",
+    "state": "Wisconsin",
+    "fips": 55089,
+    "cases": 46,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Pierce",
+    "state": "Wisconsin",
+    "fips": 55093,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Portage",
+    "state": "Wisconsin",
+    "fips": 55097,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Racine",
+    "state": "Wisconsin",
+    "fips": 55101,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Richland",
+    "state": "Wisconsin",
+    "fips": 55103,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Rock",
+    "state": "Wisconsin",
+    "fips": 55105,
+    "cases": 17,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sauk",
+    "state": "Wisconsin",
+    "fips": 55111,
+    "cases": 14,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sheboygan",
+    "state": "Wisconsin",
+    "fips": 55117,
+    "cases": 14,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "St. Croix",
+    "state": "Wisconsin",
+    "fips": 55109,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Vilas",
+    "state": "Wisconsin",
+    "fips": 55125,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Walworth",
+    "state": "Wisconsin",
+    "fips": 55127,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Washington",
+    "state": "Wisconsin",
+    "fips": 55131,
+    "cases": 44,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Waukesha",
+    "state": "Wisconsin",
+    "fips": 55133,
+    "cases": 107,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Waupaca",
+    "state": "Wisconsin",
+    "fips": 55135,
+    "cases": 2,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Winnebago",
+    "state": "Wisconsin",
+    "fips": 55139,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Wood",
+    "state": "Wisconsin",
+    "fips": 55141,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Albany",
+    "state": "Wyoming",
+    "fips": 56001,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Campbell",
+    "state": "Wyoming",
+    "fips": 56005,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Carbon",
+    "state": "Wyoming",
+    "fips": 56007,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Converse",
+    "state": "Wyoming",
+    "fips": 56009,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Fremont",
+    "state": "Wyoming",
+    "fips": 56013,
+    "cases": 25,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Goshen",
+    "state": "Wyoming",
+    "fips": 56015,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Hot Springs",
+    "state": "Wyoming",
+    "fips": 56017,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Johnson",
+    "state": "Wyoming",
+    "fips": 56019,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Laramie",
+    "state": "Wyoming",
+    "fips": 56021,
+    "cases": 35,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Natrona",
+    "state": "Wyoming",
+    "fips": 56025,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Park",
+    "state": "Wyoming",
+    "fips": 56029,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sheridan",
+    "state": "Wyoming",
+    "fips": 56033,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sublette",
+    "state": "Wyoming",
+    "fips": 56035,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Sweetwater",
+    "state": "Wyoming",
+    "fips": 56037,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "county": "Teton",
+    "state": "Wyoming",
+    "fips": 56039,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
     "county": "Washakie",
     "state": "Wyoming",
     "fips": 56043,

@@ -28,9 +28,8 @@ const attached = function () {
                 state.name = name;
 
                 if (!state.death) state.death = 0;
-                if (!state.pending) state.pending = 0;
                 if (!state.negative) state.negative = 0;
-                state.total = state.negative + state.positive + state.pending;
+                state.total = state.negative + state.positive;
             }
 
             States = data.body;

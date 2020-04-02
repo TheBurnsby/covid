@@ -49,10 +49,6 @@ export default `
                         <h4>{{state.negative}}</h4>
                         <span>negative</span>
                     </div>
-                    <div class="col-xs">
-                        <h4>{{state.pending}}</h4>
-                        <span>pending</span>
-                    </div>
                 </div>
             </div>
         </div>

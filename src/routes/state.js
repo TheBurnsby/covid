@@ -37,10 +37,9 @@ const attached = function () {
             for (var stateDay of stateByDay) {
 
                 if (!stateDay.death) stateDay.death = 0;
-                if (!stateDay.pending) stateDay.pending = 0;
                 if (!stateDay.negative) stateDay.negative = 0;
                 if (!stateDay.hospitalized) stateDay.hospitalized = 'na';
-                stateDay.total = stateDay.positive + stateDay.negative + stateDay.pending;
+                stateDay.total = stateDay.positive + stateDay.negative;
 
                 var year = stateDay.date.toString().slice(0,4);
                 var month = stateDay.date.toString().slice(4, 6);
@@ -51,7 +50,7 @@ const attached = function () {
                 options.datasets[0].values.push(stateDay.total);
                 options.datasets[1].values.push(stateDay.positive);
                 options.datasets[2].values.push(stateDay.negative);
-                
+
             }
 
             options.title = model.state.state + ' Testing Results';

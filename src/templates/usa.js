@@ -27,6 +27,10 @@ export default `
                         <span>deaths</span>
                     </div>
                     <div class="col-xs">
+                        <h3>{{usCurrent.hospitalized}}</h3>
+                        <span>hospitalized</span>
+                    </div>
+                    <div class="col-xs">
                         <h3 style="color: crimson">+ {{increase}}</h3>
                         <span>new cases</span>
                         <div class="range">({{start}} - {{end}})</div>
@@ -101,10 +105,6 @@ export default `
                     <div class="col-xs">
                         <h4>{{$state.negative}}</h4>
                         <span>negative</span>
-                    </div>
-                    <div class="col-xs">
-                        <h4>{{$state.pending}}</h4>
-                        <span>pending</span>
                     </div>
                 </div>
                 <div class="update">
