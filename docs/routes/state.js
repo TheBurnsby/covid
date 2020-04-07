@@ -1,6 +1,6 @@
 import Graph from '../modules/graph.js';
-import Counties from '../assets/counties.js';
 import template from '../templates/state.js';
+import Counties from '../assets/counties.js';
 import Abbreviations from '../modules/abbreviations.js';
 
 let CountiesCurrent;
