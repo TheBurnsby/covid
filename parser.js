@@ -4,13 +4,14 @@ const Fs = require('fs');
 
 // (async function(file, csv) {
 (async function () {
-
-    const counties = './nytimes/covid-19-data/us-counties.csv';
-    // const countries = './wod/covid-19-data/public/data/ecdc/full_data.csv';
+    // const location = 'counties';
+    const location = 'countries';
+    // const file = './nytimes/covid-19-data/us-counties.csv';
+    const file = './wod/covid-19-data/public/data/ecdc/full_data.csv';
     // const file = file;
     const results = [];
 
-    const result = await Fs.promises.readFile(counties, 'utf8');
+    const result = await Fs.promises.readFile(file, 'utf8');
 
     const rows = result.split('\n');
     let headers;
@@ -30,7 +31,7 @@ const Fs = require('fs');
     });
 
     const stringified = 'export default ' + JSON.stringify(results);
-    await Fs.promises.writeFile(`./src/assets/counties.js`, stringified);
+    await Fs.promises.writeFile(`./src/assets/${location}.js`, stringified);
 
     // Fs.promises.writeFile(`./src/assets/${file}.js`, results)
 }());
