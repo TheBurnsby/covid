@@ -10,7 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "muleify -pw src docs -ss docs",
-    "s": "http-server ./docs --cors -c-1"
+    "s": "http-server ./docs --cors -c-1",
+    "compile": "node parser ./nytimes/covid-19-data/us-counties.csv ./wod/covid-19-data/public/data/ecdc/full_data.csv"
   },
   "repository": {
     "type": "git",
