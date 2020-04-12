@@ -1,8 +1,8 @@
 'use strict';
 
 const Fs = require('fs');
-
-// (async function(file, csv) {
+// NOTE: git pull nytimes and wod
+//          - run compile
 (async function () {
     const [ ,,counties, countries ] = process.argv;
     const locations = [ counties, countries ];
@@ -33,5 +33,4 @@ const Fs = require('fs');
         const stringified = 'export default ' + JSON.stringify(results);
         await Fs.promises.writeFile(`./src/assets/${save}.js`, stringified);
     }
-
 }());
