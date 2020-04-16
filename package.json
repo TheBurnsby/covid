@@ -10,8 +10,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "muleify -pw src docs -ss docs",
-    "s": "http-server ./docs --cors -c-1",
-    "compile": "node parser ./nytimes/covid-19-data/us-counties.csv ./wod/covid-19-data/public/data/ecdc/full_data.csv"
+    "wod": "curl https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/ecdc/full_data.csv --output wod/data.csv",
+    "nytimes": "curl https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv --output nytimes/data.csv",
+    "compile": "node parser ./nytimes/data.csv ./wod/data.csv"
   },
   "repository": {
     "type": "git",
