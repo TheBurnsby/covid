@@ -49,6 +49,7 @@ const attached = function () {
             };
 
             for (var day of data.body) {
+                day.negative = day.negative ? day.negative : 0;
                 options.datasets[1].values.push(day.positive);
                 options.datasets[2].values.push(day.negative);
                 options.datasets[0].values.push(day.positive + day.negative);
@@ -60,7 +61,7 @@ const attached = function () {
 
                 options.dates.push(date);
             }
-
+            // console.log(options);
             Graph(options);
         }),
 
